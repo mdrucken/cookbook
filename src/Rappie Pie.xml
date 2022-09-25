@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rappie Pie</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>2</qty> <unit>Liter</unit> <item>Hühnerbrühe</item> </ing>
+    <ing> <qty>1</qty> <unit>kg</unit> <item>Hühnerbrust</item> </ing>
+    <ing> <qty>2,5</qty> <unit>kg</unit> <item>Kartoffeln</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebeln in Butter goldbraun braten.</step>
+      <step>Hühnerbrust in große Stücke schneiden, in 2 Liter kochende Hühnerbrühe geben und 20 Minuten köcheln lassen.</step>
+      <step>Kartoffeln raspeln und Flüssigkeit auspressen. Salzen, pfeffern und mit Hühnerbrühe aufgiessen, bis sie eine breiige Konsistenz haben.</step>
+      <step>Auflaufform mit Butter einfetten. Die Hälfte der Kartoffeln darin verteilen, Zwiebeln und dann Hähnchenbrust darauf verteieln. Zum Schluss die restlichen Kartoffeln darauf geben.</step>
+      <step>Bei 180 Grad Umluft für eine Stunde backen. Gelegentlich Hühnerbrühe nachgiessen.</step>
+      <step></step>
+      <step></step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

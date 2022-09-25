@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Moelleux au chocolat</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Schokolade, zartbitter</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    </ingredients>
+    <directions>
+	  <step>200g Butter und 200g Schokolade im Wasserbad schmelzen.</step>
+	  <step>4 Eier und 150g Zucker schaumig schlagen, 125g Mehl mit 1 TL Backpulver dazu geben. Schokolade unterrühren.</step>
+      <step>Für 20-30 Minten bei 200 Grad backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

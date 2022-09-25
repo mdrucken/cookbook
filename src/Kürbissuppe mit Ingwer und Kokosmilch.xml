@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kürbissuppe mit Ingwer und Kokosmilch</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Hokkaidokürbis</item> </ing>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Möhren</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>2,5</qty> <unit>cm</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>500</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>1/2</qty> <unit></unit> <item>Zitrone, Saft</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Koriander</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kürbis, Möhren, Ingwer, Zwiebel würfeln und in Butter andünsten.</step>
+	  <step>Mit Brühe aufgießen und 15-20 Minuten weich kochen. Fein pürieren.</step>
+	  <step>Kokosmilch unterrühren, mit Salz, Pfeffer, Sojasauce, Zitronensaft abschmecken. Mit Koriander garnieren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

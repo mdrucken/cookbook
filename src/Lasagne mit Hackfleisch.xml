@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Lasagne mit Hackfleisch</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Rinderhack</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Tomaten</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Oregano</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika, edelsüß</item> </ing>
+	  <ing> <qty>40</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>40</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Käse, gerieben</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Lasagneplatten</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Hackfleisch anbraten, Zwiebel dazugeben. 1 EL Tomatenmark und Tomaten zugeben.</step>
+	  <step>Knoblauch dazugeben, mit Salz, Pfeffer, Paprika und Oregano würzen. 10 Minuten kochen lassen.</step>
+	  <step>Béchamelsoße: 40g Butter erhitzen, 40g Mehl dazugeben und anschwitzen. Gemüsebrühe langsam hinzugeben. Milch hinzugeben und aufkochen lassen. Mit Salz, Pfeffer, Muskat abschmecken.</step>
+	  <step>In der Auflaufform Lasagneplatten, Hackfleisch und Béchamelsoße schichten. Mit Béchamelsoße und Käse abschließen.</step>
+	  <step>30-40 Minuten bei 180 Grad Umluft backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

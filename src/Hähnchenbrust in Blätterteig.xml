@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hähnchenbrust in Blätterteig</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Personen</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>170</qty> <unit>g</unit> <item>gemischte Pilze</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>1-2</qty> <unit></unit> <item>Knoblauchzehen, fein gehackt</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz und Pfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit>Hand voll</unit> <item>glatte Petersilie, gehackt</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Hähnchenbrüste, ohne Haut</item> </ing>
+	  <ing> <qty>1</qty> <unit>Paket</unit> <item>Blätterteig</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei, verquirlt</item> </ing>
+	  <ing> <qty>2</qty> <unit>gehäufte EL</unit> <item>grober Senf</item> </ing>
+	  <ing> <qty>1</qty> <unit>Glas</unit> <item>Weißwein</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Sahne oder Creme double</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Backofen auf 200°C vorheizen.</step>
+      <step>Eine Hälfte der Pilze grob, die andere Hälfte fein hacken. Knoblauch und Pilze mit etwas Olivenöl etwa 10 Minuten langsam anbraten. Abschmecken, Petersilie dazugeben und abkühlen lassen.</step>
+      <step>Hähnchenbrust einschneiden und mit Pilzen füllen. Hähnchenbrust mit Blätterteig umwickeln und mit Ei bepinseln. Ca. 35 Minuten bei 200°C backen.</step>
+      <step>Senf und Weißwein in einem Topf reduzieren. Sahne hinzugeben und eindicken. Abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

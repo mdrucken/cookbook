@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Quiche mit Schafskäse und Zucchini </title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Portion</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>130</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>20</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>65</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kräuter der Provence</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Schafskäse</item> </ing>
+	  <ing> <qty>30</qty> <unit>g</unit> <item>Sonnenblumenkerne</item> </ing>
+	  <ing> <qty>15</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+	  <ing> <qty>75</qty> <unit>g</unit> <item>Saure Sahne</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>130g Mehl, 20g Parmesan, 1/2 TL Salz, 65g Butter, 1 Ei zu einem Teig kneten. 30 Minuten kalt stellen.</step>
+	  <step>Zucchini längs vierteln und in Scheiben schneiden.</step>
+	  <step>Teig in die Form geben und 20 Minuten bei 170 Grad backen.</step>
+	  <step>2 Eier trennen, Eiweiß steif schlagen.</step>
+	  <step>150g Schafskäse in kleine Würfel schneiden, mit 2 Eigelb, 75g saurer Sahne, 15g Parmesan und Sonnenblumenkerne verrühren. Mit Pfeffer, Salz, Kräutern der Provence würzen. Zuchinischeiben unterheben.</step>
+	  <step>Käsemischung in der Springform verteilen. Weitere 20 Minuten bei 170 Grad backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

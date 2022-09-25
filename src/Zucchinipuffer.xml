@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Zuccinipuffer</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>0.5</qty> <unit>Bund</unit> <item>Petersilie</item> </ing>
+	  <ing> <qty>3</qty> <unit>Stängel</unit> <item>Minze oder Dill</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Greyerzer, gerieben</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>Salz</qty> <unit></unit> <item></item> </ing>
+	  <ing> <qty>Pfeffer</qty> <unit></unit> <item></item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zucchine fein raspeln, mit 0.5 TL Salz 10 Min. ziehen lassen</step>
+      <step>Frühlingszwiebeln in feine Ringe schneiden</step>
+      <step>Kräuter fein hacken</step>
+      <step>Zucchiniraspeln ausdrücken, mit Käse, Kräutern, Eiern, Mehl verrühren, salzen, pfeffern</step>
+      <step>Puffer bei mittlerer Hitze 4 Minuten gold braun braten, abtropfen lassen</step>
+    </directions>
+  </recipe>
+</recipeml>
+

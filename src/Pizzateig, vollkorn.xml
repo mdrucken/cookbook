@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Pizzateig, vollkorn</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Weizenvollkornmehl</item> </ing>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Hartweizengries</item> </ing>
+	  <ing> <qty>350</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+	  <ing> <qty>430</qty> <unit>g</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>40</qty> <unit>g</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>15</qty> <unit>g</unit> <item>Salz</item> </ing>
+	  <ing> <qty>7</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten vermischen und 10 Minuten kneten.</step>
+	  <step>Eine Stunde bei Raumtemperatur (20 Grad) gehen lassen.</step>
+	  <step>Teig dehnen und falten.</step>
+	  <step>Teig im Kühlschrank für 24-72 Stunden gehen lassen. Alle 24 Stunden das Gas ausdrücken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

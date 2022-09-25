@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Lachs - Spinat - Curry</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stange</unit> <item>Zimt</item> </ing>
+	  <ing> <qty>6</qty> <unit></unit> <item>Pfefferkörner</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Gewürznelken</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Zucker, braun</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stück</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>4</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chillischote</item> </ing>
+	  <ing> <qty>1/4</qty> <unit>TL</unit> <item>Garam Masala</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel, gemahlen</item> </ing>
+	  <ing> <qty>1 1/2</qty> <unit>TL</unit> <item>Koriander, gemahlen</item> </ing>
+	  <ing> <qty>1/4</qty> <unit>TL</unit> <item>Kurkuma</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Cayennepfeffer</item> </ing>
+	  <ing> <qty>1 1/4</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Blattspinat</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Lachsfilet</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zimt, Pfeffer, Nelken im Öl 1-2 Minuten andünsten.</step>
+	  <step>Zwiebeln und Zucker hinzugeben und 12-15 Minuten karamelisieren.</step>
+	  <step>Tomaten zugeben und abgedeckt 5 Minuten köcheln lassen.</step>
+	  <step>Ingwer, Knoblauch, Chillischote, Garam Masala, Kreuzkümmel, Koriander, Kurkuma, Cayennepfeffer und Salz hinzugeben. 8 Minuten kochen lassen.</step>
+	  <step>Spinat hinzugeben und zusammenfallen lassen.</step>
+	  <step>Lachs in Stücke schneiden und zugeben. 5-7 Minuten zugedeckt köcheln lassen.</step>
+	  <step>Zimtstange herausnehmen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

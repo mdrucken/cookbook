@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spinat-Lauch-Lachs Quiche</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Ei</item> </ing>
+	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Blattspinat, TK</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stange</unit> <item>Lauch, klein</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Räucherlachs</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Schmand</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Ricotta</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskatnuss</item> </ing>
+    </ingredients>
+    <directions>
+	  <step>Ein Ei, 200g Mehl, 100g Butter und eine Prise Salz zu einem Teig kneten. Eine Stunde kalt stellen.</step>
+      <step>1 Zwiebel würfeln, Lauch in Ringe scheiden, 5 Minuten in Butter andünsten.</step>
+	  <step>Lachs in Streifen schneiden, mit Spinat, Zwiebeln, Lauch mischen.</step>
+	  <step>Schmand, Ricotta, Eier verrühren und zu dem Lachs geben. Mit Salz, Pfeffer, Muskatnuss würzen.</step>
+	  <step>Boden der Quiche-Form mit Teig ausrollen, Masse darauf verteilen, 40 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>	  
+    </directions>
+	<tags>
+		<tag>french</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

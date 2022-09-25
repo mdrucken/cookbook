@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tom Kha Gai</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>800</qty> <unit>ml</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty>250</qty> <unit>nl</unit> <item>Hühnerbrühe</item> </ing>
+	  <ing> <qty>5</qty> <unit>Stängel</unit> <item>Zitronengras</item> </ing>
+	  <ing> <qty>7</qty> <unit>cm</unit> <item>Galgant</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Chilischoten, rot</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Fischsauce</item> </ing>
+	  <ing> <qty>8</qty> <unit></unit> <item>Kaffir-Limettenblätter</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Hühnerbrüste</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Champignons</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Limetten, Saft</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Fischsauce</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Palmzucker</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Koriandergrün</item> </ing>
+	  <ing> <qty>5</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Chilischoten</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zitronengras in 4 cm lange Stücke schneiden, Galgant in Scheiben schneiden.</step>
+	  <step>200 ml Kokosmilch und 250 ml Brühe zum kochen bringen, Zitronengras, Galgant, Kaffir-Limettenblätter und Chilis hinzugeben. Mit Fischsauce abschmecken. 10 Minuten köcheln lassen.</step>
+	  <step>Zitronengras, Galgant und Limettenblätter aus der Suppe fischen.</step>
+	  <step>Champignons hinzugeben und weitere 5 Minuten kochen.</step>
+	  <step>Hühnchenfleisch hinzugeben und wenige Minuten auf kleiner Flamme garen.</step>
+	  <step>400 ml Kokosmilch hinzufügen. Mit Limettensaft, Zucker Fischsauce abschmecken.</step>
+	  <step>Mit Chilistreifen, Frühlingszwiebeln, Koriandergrün garnieren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

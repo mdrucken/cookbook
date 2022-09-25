@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amerikanische Pancakes</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>200</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>400</qty> <unit>ml</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>2</qty> <unit>Pck</unit> <item>Backpulver</item> </ing>
+	  <ing> <qty>6</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Ahornsirup</item> </ing>
+    </ingredients>
+    <directions>
+      <step>6 Eier schaumig rühren.</step>
+	  <step>200ml Milch und 400ml Joghurt vermischen.</step>
+	  <step>300g Mehl, Backpulver, Milch-Joghurt Mischuung, Salz, Zucker nach und nach zu den Eiern geben. Zu einem dickflüssigen Teig verrühren.</step>
+	  <step>Pfanne auf mittlerer Stufe erhitzen, wenig Öl hineingeben. Pfannkuchen ausbacken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Indisches Butter Chicken</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Paprika edelsüß</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Limettensaft</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>2</qty> <unit>Stk</unit> <item>Ingwer, daumengroß</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>3</qty> <unit>TL</unit> <item>Cayennepfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Garam Masala</item> </ing>
+	  <ing> <qty>2</qty> <unit>Stk</unit> <item>Hähnchenbrust</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Tomaten, passiert</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Zimt</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Honig</item> </ing>
+	  <ing> <qty>150</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Zwiebel</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Hähnchenbrust in stücke schneiden. Mit 1 TL Paprikapulver, 1 EL Limettensaft, 1 TL Salz, 150 g Joghurt, 1 TL Cayennepfeffer, 1 EL Garam Masala, 1 Stk Ingwer und 1 Knoblauch Zehe mindestens eine Stunde, besser über Nacht, marinieren.</step>
+	  <step>Fleich bei 200 Grad Ober/Unterhitze für 25 Minuten im Backofen garen.</step>
+	  <step>Zwiebel in 2 El Butter glasig anschwitzen.</step>
+	  <step>500g Tomaten, 1 TL Zimt, 1 TL Salz, 2 TL Cayennepfeffer, 1 Stk Ingwer, 1 Knoblauchzehe hinzugeben, 20 Minuten mit deckel bei niedriger Temperatur köcheln.</step>
+	  <step>2 EL Butter, 1 EL Honig, 150 ml Sahne hizufügen, 3 Minuten köcheln.</step>
+	  <step>Mit Reis oder Naan servieren.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+		<tag>indian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

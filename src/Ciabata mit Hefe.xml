@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ciabata mit Hefe</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>575</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+	  <ing> <qty>390</qty> <unit>g</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>12</qty> <unit>g</unit> <item>Sakz</item> </ing>
+	  <ing> <qty>0.4</qty> <unit>g</unit> <item>Hefe</item> </ing>
+	  <ing> <qty>23</qty> <unit>g</unit> <item>Olivenöl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten zu einem Teig verkneten und 24 Stunden bei 18-20 Grad reifen lassen. Alle 8 Stunden dehnen und falten.</step>
+	  <step>Teig in drei gleich schwere, längliche Teile teilen und eine Stunde auf einem bemehlten tuch reifen lassen.</step>
+	  <step>Ofen auf 250 Grad Ober-/Unterhitze vorheizen.</step>
+	  <step>Teiglinge vorsichtig auf ein Backpapier setzen, die Teighaut etwas nach unten schieben.</step>
+	  <step>Teiglinge auf dem Blech absetzen und mit einem zweiten Blech bedeckt in den Ofen geben.</step>
+	  <step>Für 25 Minuten bei 230 Grad backen, nach 5 Minuten das obere Blech anehmen. Die letzen 2-3 Minuten auf Umluft stellen und die Ofentür für einige Sekunden öffnen, um den Wasserdampf abzulassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hähnchen-Curry mit Koriander-Chutney</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>4</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chili, grün</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Hähnchenbrust-Filets</item> </ing>
+	  <ing> <qty>6</qty> <unit>EL</unit> <item>Koriander-Chutney</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Ingwer, Knoblauch, Chili mit einer Prise Salz zu einer groben Passte zersstoßen.</step>
+	  <step>Zwiebeln in Streifen schneiden, anbraten, bis sie Farbe bekommen. Die Hälfte der Zwiebeln zur Seite stellen.</step>
+	  <step>Ingwerpaste zu den Zwiebeln geben, 3 Minuten weiter braten. Hähnchen hinzugeben und scharf anbraten. Chutney unterrühren und bei reduzierter Hitze 15 Minuten mit geschlossenem Deckel garen.</step>
+	  <step>Die übrigen Zwiebeln 10-15 Minuten bei mmittlerer Hitze weiter braten, bis sie dunkel braun sind.</step>
+	  <step>Hähnchen mit einem halben Teelöffel Salz abschmecken. Zwiebeln kurz vor dem Servieren hinzugeben.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

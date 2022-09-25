@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Donauwelle</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Backblech</unit>
+	</yield>
+    <ingredients>
+      <ing-div type="titled">
+	  <title>Teig</title>
+      <ing>
+        <qty>330</qty>
+        <unit>g</unit>
+        <item>Magarine</item>
+      </ing>
+      <ing>
+        <qty>330</qty>
+        <unit>g</unit>
+        <item>Zucker</item>
+      </ing>
+      <ing>
+        <qty>8</qty>
+        <unit>St</unit>
+        <item>Eier</item>
+      </ing>
+      <ing>
+        <qty>460</qty>
+        <unit>g</unit>
+        <item>Mehl</item>
+      </ing>
+      <ing>
+        <qty>1 1/3</qty>
+        <unit>Pkt</unit>
+        <item>Backpulver</item>
+      </ing>
+      <ing>
+        <qty>3</qty>
+        <unit>EL</unit>
+        <item>Kakao</item>
+      </ing>
+      <ing>
+        <qty>2</qty>
+        <unit>Gläser</unit>
+        <item>Schattenmorellen</item>
+     </ing>
+    </ing-div>
+    <ing-div type="titled">
+    <title>Buttercreme</title>
+      <ing>
+        <qty>0,5</qty>
+        <unit>l</unit>
+        <item>Milch</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>Pk</unit>
+        <item>Vanille-Pudding</item>
+      </ing>
+      <ing>
+        <qty>100</qty>
+        <unit>g</unit>
+        <item>Zucker</item>
+      </ing>
+      <ing>
+        <qty>250</qty>
+        <unit>g</unit>
+        <item>Butter</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>Stk</unit>
+        <item>abgeriebene Schale einer Zitrone</item>
+      </ing>
+      <ing>
+        <qty>200</qty>
+        <unit>g</unit>
+        <item>Halbbitter-Schokolade</item>
+      </ing>
+      <ing>
+        <qty>200</qty>
+        <unit>g</unit>
+        <item>Vollmilch-Schokolade</item>
+      </ing>
+      <ing>
+        <qty>100</qty>
+        <unit>g</unit>
+        <item>Kokosfett</item>
+</ing>
+</ing-div>
+    </ingredients>
+    <directions>
+      <step>Fett schaumig rühren. Zucker, Eier und Mehl unterrühren. Teig halbieren. Unter eine Hälfte Kakao rühren. Hellen Teig auf ein gefettetes Backblech streichen, dunklen Teig darauf glattstreichen. Abgetropfte Kirschen darauf verteilen. Im vorgeheizten Backofen (E-Herd: 175 Grad) ca. 30 Minuten backen. Abkühlen lassen.</step>
+      <step>Aus Milch, Puddingpulver und Zucker einen Pudding kochen. Abkühlen lassen. Butter, Zitronenschale und -saft auf höchster Stufe des Mixers 10-15 Minuten dickschaumig schlagen. Pudding nach und nach unterrühren. Auf den Kuchen streichen, kühl stellen. Schokolade und Fett im Wasserbad schmelzen, unter Rühren abkühlen lassen. Auf der Creme glatt verstreichen. Wellen hineinziehen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+    <preptime type="total">
+		<time>
+			<qty>90</qty>
+			<timeunit>Minuten</timeunit>
+		</time>
+	</preptime>
+	<energy type="piece">
+		<qty>420</qty>
+		<energyunit>kcal</energyunit>
+	</energy>
+	<difficulty>einfach</difficulty>
+  </recipe>
+</recipeml>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Pasta Teig</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Weizenmehl</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Hartweizen Gries</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Eier</item> </ing>
+    </ingredients>
+    <directions>
+      <step>150g Weizenmehl, 150g Hartweizen Gries und 3 Eier in eine Schüssel geben und vermengen.</step>
+    </directions>
+	<tags>
+		<tag>italian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

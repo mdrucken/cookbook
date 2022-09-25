@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kürbissuppe</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Hokkaidokürbis</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>750</qty> <unit>ml</unit> <item>Brühe</item> </ing>
+	  <ing> <qty>60</qty> <unit>g</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Curry</item> </ing>
+	  <ing> <qty>1</qty> <unit>Schote</unit> <item>Chili</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Becher</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kürbis in Würfel schneiden.</step>
+	  <step>Zwiebeln andünsten, salzen und Kürbiswürfel dazugeben.</step>
+	  <step>750ml Brühe dazugeben, 60g Ingwer, 1TL Curry, 1 TL Kreuzkümmel, Pfeffer, Chili, 1/2 TL Salz, 1EL Zucker dazugeben.</step>
+	  <step>Suppe 20-25 Minuten kochen, pürieren und mit Sahne abschmecken.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

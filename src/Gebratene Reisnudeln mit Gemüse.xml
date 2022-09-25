@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gebratene Reisnudeln mit Gemüse</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Reisnudeln, breit</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chilischote, rot</item> </ing>
+	  <ing> <qty>1</qty> <unit>Karotte</unit> <item></item> </ing>
+	  <ing> <qty>2</qty> <unit>Stangen</unit> <item>Sellerie</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Sambal Oelek</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Sojasauce, süß</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Sojasauce, salzig</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Reisnudeln kochen, abschrecken</step>
+	  <step>Frühlingszwiebeln in Ringe schneiden, Knoblauch, Chili fein hacken, Karotte in Stifte schneiden, Sellerie in Streifen schneiden.</step>
+	  <step>Frühlingszwiebeln, Knoblauch, Ingwer, Chili im Wok kurz anbraten. Gemüse zugeben, 2-3 Minuten braten.</step>
+	  <step>Nudeln zugeben, mit 2 TL Sambal Oelek, 3 EL süßer Sojasauce, 2 EL salziger Sojasauce würzen.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

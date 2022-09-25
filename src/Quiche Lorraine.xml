@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Quiche Lorraine </title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Ei</item> </ing>
+	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Speck, gewürfelt</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stange</unit> <item>Lauch</item> </ing>
+	  <ing> <qty>4</qty> <unit>Stk</unit> <item>Ei</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz, Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item></item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    </ingredients>
+    <directions>
+      <step>Ein Ei, 200g Mehl, 100g Butter und eine Prise Salz zu einem Teig kneten. Eine Stunde kalt stellen.</step>
+	  <step>Speck anbraten, Lauch schneiden, Zwiebel würfeln und in die Pfanne geben.</step>
+	  <step>Mürbeteig ausrollen und in die Quiche-Form geben.</step>
+	  <step>Eier, Sahne, mit Pfeffer, Lauch, Zwiebel und Speck verrühren und auf dem Teig verteilen.</step>
+	  <step>Für 35 Minuten bei 180 Grad Ober-/Unterhitze backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Naanbrot</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>30</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Wasser</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Butter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Mehl, Salz, Backpulver, Joghurt, Wasser zu einem Teig kneten, eine Stunde ruhen lassen.</step>
+	  <step>Teig zu Fladen drücken, mit etwas Butter in der Pfanne backen.</step>
+	  <step>Bei 50 Grad im Backofen war stellen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

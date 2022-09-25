@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tiroler Kaspressknödel</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Knödelbrot</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Bergkäse, würzig</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>Bund</unit> <item>Petersilie</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Majoran</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebel in Butter anschwitzen, Petersilie dazugeben, abkühlen lassen.</step>
+	  <step>Eier und Milch verrühren, mit Salz, Pfeffer und Majoran würzen.</step>
+	  <step>Knödelbrot und Käse mischen, Zwiebeln und Eier-Milch Mischung dazugeben. Gut vermischen.</step>
+	  <step>Knödel formen und flach pressen. In der Pfanne braten.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

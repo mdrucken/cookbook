@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Köttbullar</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Hackfleisch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Paniermehl</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Piffi Allkrydda</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Schlagsahne</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>1</qty> <unit>Priese</unit> <item>Zucker</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Preiselbeeren</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebel fein hacken, mit 500g Hackfleisch, 1 Ei, 2 EL Paniermehl, 1 EL Sojasauce, 1 TL Salz, 1/2 TL Pfeffer, 1 TL Piffi Allkkrzdda hinzugeben und vermischen.</step>
+	  <step>Mischung in kleine Kugeln formen. In Butter braten und bei 100°C im Backofen warmhalten.</step>
+	  <step>Fett in der Pfanne mit 100 ml Wasser abloeschen. 200 ml Schlagsahne hinzugeben und aufkochen.</step>
+	  <step>1 TL Mehl in Wasser aufloesen und zur Sosse geben.</step>
+	  <step>Sosse mit Salz, Pfeffer, Piffi Allkrydda und einer Prise Zucker abschmecken.</step>
+	  <step>Mit Kartoffelpueree und Preiselbeeren servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Cremige Kürbissuppe</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit>kg</unit> <item>Kürbisfleisch</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Möhren</item> </ing>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Kartoffeln</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>2</qty> <unit>l</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>Becher</unit> <item>Milch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kürbiskerne</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kürbis in kleine Würfel schneiden. Möhren, Zwiebeln, Kartoffeln in kleine Stücke schneiden.</step>
+	  <step>Zwiebelwürfel in der Butter andünsten, Brühe hinzugeben und aufkochen lassen.</step>
+	  <step>Kürbis, Möhren, Kartoffeln zugeben, mit Salz und Pfeffer würzen. 20-30 Minuten kochen.</step>
+	  <step>Suppe pürieren, Milch zugeben und abschmecken. Mit Kürbiskernen garnieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

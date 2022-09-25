@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Indisches Hähnchen Curry</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit></unit> <item>Hähnchenbrustfilets</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Chilipulver</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Curry</item> </ing>
+	  <ing> <qty>1</qty> <unit>kleine Dose</unit> <item>Tomaten</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Ingwer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kurkuma</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Garam Masala</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Hähnchenbrustfilets in Stücke schneiden, mit 2 TL Chilipulver, 2 TL Curry, 1 TL Salz, 1 Knoblauchzehe für 1 Stunde marinieren.</step>
+	  <step>1 EL Öl erhitzen, Zwiebel glasig dünsten, Knoblauch dazu geben.</step>
+	  <step>Gewürze nach und nach dazu geben und mit anbraten. Unter Umständen etwas Wasser dazu geben.</step>
+	  <step>Tomaten und Joghurt einrühren und dann nachsalzen.</step>
+	  <step>Hähnchen dazugeben und gar ziehen lassen.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+		<tag>indian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Linsensalat mit getrockneten Tomaten</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Linsen</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Tomaten, getrocknet in Öl</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Frühlingszwiebel</item> </ing>
+	  <ing> <qty>3</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>10</qty> <unit>Blätter</unit> <item>Basilikum</item> </ing>
+	  <ing> <qty>6</qty> <unit>EL</unit> <item>Balsamico</item> </ing>
+	  <ing> <qty>14</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Linsen 30 Minuten kochen.</step>
+	  <step>Zucchini würfeln, in 1 EL Olivenöl anbraten.</step>
+	  <step>250g getrocknete Tomaten in kleine Würfel schneiden, Frühlingszwiebeln in Ringe, Knoblauch und Basilikum fein hacken. Mit Balsamico, Pfeffer, Salz vermischen.</step>
+	  <step>Die Linsen zugeben und mit Olivenöl beträufeln.</step>
+	  <step>Salat mindestens eine Stunde ziehen lassen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

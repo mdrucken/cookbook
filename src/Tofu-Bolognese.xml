@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tofu-Bolognese</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Spaghetti</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Tofu</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Sesam</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Oregano</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Instant Gemüsebrühe</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Majoran</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika edelsüß</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty>1</qty> <unit>gr. Dose</unit> <item>Tomaten</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Crème Fraîche</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Tofu mit einer Gabel zerdrücken, mit Sesam, Salz und Oregano würzen. Dann 20 Minuten ziehen lassen.</step>
+      <step>Zwiebel fein würfeln, Knoblauch fein hacken.</step>
+      <step>Zwiebel und Knoblauch in einer Pfanne andünsten.</step>
+      <step>Tofu zugeben und scharf anbraten.</step>
+      <step>Mit Gemüsebrühe, Majoran, Pfeffer und Paprika würzen.</step>
+      <step>Tomaten und Tomatenmark zugeben.</step>
+      <step>20 Minuten bei geringer Hitze köcheln lassen.</step>
+      <step>Crème Fraîch unterheben.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

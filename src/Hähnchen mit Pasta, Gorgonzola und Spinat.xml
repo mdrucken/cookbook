@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hähnchen mit Pasta, Gorgonzola und Spinat</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Nudeln, Fusilli</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Hähnchenbrustfilet</item> </ing>
+	  <ing> <qty>1/2</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>50</qty> <unit>ml</unit> <item>Weißwein</item> </ing>
+	  <ing> <qty>50</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Blattspinat, TK</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+	  <step>Nudeln al dente kochen.</step>
+      <step>Hähnchenbrustfilet in der Dicke halbieren, anbraten, salzen, pfeffern.</step>
+	  <step>Zwiebel in Butter andünsten, mit 50ml Wein und 50ml Wasser ablöschen.</step>
+	  <step>250g Spinat zugeben und 10 Minuten zugedeckt kochen. Salzen und pfeffern.</step>
+	  <step>Nudeln und Spinat in eine Auflaufform geben, Hähnchenbrust darauf legen und mit der Soße übergiessen. Tomaten darüber geben.</step>
+	  <step>Für 8 Minuten bei 200 Grad backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

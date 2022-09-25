@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Sri Lanka Dal Curry</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+	  <ing> <qty>150</qty> <unit>ml</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Kurkuma</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Currypulver</item> </ing>
+	  <ing> <qty>10</qty> <unit>Stück</unit> <item>Curryblätter</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chilischote, grün</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>5</qty> <unit>EL</unit> <item>Kokosöl</item> </ing>
+	  
+    </ingredients>
+    <directions>
+      <step>200g Linsen, Salz, 1 Prise Kurkuma, 1 TL Currypulver, 5 Curryblätter 10 Minuten in Wasser Kochen.</step>
+	  <step>Kokosmilch hinzufügen und weiter köcheln lassen.</step>
+	  <step>1 Zwiebel, 1 Zehe Knoblauch klein hacken, mit 5 Curryblätter im 5 EL Kokosöl anbraten.</step>
+	  <step>Wenn die Zwiebel braun wird, klein gehackte Chilischote hinzugeben.</step>
+	  <step>Zwiebeln unter das Dal geben und mit Reis servieren.</step>
+    </directions>
+	<tags>
+		<tag>indian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

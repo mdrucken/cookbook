@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Mandelkuchen</title>
+    </head>    
+    <yield>
+		<qty>6-8</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>285</qty> <unit>g</unit> <item>Mandeln, nicht abgezogen</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>8</qty> <unit></unit> <item>Eiweiß</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Schale einer unbandelten Zitrone</item> </ing>
+    <ing> <qty>85</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Butter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>285g Mandeln mit 300g Zucker in Küchenmaschine geben und fein mahlen.</step>
+      <step>8 Eiweiß mit 1/2 TL Salz steif schlagen.</step>
+      <step>Mandeln mit Zitronenschale in kleinen Menen zum Eischnee geben und behutsam unterziehen.</step>
+      <step>Mehl nach und nach hineinsieben und behutsam unterziehen.</step>
+      <step>22-25cm Springform mit Butter einfetten. Masse in die Form geben und leicht schütteln, um die Masse zu verteilen.</step>
+      <step>Bei 180 Grad auf mittlerer Schiene für eine Stunde backen. Mit Holzstäbchen Garprobe machen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

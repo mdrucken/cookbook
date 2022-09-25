@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Auberginen Napoli</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Personen</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit></unit> <item>Auberginen</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>2</qty> <unit>Beutel</unit> <item>Mozzarella</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>hart gekochte Eier</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Basilikum</item> </ing>
+	  <ing> <qty>1-2</qty> <unit>Dosen</unit> <item>geschälte Tomaten</item> </ing>
+	  <ing> <qty>1</qty> <unit>El</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer und Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Auberginen in 1cm dicke Scheiben schneiden, mit Salz bestreuen, 30 Minuten ziehen lassen</step>
+      <step>Käse abtropfen lassen, Basilikum hacken, Tomaten klein schneiden</step>
+      <step>Zwiebeln anbraten, Tomaten zugeben, salzen und pfeffern. 30 Minuten schmoren lassen. Kurz vor Ende Basilikum zugeben.</step>
+      <step>Auberginen trocken tupfen, im wenig Olivenöl anbraten</step>
+      <step>Auberginen, Ei, Mozarella in einer Auflaufform schichten, mit Parmeson bestreuen und dann Tomatensauce darauf verteilen.</step>
+      <step>Bei 180°C ca 35 Minuten backen</step>
+    </directions>
+	<tags>
+		<tag>italian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

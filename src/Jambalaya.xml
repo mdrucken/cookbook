@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Jambalaya</title>
+    </head>    
+    <yield>
+		<qty>6</qty>
+		<unit>Personen</unit>
+	</yield>
+    <ingredients>
+	  <ing>
+        <qty>125</qty>
+        <unit>g</unit>
+        <item>durchwachsener Speck</item>
+      </ing>
+      <ing>
+        <qty>4</qty>
+        <unit>EL</unit>
+        <item>Öl</item>
+      </ing>
+      <ing>
+        <qty>300</qty>
+        <unit>g</unit>
+        <item>Langkornreiz</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>l</unit>
+        <item>heisse Fleichbrühe</item>
+      </ing>
+      <ing>
+        <qty>150</qty>
+        <unit>g</unit>
+        <item>Kassler Fleich ohne Knochen</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <item>kleines gebratenes Hähnchen</item>
+      </ing>
+      <ing>
+        <qty>250</qty>
+        <unit>g</unit>
+        <item>frische Krabben</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <item>grosse Zwiebel</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <item>rote Paprikaschote</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <item>grüne Paprikaschote</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <item>grüne Pfefferschote</item>
+      </ing>
+      <ing>
+        <qty>4</qty>
+        <item>Tomaten</item>
+      </ing>
+      <ing>
+        <qty>1/2</qty>
+        <unit>Tasse</unit>
+        <item>trockener Weisswein</item>
+      </ing>
+      <ing>
+        <item>Salz</item>
+      </ing>
+      <ing>
+        <item>Pfeffer</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>TL</unit>
+        <item>Rosenpaprikapulver</item>
+      </ing>
+      <ing>
+        <item>Cayennepfeffer</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>EL</unit>
+        <item>feingehackte Petersilie</item>
+      </ing>
+    </ingredients>
+    <directions>
+      <step>Den Speck in Scheiben schneiden und in einer grossen Kasserrolle glasig braten, dann herausnehmen und auf Küchengrepp legen.</step>
+      <step>2 EL Öl in der gleichen Kasserrolle erhitzen und den Reis darin glasig werden lassen. Die heisse Fleichbrühe zugiessen. Den Reis bei kleiner Hitze 15 Minuten kochen lassen.</step>
+      <step>Den Backofen auf 175 Grad vorheizen.</step>
+      <step>Das Kasselerfleich in Würfel schneiden. Das gebratene Hähnchen häuten, das Fleich von den Knochen lösen und in Streifen schneiden. Die Krabben mit Küchengrepp trockentupfen. Das Kasselerfleich, das Hähnchenfleich und die Krabben unter den Reis mischen. Die Kasserole zudecken und auf der mittleren Schiebeleiste ini den Backofen stellen.</step>
+      <step>40 Minuten braten lassen.</step>
+      <step>Die Zwiebeln und die Knoblauchzehen feinhacken. Die Paprikaschoten und die Pfefferschote entkernen und in Streifen schneiden. Die Tomaten brühen, häuten und vierteln.</step>
+      <step>Das restliche Öl in einer Pfanne erhitzen. Die Zwiebel, den Knoblauch und die Schoten darin 5 Minuten unter Rühren anbraten. Die Tomaten zugeben und das Gemüse noch 5 Minuten schmoren lassen. Den Pfanneninhalt zum Reisfleisch geben.</step>
+      <step>Den Wein zugiessen und das Gericht mit Salz und den Gewürzen abschmecken. Die Speckscheiben obenauflegen und alles 5-10 Minuten im Ofen weiterbraten lassen, bis die Flüssigkeit aufgesogen ist.</step>
+      <step>Das Jambalaya mit der Petersilie bestreuen und direkt aus der Kasserole servieren.</step>
+    </directions>
+    <energy type="person">
+		<qty>775</qty>
+		<energyunit>kcal</energyunit>
+	</energy>
+  </recipe>
+</recipeml>
+

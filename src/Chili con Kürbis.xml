@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Chili con Kürbis</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Hokkaidokürbis, klein</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Mais</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Kidneybohnen</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Zimt</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chili</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kürbis in Würfel schneiden.</step>
+	  <step>1 Zwiebel anschwitzen, 2 Knoblauchzehen hinzugeben, Kürbistücke hinzugeben und anrösten.</step>
+	  <step>Gewürze und Tomatenmark hinzugeben und noch etwas weiter rösten.</step>
+	  <step>Tomaten hinzugeben und 20-25 Minuten köcheln lassen.</step>
+	  <step>Abschmecken, Mais und Bohnen hinzugeben und 10 Minuten weiter köcheln lassen.</step>
+	  <step>Mit Brot oder Reis servieren.</step>	  
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,65 @@
+.menubar {
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #6200EE;
+    overflow-x: visible;
+    padding-top: 6px
+  }
+  
+  .menubar input {
+    padding: 6px 8px 6px 6px;
+    overflow-x: visible;
+  }
+
+  /* Style menubar links */
+  .menubar a {
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    color: #111111;
+  }
+  
+  /* Style links on mouse-over */
+  .menubar a:hover {
+    color: gray;
+  }
+
+  .menubar i {
+    text-decoration: none;
+    font-size: 30px;
+    float: left;
+    color: #111111;
+  }
+  
+  /* Style links on mouse-over */
+  .menubar i:hover {
+    color: gray;
+  }
+
+  .menubar div {
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+    color: #111;
+  }
+
+  .menubar div:hover {
+    color: gray;
+  }
+
+
+  /* Style the main content */
+  .main {
+    margin-top: 60px; /* Same as the width of the sidenav */
+    padding: 0px 10px;
+  }
+  
+  /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
+  @media screen and (max-height: 450px) {
+    .menubar {padding-top: 15px;}
+    .menubar a {font-size: 18px;}
+  }

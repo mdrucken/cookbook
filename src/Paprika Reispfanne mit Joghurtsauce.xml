@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Paprika Reispfanne mit Joghurtsauce</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Tasse</unit> <item>Reis</item> </ing>
+	  <ing> <qty>2</qty> <unit>Tasse</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chili</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Paprika</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Paprika, edelsüß</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Paprika, rosenscharf</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kreuter (Basilikum, Petersilie)</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+	  <step>Reis kochen.</step>
+      <step>Zwiebeln glasig dünsten. Knoblauch, Chili und Tomatenmark hinzufügen.</step>
+	  <step>Paprika in die Pfanne geben und ein paar Minuten anbraten.</step>
+	  <step>Mit Paprikapulver, Salz, Pfeffer würzen.</step>
+	  <step>Reis unterrühren. Kreuter zuletzt untermischen.</step>
+	  <step>Joghurt und eine Knoblauchzehe verrühren, mit Salz und Pfeffer abschmecken.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

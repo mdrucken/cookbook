@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Zucchini mit Gorgonzola Kartoffelbrei</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>450</qty> <unit>g</unit> <item>Kartoffeln</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>50</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Butter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kartoffeln kochen und stampfen.</step>
+	  <step>Zucchini halbieren und in wenig gesalzenem Wasser andünsten. Anschliessend aushölen.</step>
+	  <step>Milch erhitzen, Gorgonzola zudrücken und einrühren. Unter die Kartoffeln michen. Mit Salz, Pfeffer, Muskat abschmecken.</step>
+	  <step>Brei in die Zucchinihälften füllen, mit Butterflocken oder Gorgonzola belegen.</step>
+	  <step>15 Minuten bei 180 Grad backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

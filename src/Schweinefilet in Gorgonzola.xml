@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schweinefilet in Gorgonzola</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1/2</qty> <unit></unit> <item>Schweinefilet</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>Becher</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Senf</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika, edelsüß</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Schweinefilet in Medaillons schneiden, mit Salz, Pfeffer, Paprika würzen. Scharf anbraten und dann warm stellen.</step>
+	  <step>Bratenrückstand mit Sahne ablöschen, Käse darin schmelzen. 1 EL Senf einrühren.</step>
+	  <step>Fleisch in eine Auflaufform geben und mit der Sauce übergießen. 10 Minuten bei 180 Grad überbacken.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

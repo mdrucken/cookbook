@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Käsekuchen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Portion</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+    </ingredients>
+	<ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>1</qty> <unit>Pkt</unit> <item>Vanillezucker</item> </ing>
+	  <ing> <qty>1</qty> <unit>Pkt</unit> <item>Vanillepuddingpulver</item> </ing>
+	  <ing> <qty>3/4</qty> <unit>Tasse</unit> <item>Öl</item> </ing>
+	  <ing> <qty>2</qty> <unit>Tassen</unit> <item>Milch</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Quark</item> </ing>
+	</ingredients>
+    <directions>
+      <step>125g Butter, 125g Zucker, 250g Mehl, 1 TL Backpulver, 1 Prise Salz, 1 Ei zu einem Teig verkneten, ausrollen und in eine Springform geben.</step>
+	  <step>500g Quark, 1 Ei, 1 Pkt Vanillezucker, 1 Pkt Vanillepuddingpulver, 3/4 Tassen Öl, 2 Tassen Milch verrühren und in die Springform geben.</step>
+	  <step>1 Stunde bei 180 Grad Umluft backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

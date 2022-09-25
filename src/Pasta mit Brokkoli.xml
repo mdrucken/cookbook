@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Paste mit Brokkoli</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>20</qty> <unit>g</unit> <item>Pinienkerne</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Brokkoli</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Petersilie</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Zitronenschale</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Zitronensaft</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Chiliflocken</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Parmesan</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Pinienkerne in der Pfanne rösten.</step>
+	  <step>Knoblauchzehe in Scheiben schneiden, Petersilie hacken, Brokkoli putzen.</step>
+	  <step>Nudeln kochen, 3 Minuten vor Ende der Garzeit Brokkoli zugeben.</step>
+	  <step>Knoblauch in der Pfanne andünsten, mit 100ml Nudelwasser ablöschen. Aufkochen lassen.</step>
+	  <step>Nudeln und Brokkoli abgießen, in die Pfanne geben.</step>
+	  <step>Mit Zitrone, Salz und Chill	abschmecken. Mit 1 EL Öl, Pinienkernen, Petersilie und Parmesan bestreuen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Shakshuka</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>rote Paprika</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Paprika edelsüß</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Chillipulver</item> </ing>
+	  <ing> <qty>4</qty> <unit>Stk</unit> <item>Eier</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebeln, Knoblauch, Paprika in der Pfanne 5 Minuten glasig dünsten.</step>
+	  <step>Tomaen, Tomatenmark, Gewürze zugeben und 10 Minuten köcheln lassen.</step>
+	  <step>Mulden in die Masse drücken und Eier dazugeben, bei geschlossenem Deckel köcheln, bis die Eier stocken.</step>
+	  <step>Mit Brot servieren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

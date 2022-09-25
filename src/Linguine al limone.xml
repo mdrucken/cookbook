@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Linguine al limone</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Linguine</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zitrone</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Erbsen</item> </ing>
+	  <ing> <qty>150</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>75</qty> <unit>ml</unit> <item>Geflügelfond</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz, Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Nudeln kochen.</step>
+	  <step>1 EL Butter zerlassen, 2 Zehen Knoblauch und 150g Erbsen andünsten.</step>
+	  <step>150ml Sahne und 75ml Geflügelfond und Schale der Zitrone hinzugeben, leicht einkochen lassen.</step>
+	  <step>Mit 1-2 EL Zitronensaft abschmecken, salzen, pfeffern.</step>
+	  <step>Nudeln mit Soße misechen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

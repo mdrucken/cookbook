@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Weizenbrötchen mit Gries</title>
+    </head>    
+    <yield>
+		<qty>8</qty>
+		<unit>Stück</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>180</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Hartweizengries</item> </ing>
+	  <ing> <qty>110</qty> <unit>g</unit> <item>Roggenmehl 1150</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Wasser, 40°C</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Milch, 5°C</item> </ing>
+	  <ing> <qty>4</qty> <unit>g</unit> <item>Hefe</item> </ing>
+	  <ing> <qty>8</qty> <unit>g</unit> <item>Salz</item> </ing>
+	  <ing> <qty>8</qty> <unit>g</unit> <item>Olivenöl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten 10 Minuten langsam, dann 5 Minuten schnell verkneten.</step>
+	  <step>12 Stunden bei 6-8°C gehen lassen.</step>
+	  <step>Den Teig in acht Teiglinge teilen, Teig zu einem Zylinder wirken.</step>
+	  <step>Teiglinge 45 Minuten abgedeckt ruhen lassen.</step>
+	  <step>Bei 230°C 10 Minuten zwischen zwei Backblechen backen.</step>
+	  <step>Oberes Backblech entfernen und 5 Minuten weiter backen.</step>
+	  <step>Noch weitere 5 Minuten bei leicht geöffneter Backofentür backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Haferbratlinge</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Haferflocken</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Käse, gerieben</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Kräuter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Milch erhitzen, nicht kochen. Hoferflocken unterrühren und 1 Stunde quellen lassen.</step>
+	  <step>Zwiebel mit 2 Eiern, gehackten Kräutern, Mehl und Käse zu den Haferflocken geben. Mit Salz abschmecken.</step>
+	  <step>In heissem Öl ausbacken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

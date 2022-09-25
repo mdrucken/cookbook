@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gebratener Reis mit Tofu</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Tofu</item> </ing>
+	  <ing> <qty>2</qty> <unit>cm</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>helle Sojasauce</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>kleine rote Paprikaschote</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Frühlingszwiebel</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Reis (vom Vortag)</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>TK Erbsen</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz, Pfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>süße Chillisauce</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Tofu in 1cm große Würfel schneiden. Ingwer und Knoblauch fein schneiden. Mit 1 EL Sojasauce verrühren.</step>
+      <step>Paprika in feine Streifen schneiden. Frühlingszwiebel schräg in feine Ringe schneiden.</step>
+      <step>Reis bei starker Hitze brauten, bis er knusprig ist. Aus der Pfanne nehmen.</step>
+      <step>Tofu knusprig braten, Bei mittlerer Hitze Paprika, Zwiebeln und Erbsen dazugeben. Reis untermischen und mit Salz und Pfeffer würzen.</step>
+      <step>Ei, Chillisauce und 1 EL Sojasauce vermischen. Unter den Reis michen und kurz weiterbraten.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Käsespätzle mit Spinat und Lauch</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Spätzle</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Lauch</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Schinkenspeck</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Käse, Feta</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Sauerrahm</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Butter</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>150g Speckwürfel in Butter kurz anbraten. 100g Lauch dazu geben und kurz mitbraten.</step>
+	  <step>400g Spätzle hineingeben und 250 ml Sauerrahm darüber gießen.</step>
+	  <step>Mit Salz, Pfeffer und Muskat abschmecken.</step>
+	  <step>100g Käse unterrühren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

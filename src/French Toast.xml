@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>French Toast</title>
+    </head>    
+    <ingredients>
+	  <ing>
+        <qty>4</qty>
+        <unit>Scheiben</unit>
+        <item>Toastbrot (mit Zimt Rosienen)</item>
+      </ing>
+      <ing>
+        <qty>250</qty>
+        <unit>ml</unit>
+        <item>Milch</item>
+      </ing>
+      <ing>
+        <qty>2</qty>
+        <unit>EL</unit>
+        <item>süsse Sahne</item>
+      </ing>
+      <ing>
+        <qty>2</qty>
+        <unit>EL</unit>
+        <item>Zimt</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>TL</unit>
+        <item>Vanille-Extract</item>
+      </ing>
+      <ing>
+        <qty>2</qty>
+        <item>Eier</item>
+      </ing>
+      <ing>
+        <qty>1</qty>
+        <unit>Spritzer</unit>
+        <item>Rum-Aroma</item>
+      </ing>
+      <ing>
+        <qty>8</qty>
+        <unit>EL</unit>
+        <item>Butter</item>
+      </ing>
+      <ing>
+        <qty>200</qty>
+        <unit>ml</unit>
+        <item>Sirup (Ahornsirup)</item>
+      </ing>
+      <ing>
+        <item>Puderzucker</item>
+      </ing>
+    </ingredients>
+    <directions>
+      <step>Eier, Milch, Sahne, Vanille-Extrakt und Rum-Aroma verrühren.</step>
+      <step>Zimt und Zucker vermengen und 2/3 in die Masse geben.</step>
+      <step>In einer schweren Pfanne 1 EL Butter langsam erhitzen.</step>
+      <step>Brot in die Masse geben und mit Zimt und Zucker bestreuen, in die Pfanne geben.</step>
+      <step>Nachdem die Unterseite golden braun ist, wenden und die andere Seite ebenfalls mit Zimt und Zucker bestreuen.</step>
+      <step>Wenn die andere Seite goldbraun ist, aus der Pfanne nehmen.</step>
+      <step>Teller in der Mikrowelle erwährmen und mit Puderzucker bestreuen, 2 Toast übereinander in die Mitte legen.</step>
+      <step>Ein TL Butter in der Mitte des Toasts legen und mit ein wenig erwährmten Ahornsirup übergiessen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+    <preptime type="total">
+		<time>
+			<qty>20</qty>
+			<timeunit>minutes</timeunit>
+		</time>
+	</preptime>
+	<difficulty>simpel</difficulty>
+  </recipe>
+</recipeml>

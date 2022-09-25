@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Erdbeer-Caipirinha alkoholfrei</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>5</qty> <unit></unit> <item>Erdbeeren</item> </ing>
+	  <ing> <qty>1/2</qty> <unit></unit> <item>Limette</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Rohrzucker</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Crushed Ice</item> </ing>
+	  <ing> <qty>50</qty> <unit>ml</unit> <item>Mineralwasser</item> </ing>
+    </ingredients>
+    <directions>
+      <step>5 Erdbeeren in Scheiben schneiden, Limette achteln.</step>
+	  <step>4 Erdbeeren und 1 EL Rohrzucker in ein Glas geben und zerquetschen. Limette dazugeben und nochmal zerquetschen.</step>
+	  <step>Glas bis zum Rand mit Eis auffuellen, mit Mineralwasser auffuellen und mit Erdbeere garnieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

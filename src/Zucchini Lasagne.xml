@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Zucchini Lasagne</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Rinderhack</item> </ing>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty>1</qty> <unit>Pck</unit> <item>Frischkäse</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Sauerrahm</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Käse, gerieben</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Oregano</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Thymian</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Petersilie</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika, edelsüß</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zucchini in fingerdicke scheiben schneiden und anbraten. Oder im Backofen unter dem Grill bräunen.</step>
+	  <step>Eine Zwiebel glasig dünsten, 2 Zehen Knoblauch dazu geben. 500g Hackfleisch hinzugeben.</step>
+	  <step>Mit Salz, Peffer, Paprika würzen, 1 EL Tomatenmark unterrühren und eine Minute anschwitzen.</step>
+	  <step>Eine Dose Tomaten hinzugeben, mit Oregano, Thymian, Salz, Pfeffer würzen. 10 Minuten auf kleiner Flamme köcheln. Petersilie hinzugeben.</step>
+	  <step>Frischkäse mit Milch verrühren, mit Salz und Pfeffer und etwas Muskat würzen. 50g Käse unterrühren.</step>
+	  <step>Auflaufform mmit Zucchini Scheiben auslegen. Darauf eine Schicht Hackfleischsoße und eine Schicht Käsesoße. Wiederholen und mit einer Schicht Hackfleischsoße abschliessen. Mit Käse bestreuen.</step>
+      <step>Bei 200 Grad im Ofen in 30 Minuten backen.</step>
+	</directions>
+  </recipe>
+</recipeml>
+

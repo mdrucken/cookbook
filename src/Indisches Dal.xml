@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Indisches Dal</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>rote Linsen</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Chilischoten, getrocknet</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kurkuma</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>400</qty> <unit>ml</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty>3</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Ingwer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Linsen 2 Stunden in Wasser einweichen.</step>
+	  <step>1 EL Kreuzkümmel, 4 Chili, 1 EL Kurkuma in heissem Fett anbraten.</step>
+	  <step>1 Zwiebel dazu geben und glasig dünsten.</step>
+	  <step>Linsen mit etwas Wasser und 200 ml Kokosmilch dazugeben.</step>
+	  <step>Fein geschnittenen Knoblauch und Ingwer dazu geben.</step>
+	  <step>15-20 Minuten kochen lassen, etwas Wasser oder Kokosmilch hinzugeben.</step>
+	  <step>Wenn die Linsen zerfallen sind, mit Salz und Sojasauce würzen.</step>
+    </directions>
+	<tags>
+		<tag>asian</tag>
+		<tag>indian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

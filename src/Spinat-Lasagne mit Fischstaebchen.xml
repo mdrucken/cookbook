@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spinat-Lasagne mit Fischstaebchen</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>225</qty> <unit>g</unit> <item>Spinat, tiefkuehl</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Tomate</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Creme fraiche</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Fischfilet, natur</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Lasagneplatten</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Kaese, gerieben</item> </ing>
+    </ingredients>
+    <directions>
+      <step>225 g Spinat auftauen und mit 100 g Creme Fraiche vermischen, salzen, pfeffern.</step>
+	  <step>Fischfilet bei 200°C Umluft fuer 15 Minuten backen.</step>
+	  <step>Fischfilet in eine Auflaufform geben, dann abwechselnd Spinat und Lasagneplatten schichten.</step>
+	  <step>Oberste Spinatschicht mit Tomatenscheiben belegen und 50 g Kaese darueber streuen.</step>
+	  <step>Bei 200°C (Umluft) fuer 20 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

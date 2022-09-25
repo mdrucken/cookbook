@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Guacamole</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Portion</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit></unit> <item>Avocado, reif</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Tomate</item> </ing>
+	  <ing> <qty>1/2</qty> <unit></unit> <item>Zitrone, saft</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Fleisch der Avocado zerdrücken, Tomate fein würfeln, mit Knoblauch, Zitronensaft und Joghurt verrühren. Mit Salz und Ffeffer abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

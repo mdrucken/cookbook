@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schweinefilet mit Äpfeln</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Personen</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Schweinefilet (700g)</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer und Salz</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Rosmarinnadeln, grob gehackt</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Pflanzenöl</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>große, säuerliche Äpfel (z.B. Boskop)</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Calvados</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Fleisch mit Salz und Rosmarinnadeln einreiben, scharf anbraten. Hitze zurücknehmen und 10-15 Minuten weiterbraten. In Alufolie wickeln und bei 75°C im Ofen warmhalten.</step>
+      <step>Zwiebeln in dünne Ringe schneiden, Äpfel in schmale Spalten teilen. Circa 15 Minuten braten.</step>
+      <step>Filet salzen, wieder in die Pfanne legen, mit Calvados übergiesen und flambieren. Mit Sahne ablöschen und nochmal aufkochen lassen. Mit Salz und Pfeffer würzen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Flammkuchen, schnelle Variante</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Oel</item> </ing>
+	  <ing> <qty>125</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>1</qty> <unit>Priese</unit> <item>Salz</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Speck</item> </ing>
+	  <ing> <qty>1</qty> <unit>Becher</unit> <item>Crème Double</item> </ing>
+	  <ing> <qty>1</qty> <unit>Becher</unit> <item>Schmand</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Oel, Wasser und Salz zu einem Teig verknteten.</step>
+	  <step>Frühlingszwiebeln, Crème Double, Schmand zu einer Sauce verrühren, mit Salz und Pfeffer abschmecken.</step>
+	  <step>Teig dünn ausrollen, mit Sauce bestreichen, mit Speck bestreuen.</step>
+	  <step>Bei 250 Grad im Backofen backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

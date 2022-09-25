@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Saté Spieße</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>700</qty> <unit>g</unit> <item>Fleisch, Schwein, Huhn oder Lamm</item> </ing>
+	  <ing> <qty>1-2</qty> <unit>cm</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Kecap Manis</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Erdnüsse, geröstet und gesalzen</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Currypaste, rot</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Palmzucker, ersatzweise brauner Zucker</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Limettensaft</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Fleisch in Streifen schneiden und auf Holzspieße stecken.</step>
+	  <step>Spieße mit fein gehacktem Ingwer, Sojasauce und Kecap Manis mindestens 2 Stunden marinieren.</step>
+	  <step>Erdnüsse fein mahlen, Currypaste in Öl anbraten und Kokosmilch, 125ml Wasser, Erdnüsse und Zucker zugeben und 10-15 Minuten bei mittlerer Hitze kochen.</step>
+	  <step>Sauce mit Salz und Limettensaft abschmecken.</step>
+	  <step>Spieße auf dem Grill oder im Backofen braten.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

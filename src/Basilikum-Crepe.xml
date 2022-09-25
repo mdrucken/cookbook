@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Basilikum-Crepe</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Eier (größe M)</item> </ing>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Basilikum</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Cocktailtomaten</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Butterschmalz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Butter schmelzen</step>
+      <step>Eier, Milch, Mehl, 1/2 TL Salz verquirlen, Butter langsam unterrühren</step>
+      <step>Eine hälfte des Basilikums zum Teig geben, mit einem Pürierstab pürieren</step>
+      <step>Butterschmalz in der Pfanne erhitzen, Teig hinzgeben und 5-7 Minuten backen. Fertige Crepes im Backofen bei 80°C warm halten.</step>
+      <step>Cocktailtomaten halbieren und in einer Pfanne 4-5 Minuten braten, salzen und pfeffern.</step>
+      <step>Parmesan reiben, das restliche Basilikum in Streifen schneiden.</step>
+      <step>Crepes mit Tomaten und Basilikum füllen, mit Parmesan bestreuen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

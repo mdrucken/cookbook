@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Title</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Schupfnudel</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Zuckerschoten</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>rote Paprikaschote</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>grüne Paprikaschote</item> </ing>
+	  <ing> <qty>6</qty> <unit></unit> <item>frische Mini-Maiskolben</item> </ing>
+      <alternatives>
+	      <alt><ing> <qty>12</qty> <unit>Stangen</unit> <item>Thai-Spargel</item> </ing></alt>
+	      <alt><ing> <qty>3</qty> <unit>Stangen</unit> <item>grüner Spargel</item> </ing></alt>
+      </alternatives>
+	  <ing> <qty>20</qty> <unit>g</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+	  <ing> <qty>2-3</qty> <unit>EL</unit> <item>Sesamöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Madras Currypulver</item> </ing>
+	  <ing> <qty>2-3</qty> <unit>TL</unit> <item>Sojasoße</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>süße Chillisoße</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zuckerschoten putzen, Frühlingszwiebeln in Stücke schneiden, Paprika in dünne Streifen schneiden, Maiskolben halbieren. Unterstes Viertel des Spargels abschneiden und längs vierteln. Knoblauch und Ingwer fein hacken.</step>
+      <step>Ingwer und Knoblauch im Wok 30 Sekunden andünsten. Gemüse und Schupfnudeln dazugeben und 6-8 Minuten braten.</step>
+      <step>Mit Salz und Currypulver würzen. Mit Sojasoße und Brühe ablöschen und einmal aufkochen. Süße Chillisoße unterrühren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Börek</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Zucchini</item> </ing>
+	  <ing> <qty>4</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Chilischoten, rot</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Dill, Petersilie, Minze</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Schafskäse</item> </ing>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Eier (M)</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Pinienkerne</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz, Pfeffer</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>5-10</qty> <unit></unit> <item>Yufka-/Filo-Teigblätter</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Eigelb (M)</item> </ing>
+    </ingredients>
+    <directions>
+      <step>500g Zucchini längs halbieren und in dünne Scheiben schneiden. 4 Zehen Knoblauch und 2 Chili fein hacken.</step>
+	  <step>Dill, Petersilie, Minze fein hacken.</step>
+	  <step>400g Schafskäse grob zerbröckeln, mit 300g Joghurt, 3 Eiern mit der Gabel zerdrücken und vermischen.</step>
+	  <step>50g Pinienkerne bis auf einen Esslöffel dazu geben, mit Zucchini, Knoblauch, Chili und Kräutern vermischen. Salzen und Pfeffern.</step>
+	  <step>Abwechselnd Teigblätter in die From geben, mit Öl bestreichen und mit Käsemasse bedecken.</step>
+	  <step>3 EL Öl mit dem Eigelb vermischen. Damit das oberste Teigblatt bestreichen. 1 EL Pinienkerne darüber streuen.</step>
+	  <step>Bei 180 Grad Umluft für 25-30 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

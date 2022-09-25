@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gnocchiauflauf mit Spinat und Kirschtomaten</title>
+    </head>    
+    <yield>
+		<qty>3</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Kirschtomaten</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>TK Blattspinat</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Crème fraîche</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Milch</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Gnocchi</item> </ing>
+	  <ing> <qty>1</qty> <unit>Kugel</unit> <item>Mozarella</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Parmesan</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Basilikum</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebel und Knoblauch glasig anbraten. Spinat dazu geben und auftauen.</step>
+	  <step>Crème fraîche und Milch dazugeben.</step>
+      <step>Mit Salz, Pfeffer und Basilikum würzen.</step>
+	  <step>Gnocchi in Auflaufform geben und mit Parmesan bestreuen.</step>
+	  <step>Tomaten halbieren und zur Spinatsoße geben. In die Auflaufform geben.</step>
+	  <step>Mozarella darauf verteilen.</step>
+	  <step>Bei 180 Grad Umluft 40 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag>italian</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

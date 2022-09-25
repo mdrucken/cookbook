@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Saftiger Schokokuchen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Portion</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Zartbitterschokolade</item> </ing>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>120</qty> <unit>g</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>5</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Kakao</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Zartbitterschokolade</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Schlagsahne</item> </ing>
+    </ingredients>
+    <directions>
+      <step>150g Schokolade mit 250g Butter schmelzen.</step>
+	  <step>5 Eier mit 120g Zucker schaumig rühren, 2 EL Mehl, 2 EL Kakao, 1 TL Backpulver zugeben.</step>
+	  <step>Schokolade unterheben.</step>
+	  <step>Kuchen 30 Minuten bei 160 Grad Ober-/Unterhitze backen.</step>
+	  <step>100g Zartbitterschokolade schmelzen, 100 ml heiße Schlagsahne zugeben. Guß auf dem Kuchen verteilen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

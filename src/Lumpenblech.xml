@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Lumpenblech</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Kürbiskernöl</item> </ing>
+	  <ing> <qty>0.5</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>800</qty> <unit>g</unit> <item>Kartofeln, vorwiegend festkochend</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln, mittelgross</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Rosmarin</item> </ing>
+	  <ing> <qty>8</qty> <unit></unit> <item>rote Paprikaschoten, spitz</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Feta</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Oliven, schwarz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Backofen auf 180° vorheizen</step>
+      <step>Kartofeln vierteln, Zwiebeln achteln, mit Öl, Salz und Rosmarin mischen. 10 Minuten auf mittlerer Schiene backen.</step>
+      <step>Paprikaschoten mit Feta und Rosmarin füllen, 20 Minuten bakcen.</step>
+      <step>Oliven dazugeben, weitere 10 Minuten backen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

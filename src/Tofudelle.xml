@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tofudelle</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Tofu, weich bis mittelfest</item> </ing>
+      <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Fischsauce</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Haferflocken, fein</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Semmelbrösel</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Sesam, geröstet</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Tofu mit Gewicht beschweren und 30 Minuten stehen lassen. Mit der Gabel zerdrücken.</step>
+	  <step>Frühlingszwiebeln und Knoblauch fein hacken Mit Tofu, Sesam, Sojasauce, Fischsauce, Salz, Pfeffer, Eier, Haferflocken vermischen, 20 Minuten ziehen lassen.</step>
+	  <step>Circa 1cm dicke Tofudellen formen, von jeder Seite 5 Minuten braten.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

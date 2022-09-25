@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Karamellsauce</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>80</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>120</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Vanilleextrakt</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Mehrsalz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>200g Zucker bei mittlerer Hitze schmelzen. Rühren, damit sich der Zucker gleichmäßig erhitzt.</step>
+	  <step>Wenn der Zucker flüssig ist und eine hellbrauen Farbe hat, Butter hinzugeben.</step>
+	  <step>Wenn sich die Butter aufgelöst hat, den Topf vom Herd nehmen und Schlagsahne unterrühren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Burger-Buns</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>ml</unit> <item>Milch</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Eier</item> </ing>
+	  <ing> <qty>45</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1.5</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>21</qty> <unit>g</unit> <item>Hefe</item> </ing>
+	  <ing> <qty>3/4</qty> <unit>TL</unit> <item>Salz</item> </ing>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Wasser</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Sesam</item> </ing>
+    </ingredients>
+    <directions>
+      <step>300 ml warme Milch, 1.5 EL Zucker, 21g Hefe, 45g geschmolze Butter verrühren.</step>
+	  <step>500g Mehl und 3/4 TL Salz vermischen, Hefegemisch und ein Ei dazu geben und 5-7 Minuten zu einem Teig verkneten. Für eine Stunde reifen lassen.</step>
+	  <step>Luft aus dem Teig rauskneten und in 8 Teile teilen. Buns formen und auf ein Backblech legen.</step>
+	  <step>Mit Frischhaltefolie bedecken und 45 Minuten gehen lassen. Folie alle 10 Minuten etwas anheben, um ein Verkleben zu vermeiden.</step>
+	  <step>Ein Ei mit 2 EL Wasser verquirlen, die Buns damit bestreichen und mit Sesam bestreuen. 20 Minuten bei 190 Grad backen.</step>
+	  <step>Buns mit einem Küchentuch bedeckt 15 Minuten abkühlen lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

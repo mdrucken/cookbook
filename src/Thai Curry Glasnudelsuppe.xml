@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Thai Curry Glasnudelsuppe</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>750</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>250</qty> <unit>nl</unit> <item>Kokosmilch</item> </ing>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Glasnudeln</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Zuckerschoten</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Currypaste, rot</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Limettensaft</item> </ing>
+	  <ing> <qty>2</qty> <unit>EL</unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Ingwer</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Honig</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chilischote, rot</item> </ing>
+	  <ing> <qty>1</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Chilischoten fein hacken, die Hälfte zum Garnieren beiseite legen.</step>
+	  <step>Frühlingszwiebeln in Ringe schneiden, den grünen Teil zum Garnieren beiseite legen.</step>
+	  <step>Knoblauch, Ingwer, Chili und Currypaste 5 Minuten anschwitzen.</step>
+	  <step>Gemüsebrühe, Kokosmilch und Sojasauce hinzugeben und kurz aufkochen lassen.</step>
+	  <step>Glasnudeln, Zuckerschoten, Frühlingszwiebeln und Koriander hinzugeben und 5 Minuten kochen.</step>
+	  <step>Limettensaft und Honig unterrühren. Mit Koriander, Frühlingszwiebeln und Chili garnieren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

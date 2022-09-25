@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schaschlik</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Schweinefleisch</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Schinkenspeck</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Paprika</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, passiert</item> </ing>
+	  <ing> <qty>1 1/2</qty> <unit>EL</unit> <item>Honig</item> </ing>
+	  <ing> <qty>1 1/2</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Curry</item> </ing>
+	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika, edelsüß</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+	  <ing> <qty>75</qty> <unit>ml</unit> <item>Fleischbrühe</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Fleisch, Speck, Zwiebel und Paprika in grobe Würfle schneiden. Auf Spieße stecken, mit Fleisch/Speck an den Enden.</step>
+	  <step>Spieße in der Pfanne kräftig anbraten, herausnehmen.</step>
+	  <step>Übrige Zwiebel, Speck, Paprika in kleine Würfel schneiden und in der gleichen Pfanne anbraten und 10 Minuten dünsten.</step>
+	  <step>Mit Fleischbrühe ablöschen und in einen großemm Topf umfüllen. Tomaten hinzufügen und mit Curry würzen. Mit Honig und restlichen Gewürzen abschmecken. 10 Minuten etwas reduzieren.</step>
+      <step>Spieße hinzufügen und 90 Minuten auf kleinster Stufe köcheln lassen.</step>
+	</directions>
+  </recipe>
+</recipeml>
+

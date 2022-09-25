@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Focaccia</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>4</qty> <unit>TL</unit> <item>italienische Kräuter</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty>20</qty> <unit>g</unit> <item>Hefe</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+	  <ing> <qty>1</qty> <unit>Glas</unit> <item>Oliven, grün</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Knoblauchbutter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>250g Mehl, 1/2 TL Salz mischen. 20g Hefe, 3 EL Öl, 1/2 TL Zucker in 150ml lauwarmen Wasser auflösen. Mit dem Mehl zu einem Teig kneten. 30 Minuten gehen lassen.</step>
+	  <step>Oliven vierteln und unter den Teig kneten.</step>
+	  <step>Teig auf Backpapier ausrollen, rautenförmig einschneiden. Mit 1 EL Öl bestreichen.</step>
+	  <step>Nach belieben mit Gemüse (Zwiebeln, Paprika, Tomaten, Rosmarin) belegen.</step>
+	  <step>Je nach Dicke 20-40 Minuten bei 180 Grad Umluft backen. Nach der Hälfte der Zeit mit Knoblauchbutter bestreichen.</step>
+    </directions>
+	<tags>
+		<tag>italian</tag>
+		<rag>bread</rag>
+	</tags>
+  </recipe>
+</recipeml>
+

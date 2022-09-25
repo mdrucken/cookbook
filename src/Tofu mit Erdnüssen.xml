@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tofu mit Erdnüssen</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+    </yield>
+    <ingredients>
+	  <ing> <qty>600</qty> <unit>g</unit> <item>Tofu</item> </ing>
+	  <ing> <qty>4</qty> <unit></unit> <item>getrocknete Chillischoten</item> </ing>
+	  <ing> <qty>6</qty> <unit>EL</unit> <item>Sojasauce</item> </ing>
+	  <ing> <qty>6</qty> <unit>EL</unit> <item>trockener Sherry oder Reiswein</item> </ing>
+	  <ing> <qty>5</qty> <unit>EL</unit> <item>dunkler Reisessig oder Aceto balsamico</item> </ing>
+	  <ing> <qty>1/4</qty> <unit>TL</unit> <item>Zimtpulver</item> </ing>
+	  <ing> <qty>2</qty> <unit>TL</unit> <item>Zucker</item> </ing>
+	  <ing> <qty>4</qty> <unit>EL</unit> <item>Öl</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Erdnüsse, frisch geröstet und ungesalzen</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Korianderblättchen zum Bestreuen</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Den Tofu mit Küchenpapier trocken tupfen und in knapp 1cm große Würfel schneiden. Die Chillischoten im Mörser fein zerstoßen und mit Sojasauce, Sherry oder Reiswein, Essig, Zimt und Zucker verrühren.</step>
+      <step>Das Öl im Wok heiß werden lassen und die Erdnüsse darin bei mittlerer Hitze unter Rühren goldbraun rösten. Salzen und aus dem Wok heben.</step>
+      <step>Den Tofu im verbleibenden Öl rundherum bei starker Hitze in ca. 5 Minuten knusprig braten. Mit der Sauce begießen, die Erdnüsse untermischen und alles noch einmal gut heiß werden lassen. Mit Korianderblättchen bestreuen. Mit Reis servieren.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

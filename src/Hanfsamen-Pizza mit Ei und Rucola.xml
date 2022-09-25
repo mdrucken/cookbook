@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hanfsamen-Pizza mit Ei und Rucola</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Wasser, warm</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>Päckchen</unit> <item>Trockenhefe</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Hanfsamen</item> </ing>
+	  <ing> <qty>1</qty> <unit>Kugel</unit> <item>Mozarella</item> </ing>
+	  <ing> <qty>2</qty> <unit></unit> <item>Eigelb</item> </ing>
+	  <ing> <qty>1</qty> <unit>Hand voll</unit> <item>Rucola</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olienöl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>250g Mehl, 150g Wasser, 1/2 Päckchen Hefe, eine Prise Salz einige Minten lang zu zu einem Teig kneten, eine Stunde ruhen lassen.</step>
+	  <step>Hanfsamen in den Teig einkneten, zu zwei runden Fladen nicht zu dünn ausrollen.</step>
+	  <step>Mozarella in dicke Scheiben schneiden und auf die Pizza legen, mit Olivenöl beträufeln.</step>
+	  <step>15 Minuten bei 230 Grad backen. Eigelb auf die Pizza setzen und 1-2 Minuten weiter backen.</step>
+	  <step>Pizza mmit Rucola bestreuen und servieren.</step>  
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

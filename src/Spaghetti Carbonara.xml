@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spaghetti Carbonara</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Spaghetti</item> </ing>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Schinken, roh</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
+	  <ing> <qty>3</qty> <unit></unit> <item>Eigelb</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Parmesan</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Schinken in Würfel schneiden und in wenig Butter anbraten.</step>
+	  <step>Eigelb, Salz, Pfeffer und Muskat verquirlen. Butter schaumig rühren und unter das Eigelb mmischen.</step>
+	  <step>Schinkenwürfel und geriebenen Parmesan unterrühren.</step>
+	  <step>Nudeln kochen und abgießen. Mit der Soße durchmischen.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

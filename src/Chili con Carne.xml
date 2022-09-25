@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Chili con Carne</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>350</qty> <unit>g</unit> <item>Rinderhack</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chili</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, groß</item> </ing>
+	  <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+	  <ing> <qty>1/2</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Chilipulver</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Tomaten, stückig</item> </ing>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Kidneybohnen</item> </ing>
+	  <ing> <qty>1</qty> <unit>TL</unit> <item>Zimt</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebeln und Knoblauch 5 Minuten anschwitzen. Gehackte Chili, Kreuzkümmel, Chilipulver hinzugeben und 2 Minuten dünsten.</step>
+	  <step>Rinderhack bei großer Hitze krümelig anbraten. Tomaten und Zimt unterrühren, mit Salz und Pfeffer würzen.</step>
+    </directions>
+	<tags>
+		<tag>mexican</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

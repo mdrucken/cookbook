@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Pasta mit Salbei Käsesoße</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Pasta</item> </ing>
+	  <ing> <qty>1</qty> <unit>Hand voll</unit> <item>Salbei</item> </ing>
+	  <ing> <qty>200</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Zitronensaft</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Pasta kochen.</step>
+	  <step>Salbeiblätter in 1 EL Butter nicht zu scharf anbraten.</step>
+	  <step>Sahne zugeben und kurz einkochen lassen. Parmesan einrühren.</step>
+	  <step>Mit Salz, Pfeffer, Muskat abschmecken. Eventuell Zitronensaft zugeben.</step>
+    </directions>
+  </recipe>
+</recipeml>
+

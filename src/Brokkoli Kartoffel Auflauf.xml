@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Brokkoli Kartoffel Auflauf</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>4</qty> <unit></unit> <item>Kartoffeln</item> </ing>
+	  <ing> <qty>1</qty> <unit>Kopf</unit> <item>Brokkoli</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Gemüsebrühe</item> </ing>
+	  <ing> <qty>500</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Butter</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+	  <ing> <qty>100</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Paprika, edelsüß</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Chilipulver</item> </ing>
+	  <ing> <qty>100</qty> <unit></unit> <item>Käse, gerieben</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kartoffeln in Würfel schneiden und in der Brühe kochen.</step>
+	  <step>Kartoffeln aus der Brühe nehmen, danach Brokkoli in der Brühe kochen.</step>
+	  <step>Kartoffeln und Brokkoli in die Auflaufform geben.</step>
+	  <step>1 Zwiebel würfeln und in Butter glasig braten. Mehl darüber streuen und bräunen lassen.</step>
+	  <step>Mit der Gemüsebrühe ablöschen, kurz andicken lassen.</step>
+	  <step>Sahne zu der Sauce geben, mit Salz, Pfeffer, Paprika, Chilli, Muskat würzen.</step>
+	  <step>Sauce in die Auflaufform geben, Käse drüber streuen. 20-25 Minuten bei 180 Grad backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

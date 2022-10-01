@@ -14,7 +14,7 @@ outfile.write("""<html>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
     <link rel="stylesheet" href="style.css"></link>
 </head>
-<body bgcolor="white">
+<body bgcolor="lightblue">
     <script type="text/javascript" src="rezepte.js"></script>
     <div class="menubar">
         <a href="rezepte.html"><i class="fa fa-fw fa-home"></i></a>

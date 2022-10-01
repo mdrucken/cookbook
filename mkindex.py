@@ -2,11 +2,11 @@
 
 import os
 
-ignorefiles = ["index.xml"]
+IGNOREFILES = ["index.xml"]
 
 print("Scanning files...")
 
-outfile = open("src\\rezepte.html", "w")
+outfile = open("src\\rezepte.html", "w", encoding=ascii)
 
 outfile.write("""<html>
 <head>
@@ -27,18 +27,19 @@ outfile.write("""<html>
 count = 0
 for subdir, dirs, files in os.walk('src'):
     for filename in files:
-        if filename in ignorefiles:
+        if filename in IGNOREFILES:
             continue
 
         if filename.endswith(".xml"):
             count+=1
-            outfile.write("<div class=\"recipe\"> <a href=\"" + filename + "\">" + filename.replace(".xml", "") + "</a></div>\n")
-            
+            outfile.write("<div class=\"recipe\"> <a href=\"" + filename + \
+                "\">" + filename.replace(".xml", "") + "</a></div>\n")
+
 outfile.write("""
     </div>
 </body>
 </html>""")
-            
+
 outfile.close()
 
 print("Found " + str(count) + " files")

@@ -6,7 +6,7 @@ IGNOREFILES = ["index.xml"]
 
 print("Scanning files...")
 
-outfile = open("src\\rezepte.html", "w", encoding=ascii)
+outfile = open("src\\rezepte.html", "w", encoding="ascii")
 
 outfile.write("""<html>
 <head>

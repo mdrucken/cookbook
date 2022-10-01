@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tomatensauce (italiensisch)</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty></qty> <unit></unit> <item>Tomaten, passiert</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Basilikum</item> </ing>
+    <ing> <qty></qty> <unit>reichlich</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Knoblauch</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten in einen Topf geben und bei mittlerer Hitze und geschlossenem Deckel zum Kochen bringen.</step>
+      <step>Deckel vom Topf nehmen und bei schwacher Hitze mindestens 2 Stunden köcheln lassen. Gelegentlich umrühren.</step>
+      <step>Kurz vor Ende nochmal frisches Basilikum dazu geben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Khichdi</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>75</qty> <unit>g</unit> <item>Reis</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+    <ing> <qty>1/2</qty> <unit></unit> <item>Karotte</item> </ing>
+    <ing> <qty>1/2</qty> <unit>Stange</unit> <item>Sellerie</item> </ing>
+    <ing> <qty>1/2</qty> <unit>cm</unit> <item>Ingwer</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>1/2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1/2</qty> <unit>EL</unit> <item>Curry</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Bohnen, grün, TK</item> </ing>
+    <ing> <qty>250</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Reis und Linsen waschen, bis sich keine Stärke mehr löst.</step>
+      <step>Karotte und Sellerie in kleine Würfel schneiden.</step>
+      <step>Ingwer, Knoblauch, Zwiebel fein hacken.</step>
+      <step>Zwiebel, Ingwer, Curry in Öl anbraten, bis sie leicht gebräunt sind.</step>
+      <step>Karotte, Sellerie, Ingwer dazugeben, 5 Minuten braten, mit Salz würzen.</step>
+      <step>Reis, Linsen und Bohnen dazugeben, kurz anbraten.</step>
+      <step>Mit Gemüsebrühe aufgiessen und 15-20 Minuten abgedeckt kochen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

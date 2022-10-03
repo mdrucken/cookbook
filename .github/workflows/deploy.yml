@@ -1,7 +1,8 @@
 name: Build web page
-on: [push]
-  branches:
-    - main
+on:
+  push:
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,4 +21,3 @@ jobs:
           password: ${{ secrets.SFTP_UPLOAD_PASSWORD }}
           localPath: './src'
           remotePath: './rezepte'
-          

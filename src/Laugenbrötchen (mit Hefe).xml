@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Laugenbrötchen (mit Hefe)</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>480</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>25</qty> <unit>g</unit> <item>Roggenmehl 1150</item> </ing>
+    <ing> <qty>275</qty> <unit>g</unit> <item>Wasser</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <ing> <qty>0.4</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    <ing> <qty>20</qty> <unit>g</unit> <item>Butter, weich</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Natronlauge</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten zu einem Teig verkneten. 24 Stunden bei 18-20 Grad reifen lassen. Alle 8 Stunden dehnen und falten.</step>
+      <step>Auf unbemehlter arbeitsfläsche 9 Teiglinge a 90g abstechen und rund schleifen.</step>
+      <step>Teiglinge mit einem Küchentuch bedecken und 60 Minuten reifen lassen.</step>
+      <step>Den Ofen auf 250 Grad Ober-/Unterhitze vorheizen.</step>
+      <step>Teiglinge für 3-4 Sekunden in der Lauge baden und mit einem scharfen Messer einschneiden.</step>
+      <step>Teiglinge mit der angetrockneten Seite nach oben auf das Backblech setzen und 18-20 Minten bei 230 Grad backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

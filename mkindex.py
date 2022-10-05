@@ -1,20 +1,21 @@
 #!/usr/bin/python3
 
 import os
+import datetime as dt
 
 IGNOREFILES = ["index.xml"]
 
 print("Scanning files...")
 
 outfile = open("src\\rezepte.html", "w", encoding="cp1252")
-
+last_update = dt.datetime.now()
 outfile.write("""<html>
 <head>
     <title>Leckere Rezepte</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
     <link rel="stylesheet" href="style.css"></link>
 </head>
-<body bgcolor="lightblue">
+<body bgcolor="white">
     <script type="text/javascript" src="rezepte.js"></script>
     <div class="menubar">
         <a href="rezepte.html"><i class="fa fa-fw fa-home"></i></a>
@@ -32,11 +33,16 @@ for subdir, dirs, files in os.walk('src'):
 
         if filename.endswith(".xml"):
             count+=1
-            outfile.write("<div class=\"recipe\"> <a href=\"" + filename + \
+            outfile.write("        <div class=\"recipe\"> <a href=\"" + filename + \
                 "\">" + filename.replace(".xml", "") + "</a></div>\n")
-
 outfile.write("""
-    </div>
+    </div>""")
+
+outfile.write(F"""
+    <div>
+    Last Update: {last_update}
+    </div>""")
+outfile.write("""
 </body>
 </html>""")
 

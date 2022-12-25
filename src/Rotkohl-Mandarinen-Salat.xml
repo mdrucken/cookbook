@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rotkohl-Mandarinen-Salat</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Rotkohl</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Aceto Balsamico</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Honig</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Mandarinen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Zimtpulver</item> </ing>
+    </ingredients>
+    <directions>
+      <step>500g Rotkohl vom Strunk befreien, in dünne Scheiben schneiden und grob hacken. 3 EL Essig, 3 EL Öl und 1 TL Honig dazugeben. Mit Salz und Pfeffer abschmecken.</step>
+      <step>3 Mandarinen schälen, Mandarinenstücke quer halbieren und untermischen.</step>
+      <step>100g Schmand, 1 EL Zitronensaft, 1 Prise Zimtpulver und eine Prise Salz verrühren und mit Honig abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,35 @@
+﻿<?♠xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schales</title>
+    </head>    
+    <yield>
+		<qty>6</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Muskatnuss</item> </ing>
+    <ing> <qty>2</qty> <unit>kg</unit> <item>Kartoffeln, festkochend</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Bauchspeck</item> </ing>
+    <ing> <qty>2</qty> <unit>Stangen</unit> <item>Lauch</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Ei (M)</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kartoffeln fein reiben und in einem Küchentuch fest ausdrücken.</step>
+      <step>Lauch fein hacken, mit Ei, Salz, Pfeffer, Muskat und Mehl zu den Kartoffeln geben.</step>
+      <step>Bauchspeck würfeln und auslassen.</step>
+      <step>Kartoffelmasse zu dem Bauchspeck geben. Abgedeckt bei 160 Grad Umluft für 90 Minuten backen.</step>
+      <step>20 Minuten vor Ende der Backzeit den Deckel abnehmen.</step>
+
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

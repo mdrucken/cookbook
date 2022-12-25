@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Glühwein</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Liter</unit> <item>Rotwein, trocken</item> </ing>
+    <ing> <qty>50</qty> <unit>ml</unit> <item>Rum</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Orangen, in Scheiben geschnitten</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Orangensaft</item> </ing>
+    <ing> <qty>7</qty> <unit></unit> <item>Nelken</item> </ing>
+    <ing> <qty>2</qty> <unit>Stangen</unit> <item>Zimt</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Sternanis</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Kandiszucker</item> </ing>
+    </ingredients>
+    <directions>
+      <step></step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

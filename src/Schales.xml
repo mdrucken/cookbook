@@ -1,4 +1,4 @@
-﻿<?♠xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
 <recipeml version="0.5">
   <recipe>
@@ -25,7 +25,6 @@
       <step>Bauchspeck würfeln und auslassen.</step>
       <step>Kartoffelmasse zu dem Bauchspeck geben. Abgedeckt bei 160 Grad Umluft für 90 Minuten backen.</step>
       <step>20 Minuten vor Ende der Backzeit den Deckel abnehmen.</step>
-
     </directions>
 	<tags>
 		<tag></tag>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Pfälzer Zwiebelkuchen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <!--Hefeteig-->
+	  <ing> <qty>350</qty> <unit>g</unit> <item>Dinkel Mehl 1050</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Buttermilch</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    <ing> <qty>5</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <!--Belag-->
+    <ing> <qty>150</qty> <unit>g</unit> <item>Speck, durchwachsen</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>750</qty> <unit>g</unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kümmel, ganz oder geschrotet</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kümmel, gemahlen</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>10 g Hefe in 100 g Wasser auflösen. Mit 350 g Mehl, 5 g Salz und 100 g Buttermilch zu einem Teig verkneten. 60 Minuten gehen lassen.</step>
+      <step>Speck würfeln, Zwiebeln halbieren und in 0,5 cm breite Ringe schneiden.</step>
+      <step>Speck mit der Butter bei mittlerer Hitze glasig dünsten. Zwiebeln dazu geben, mit 1 TL ganzen Kümmel und Pfeffer würzen. Mit 100 g Schmand bei mittlerer Hitze offen dünsen, bis sie weich sind. Abkühlen lassen.</step>
+      <step>2 Eier mit 100 g Schmand verqurilen, mit 1 TL gemahlenen Kümmel würzen, unter die kalte Füllung ziehen. Mit Salz/Pfeffer abschmecken.</step>
+      <step>Hefeteig ausrollen und in eine Form gaben, Füllung darauf verteieln.</step>
+      <step>Für 20 Minuten bei 220 Grad backen, dann Temperatur auf 180 Grad herunterschalten und weitere 25 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

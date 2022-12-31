@@ -10,13 +10,14 @@
 		<unit>Person</unit>
 	</yield>
     <ingredients>
-    <!--Hefeteig-->
+    <ing-div><title>Hefeteig</title>
 	  <ing> <qty>350</qty> <unit>g</unit> <item>Dinkel Mehl 1050</item> </ing>
     <ing> <qty>100</qty> <unit>ml</unit> <item>Wasser</item> </ing>
     <ing> <qty>100</qty> <unit>ml</unit> <item>Buttermilch</item> </ing>
     <ing> <qty>10</qty> <unit>g</unit> <item>Hefe</item> </ing>
     <ing> <qty>5</qty> <unit>g</unit> <item>Salz</item> </ing>
-    <!--Belag-->
+    </ing-div>
+    <ing-div><title>Belag</title>
     <ing> <qty>150</qty> <unit>g</unit> <item>Speck, durchwachsen</item> </ing>
     <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
     <ing> <qty>750</qty> <unit>g</unit> <item>Zwiebeln</item> </ing>
@@ -26,6 +27,7 @@
     <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ing-div>
     </ingredients>
     <directions>
       <step>10 g Hefe in 100 g Wasser auflösen. Mit 350 g Mehl, 5 g Salz und 100 g Buttermilch zu einem Teig verkneten. 60 Minuten gehen lassen.</step>

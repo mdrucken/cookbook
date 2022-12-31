@@ -87,7 +87,7 @@
   </xsl:template>
 
   <xsl:template match="ing-div/title">
-      <H2><xsl:apply-templates /></H2>
+      <H3><xsl:apply-templates /></H3>
   </xsl:template>
     
   <xsl:template match="ing">

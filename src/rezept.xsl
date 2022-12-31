@@ -124,6 +124,19 @@
     </li>
   </xsl:template>
 
+  <xsl:template match="sides">
+    Beilagen:
+    <ul>
+    <xsl:apply-templates select="side"/>
+    </ul>
+  </xsl:template>
+
+  <xsl:template match="side">
+    <li>
+    <xsl:apply-templates />
+    </li>
+  </xsl:template>
+
   <xsl:template match="tags">
     <xsl:apply-templates select="tag"/>
   </xsl:template>

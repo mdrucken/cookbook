@@ -87,7 +87,7 @@
   </xsl:template>
 
   <xsl:template match="ing-div/title">
-      <H2><xsl:apply-templates /></H2>
+      <H3><xsl:apply-templates /></H3>
   </xsl:template>
     
   <xsl:template match="ing">
@@ -121,6 +121,19 @@
   <xsl:template match="step">
     <li>
       <xsl:apply-templates />
+    </li>
+  </xsl:template>
+
+  <xsl:template match="sides">
+    Beilagen:
+    <ul>
+    <xsl:apply-templates select="side"/>
+    </ul>
+  </xsl:template>
+
+  <xsl:template match="side">
+    <li>
+    <xsl:apply-templates />
     </li>
   </xsl:template>
 

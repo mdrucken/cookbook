@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gratinierte Maultaschen mit Linsenbolognese</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Linsen, grün</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>2-3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>400</qty> <unit>g</unit> <item>Dosentomaten</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Oregano, getrocknet</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Emmentaler</item> </ing>
+    <ing> <qty>8</qty> <unit></unit> <item>Maultaschen</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+    </ingredients>
+    <directions>
+      <step>150 g grüne Linsen für 15 Minuten kochen.</step>
+      <step>150 g rote Linsen hinzugeben und 10 weitere Minuten kochen.</step>
+      <step>Zwiebeln und Knoblauch klein würfeln und glasig andünsten.</step>
+      <step>Tomatenmark hinzugeben, kurz mit andünsten, Tomaten hinzugeben und aufkochen.</step>
+      <step>Sauce kräftig mit Salz, Pfeffer, Oregano würzen. Linsen abtropfen lassen und hinzugeben.</step>
+      <step>Linsen in eine Auflaufform geben. Maultaschen dritterln und in die Linsen drücken. Mit Käse bestreuen.</step>
+      <step>Bei 200 Grad für 20 Minuten backen.</steop>
+      <step>Frühlingszwiebeln in feine Ringe schneidne, auf die fertigen Maultaschen geben.</steop>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

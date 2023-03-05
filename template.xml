@@ -11,8 +11,32 @@
 	</yield>
     <ingredients>
 	  <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
     </ingredients>
     <directions>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
       <step></step>
     </directions>
 	<tags>

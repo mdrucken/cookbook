@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kichererbsen Pulau</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Kichererbsen, getrocknet</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Basmati-Reis</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Chilischote, rot</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>1</qty> <unit>kleine Stange</unit> <item>Zimt</item> </ing>
+    <ing> <qty>5</qty> <unit></unit> <item>Nelken</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Kurkuma</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>frischer Koriander, fein gehackt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Rapsöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>150 g Kichererbsen 10 Minuten sprudelnd kochen, salzen, 50 Minuten weiter kochen, bis die Kichererbsen weich sind.</step>
+      <step>2 Zwiebeln in feine Streifen schneiden, 4 Knoblauchzehen und 1 Chilischote fein hacken.</step>
+      <step>5 Nelken, 1 TL Kreuzkümmel, 1 kleine Zimtstange, 1 Chilischote kurz im Rapsöl andünsten.</step>
+      <step>1 EL Kurkuma, Zwiebeln, Knoblauch hinzugeben.</step>
+      <step>250 g Basmati-Reis einrühren und kury mitdünsten.</step>
+      <step>500 ml Wasser aufgießen, salzen und mit Deckel 10 Minuten leich köcheln.</step>
+      <step>Abgetropfte Kichererbsen hinzugeben und im geschlossenen Topf ausquellen lassen.</step>
+      <step>2 Zwiebeln in feine Streifen schneiden, salzen, im Rapsöl dünsten, bis sie hellbraun geröstet sind.</step>
+      <step>Beim Servieren Zwiebeln und Koriander über das Pulau streuen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

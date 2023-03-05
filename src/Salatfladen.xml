@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Salatfladen</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>Dinkelmehl</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Weizenvollkornmehl</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Trokenhefe</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zucker</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>bitterer Salat (Rucola, Radicchio, Endivie)</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Parmesan, gerieben</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Pinienkerne</item> </ing>
+    </ingredients>
+    <directions>
+      <step>120 g Dinkelmehl mit 100 g Weizenvollkornmehl, 0.5 TL Trockenhefe und einer Prise Zucker und Salz vermische. Mit 150 ml Wasser zu einem Teig verkneten.</step>
+      <step>Teig 40 Minuten an einem warmen Ort gehen lassen.</step>
+      <step>200 g Salat in feine Streifen schneiden, Knoblauch fein würfeln. </step>
+      <step>Salat und Knoblauch im Öl braten, bis der Salat zusammenfällt. Salzen, pfeffern.</step>
+      <step>Springform mit Backpapier auslegen, Teig ausrollen und in die Form geben. 10 Minuten gehen lassen.</step>
+      <step>Salatmischung auf dem Teig verteilen, Gorgonzola zerbröseln und dazu geben. Mit Parmesan und Pinienkernen bestreuen.</step>
+      <step>Bei 200 Grad Umluft für 15-20 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

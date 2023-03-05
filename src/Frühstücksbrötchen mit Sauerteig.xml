@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Frühstücksbrötchen mit Sauerteig</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>450</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>25</qty> <unit>g</unit> <item>Roggenmehl 1150</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Wasser</item> </ing>
+    <ing> <qty>155</qty> <unit>g</unit> <item>Milch</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <ing> <qty>15</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Butter, zimmerwarm</item> </ing>
+    <ing> <qty>16</qty> <unit>g</unit> <item>weizensauerteig</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten von Hand zu einem Teig verkneten.</step>
+      <step>Teig für 24 Stunden bei Raumtemperatur reifen lassen, nach 2-8 und 12-18 Stunden dehnen und falten.</step>
+      <step>Teig in 9 Teiglinge zu je circa 90 g teilen. Vom Rand zur Mitte hin schonend einschlagen.</step>
+      <step>Teiglinge eine Stunde mit der glatten Seite nach oben reifen lassen.</step>
+      <step>Teiglinge umdrehen, auf Backpapier setzen und zweimal parallel einschneiden.</step>
+      <step>Ofen auf 250 g vorheizen.</step>
+      <step>Brötchen zwischen zwei Blechen 18-20 Minuten bei 230 Grad backen, oberes Blech nach 5-8 Minuten abnehmen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

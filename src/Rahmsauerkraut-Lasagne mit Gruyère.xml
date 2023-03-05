@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rahmsauerkraut-Lasagne mit Gruyère</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>120</qty> <unit>g</unit> <item>Schalotten</item> </ing>
+    <ing> <qty>1</qty> <unit>Dose</unit> <item>Sauerkraut (500g)</item> </ing>
+    <ing> <qty>30</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Kümmelsamen</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Lorbeerblatt</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Honig</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>200</qty> <unit>ml</unit> <item>weißer Portwein oder Weißwein mit 1 EL Zucker</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Quittensaft oder Apfelsaft</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    <ing> <qty>250</qty> <unit>ml</unit> <item>Gemüsebrühe, kalt</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Majoran</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Fleischtomate</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Gruyère</item> </ing>
+    <ing> <qty>9</qty> <unit></unit> <item>Lasagneplatten</item> </ing>
+    </ingredients>
+    <directions>
+      <step>120g Schalotten in feine Ringe schneiden.</step>
+      <step>1 Dose Sauerkraut ausdrücken (Saft auffangen) und grob zerschneiden.</step>
+      <step>Butter in einen Topf gegen und Sauerkraut mmit Schalotten 5 Minuten hellbraun braten.</step>
+      <step>0.5 TL Kümmel, ein Lorbeerblatt und 2 EL Honig zugeben, mit Salz würzen und 2 Minuten weiter braten.</step>
+      <step>200 ml Portwein zufügen und einkochen lassen.</step>
+      <step>Sauerkraut Saft zufügen und einkochen lassen.</step>
+      <step>150 ml Quittensaft zufügen und einkochen lassen.</step>
+      <step>250 g Sahne, 1 TL Mehl, 250 ml kalte Gemüsebrühe mit Pürierstab kurz pürieren. Zum Kraut geben und 2 Minuten kochen.</step>
+      <step>0.5 TL Majoran hinzugeben, mit Salz, Pfeffer, Zucker abschmecken.</step>
+      <step>1 Tomate in dünne Scheiben schneiden.</step>
+      <step>150 g Gruyère fein hobeln.</step>
+      <step>Lasagneplatten, Sauerkraut, Käse in eine Auflaufform schichten. Die letzte Krautschickt mit Tomatenscheiben belegen.</step>
+      <step>Bei 200 Grad Ober-/Unterhitze für 30 Minuten backen. Vor dem Servieren 10 Minuten abhühlen lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

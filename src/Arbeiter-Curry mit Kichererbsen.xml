@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Arbeiter-Curry mit Kichererbsen</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Kichererbsen, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Natron</item> </ing>
+    <ing> <qty>3</qty> <unit>cm</unit> <item>Ingwer, grob gehackt</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen, grob gehackt</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Chilischote, grün, grob gehackt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Rapsöl</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln, in Streifen geschnitten</item> </ing>
+    <ing> <qty>400</qty> <unit>g</unit> <item>Dosentomaten</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Garam Masala</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmmel</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Cayennepfeffer</item> </ing>
+    <ing> <qty>0.25</qty> <unit>TL</unit> <item>Kurkuma</item> </ing>
+    </ingredients>
+    <directions>
+      <step>200 g Kichererbsen mit Wasser bedecken, 1 TL Natron dazugeben und mindestens 6 Stunden einweichen.</step>
+      <step>Kichererbsen abspülen und 30-45 Minuten kochen, bis sie weich sind.</step>
+      <step>3 cm Ingwer, 2 Knoblauchzehen, 1 Chili mit einer Prise Salz im Mörser zu einer Paste zerstossen.</step>
+      <step>Zwiebeln bei mittlerer Hitze für 10-12 Minuten goldbraun braten.</step>      
+      <step>Ingwerpaster hinzugeben und gut verrüheren. </step>
+      <step>400 g Tomaten und 1 EL Tomatenmark hinzugeben und 10-12 Minuten kochen, bis sich die Sauce sämig andickt.</step>
+      <step>1 TL Garam Masala, 1.5 TL Salz, 1 TL Kreuzkümmmel, 0.5 TL Cayennepfeffer, 0.25 TL Kurkuma einrühren und einige Minuten köcheln lassen.</step>
+      <step>Kichererbsen hinzugeben, ggf. mit Wasser verdünnen. 5 Minuten köcheln lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

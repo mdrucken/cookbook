@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rumkugeln</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Weizenvollkornmehl 550</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Butter, Zimmertemperatur</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Zucker, weiß</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Zucker, braun</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Vanillepaster</item> </ing>
+    <ing> <qty>3</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Eier</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+    <ing> <qty>6</qty> <unit>EL</unit> <item>Kakao</item> </ing>
+    <ing> <qty>60</qty> <unit>ml</unit> <item>Rum</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schokoraspel</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    <ing> <qty>30</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>0.5</qty> <unit>Päckchen</unit> <item>Vanillezucker</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Rum</item> </ing>
+    <ing> <qty>1</qty> <unit>Päckchen</unit> <item>Schokostreusel</item> </ing>
+    </ingredients>
+    <directions>
+      <step>250 g Butter, 100 g weißer Zucker, 100 g brauner Zucker, Vanillepaste verrühren.</step>
+      <step>3 Eier nach und nach dazugeben und verrühren.</step>
+      <step>200 g Schmand dazugeben und verrühren.</step>
+      <step>200 g Weizenmehl, 3 TL Backpulver, eine Prise Salz, 6 EL Kakaopulver separat verrühren und dann zur Buttercreme geben. </step>
+      <step>60 ml Rum hinzugeben und verrühren</step>
+      <step>100 g Schokoraspel mit einem Löffel unter den Teig heben.</step>
+      <step>Teig in eine Springform geben und bei 180 Grad für 50-55 Minuten backen.</step>
+      <step>Mit Holzstäbchen prüfen, es soll noch etwas Schokolade am Stäbchen kleben bleiben.</step>
+      <step>Kuchen vollständig abhühlen lassen und dann in einer Küchenmaschine zerkleinern.</step>
+      <step>Die Kuchenbrösel in eine große Schüssel geben, 30 g sehr weiche Butter, 0.5 Päckchen Vanillezucker, 80 g Puderzucker, 1 EL dazu geben und vermengen. </step>
+      <step>Masse zu kleinen Kugeln formen ind in Schokostreusel wenden.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Christstollen a la Gote</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Vorteig</title>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>1</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    <ing> <qty>50</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+    </ing-div>
+    <ing-div><title>Hauptteig</title>
+    <ing> <qty></qty> <unit></unit> <item>Gesamter Vorteig</item> </ing>
+    <ing> <qty>400</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>42</qty> <unit>Würfel</unit> <item>Hefe</item> </ing>
+    <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>4</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Butter, kalt</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Rosinen</item> </ing>
+    <ing> <qty>50</qty> <unit>ml</unit> <item>Rum</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Mandeln, geschält</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Bittermandeln</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Zitronat</item> </ing>
+    <ing> <qty>30</qty> <unit>g</unit> <item>Orangeat</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Schale einer Zitrone</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Macis (Muskatblüte)</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Butter zum Bepinseln</item> </ing>
+    <ing> <qty>50</qty> <unit>50</unit> <item>Puderzucker zum Bestreuen</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Rosinen und Rum mischen, 24 Stunden ziehen lassen.</step>
+      <step>100g Mehl, 1g Hefe, 50ml Wasser verrühren und 24 Stunden an einem kühlen Ort gehen lassen.</step>
+      <step>Mandeln und Bittermandeln im Mixer zerkleinern.</step>
+      <step>Zitronat und Orangeat hinzugeben und klein hacken.</step>
+      <step>Hefe in 250ml kalter Milch auflösen.</step>
+      <step>Mehl mit Hefemilch und Zucker verrühren. Solange kneten, bis ein geschmeidiger Teig entsteht. Ggf. noch etwas Milch hinzugeben.</step>
+      <step>Mandlemischung mit Salz, Macis, Zitronenschale einarbeiten</step>
+      <step>Portionsweise die kalte Butter und dann die Rosinen einarbeiten.</step>
+      <step>Weiterkneten, bis sich ein fester Teig gebildet hat (mindestens 10 Minuten).</step>
+      <step>Über Nacht im Kühlschrank gehen lassen.</step>
+      <step>Teig am nächstne Tag in zwei Kugeln formen und in ca. zwei Stunden auf Raumtemperatur erwärmen lassen.</step>
+      <step>Kugel zu einem länglichen Brot formen, auf ein Blech mit Backpapier setzen und nochmal eine Stunde zugedeckt gehen lassen.</step>
+      <step>Stollen längs 15mm tief einschneiden.</step>
+      <step>Backofen auf 200 Grad vorheizen. Eine Stunde backen, nach 20 Minuten Temperatur auf 180 Grad reduzieren.</step>
+      <step>Butter zerlassen und noch heissen Stollen bepinseln. Mit Puderzucker bestäuben und ganz auskühlen lassen.</step>
+      <step>In Alufolie einwickeln und 2-4 Wochen durchziehen lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

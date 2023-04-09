@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rotkohl Gemüse</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Rotkohl</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>säuerliche Apfel (ca. 2 Stück)</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Weinessig</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, bespickt mit Lohrbeerblätern und Nelken</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Nelken</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Lohrbeerblätern</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Zimt</item> </ing>
+    <ing> <qty>125-250</qty> <unit></unit> <item>Wasser, Rotwein, Apfelsaft</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Rotkohl vierteln und in feine Streifen schneiden.</step>
+      <step>Essig kurz erhitzen und über den Rotkohl geben, durchmischen.</step>
+      <step>Öl in einem grossen Topf erhitzen, Rotkohl dazugeben, gespickte Zwiebel, Salz, Pfeffer hinzugeben. Mit wenig heissem Wasser aufgiessen.</step>
+      <step>1.5 Stunden im geschlossenen Topf dünsten. Gelegentlich umrühren und Flüssigkeit nachgiessen.</step>
+      <step>Nach 30 Minuten in Stücke geschnittene Äpfel zugeben.</step>
+      <step>Am Garende Zwiebel entfernen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

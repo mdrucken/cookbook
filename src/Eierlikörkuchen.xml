@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Eierlikörkuchen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>ml</unit> <item>Rapsöl</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>5</qty> <unit></unit> <item>Eier</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Eierlikör</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>1</qty> <unit>Päckchen</unit> <item>Vanille-Pudding</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Butter und Zucker schaumig schlagen, Eier einzeln untermixen.</step>
+      <step>Übrige Zutaten zugeben und kurz mixen.</step>
+      <step>Backform ausbuttern und dünn mit Paniermehl bestreuen.</step>
+      <step>Teig in die Form geben und 75 Minuten bei 180 Grad backen.</step>
+      <step>In der Form auskühlen lassen, stürzen und mit Puderzucker besteuben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wildschwein Gulasch</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Gulasch</title>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1</qty> <unit>kg</unit> <item>Gulasch vom Wildschwein</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Rosmarin, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Majoran, getrocknet</item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Thymian, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kümmelpulver</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Paprika, edelsüß</item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Paprika, rosenscharf</item> </ing>
+    </ing-div>
+    <ing-div><title>Sauce</title>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Bacon</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Ziwbel, mittelgross</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>350</qty> <unit>ml</unit> <item>Rotwein, trocken</item> </ing>
+    <ing> <qty>500</qty> <unit>ml</unit> <item>Wildfond</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Preiselbeeren</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Fleisch mit den gewürzen mischen.</step>
+      <step>Bocan, Zwiebeln, Knoblauch, Tomatenmark anrösten.</step>
+      <step>Fleisch hinzugeben und gut anbraten. Mit Wein und Wildfond ablöschen.</step>
+      <step>Zudecken und dann in den vorgeheizten Backofen (200 Grad Ober-Unterhitze)</step>
+      <step>45 Minuten schmoren, dann Preiselbeeren einrühren und weitere 45 Minten schmoren.</step>
+      <step>Bräter aus dem Backofen nehmen, Schmand einrühren und mit Pfeffer und Salz abschmecken. Aufkochen.</step>
+      <step>Variante: 10 Minuten vor Ende der Schmorzeit 250g Pilze hinzufügen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

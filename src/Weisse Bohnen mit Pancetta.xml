@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Weisse Bohnen mit Pancetta</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>getrocknete kleine weisse Bohnen (Canellini)</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Pancetta</item> </ing>
+    <ing> <qty>10</qty> <unit>Blätter</unit> <item>Salbei</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Bohnen über Nacht einweichen.</step>
+      <step>Bohnen am nächsten Tag mit viel kaltem Wasser aufsetzen und 60 Minuten weich kochen. Abgiessen.</step>
+      <step>Pancetta, Salbei, Zwiebel in feine Streifen schneiden.</step>
+      <step>Pancetta und Salbei in etwas Olivenöl sanft andünsten.</step>
+      <step>Ziebel, Knoblauch dazugeben, salzen, pfeffern.</step>
+      <step>Einige Minuten bei niedriger Hitze dünsten.</step>
+      <step>Gekochte Bohnen einrühren und wieder heiss werden lassen.</step>
+      <step>Abschmecken und etwas Olivenöl hinzugeben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

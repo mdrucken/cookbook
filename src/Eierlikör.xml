@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Eierlikör</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>6</qty> <unit></unit> <item>Eigelb, frisch</item> </ing>
+    <ing> <qty>1</qty> <unit>Päckchen</unit> <item>Bourbon-Vanillezucker</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+    <ing> <qty>80</qty> <unit>ml</unit> <item>Jamaika-Rum</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Meersalz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>6 Eigelb mit 80g Puderzucker und 1 Päckchen Vanillezucker schaumig rühren.</step>
+      <step>Schüssel in ein heisses Wasserbad setzen und so lange weiter schlagen, bis das Eigelb cremig bindet.</step>
+      <step>Schüssel in kaltes Wasser setzen und abkühlen lassen.</step>
+      <step>150g Sahne steif schlagen und unter die Eiermasse haben.</step>
+      <step>80ml Rum einrühren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

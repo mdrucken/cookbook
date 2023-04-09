@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gyros</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>4</qty> <unit></unit> <item>Schweineschnitzel</item> </ing>
+    <ing> <qty>3</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>3</qty> <unit>TL</unit> <item>Majoran</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Thymian</item> </ing>
+    <ing> <qty>3</qty> <unit>TL</unit> <item>Paprika, edelsüß</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreutzkümmel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    </ingredients>
+    <directions>
+      <step>Schnitzel in Streifen schneiden. Zwiebeln in Streifen schneiden. Knoblauch fein hacken.</step>
+      <step>Alle Zutaten, bis auf die Paprika vermischen und gut durchziehen lassen.</step>
+      <step>Heiss anbraten, dann mit Paprika, Salz, Pfeffer abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Amerikaner mit Zuckerguss</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Butter, weich</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit>Päckchen</unit> <item>Vanillezucker</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+    <ing> <qty>2</qty> <unit>Eier</unit> <item>Eier</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Stärke</item> </ing>
+    <ing> <qty>3</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+    <ing> <qty>80</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    </ing-div>
+    <ing-div><title>Guss</title>
+    <ing> <qty>2-3</qty> <unit>EL</unit> <item>Zitronensaft (oder Wasser)</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>100g weiche Butter mmit 75g Zucker, 1 Päckchen Vanillezucker, einer Prise Salz schaumig schlagen.</step>
+      <step>Nach und nach die zwei Eier dazu geben.</step>
+      <step>250g Mehl und 1 EL Stärke mischen, abwechselnd mit 80ml Milch unterrühren.</step>
+      <step>Teig in einem Spritzbeutel mit großer Lochtülle (ca. 12mm) füllen. Mit abstand gleichgroße Häufchen (ca. 6cm Durchmesser) spritzen.</step>
+      <step>13-15 Minuten bei 160 Grad Umluft backen.</step>
+      <step>2-3 EL Zitronensaft mit 150g Puderzucker verrühren. Auf die glatte Unterseite der Amerikaner streichen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

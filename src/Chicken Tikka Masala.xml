@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Chicken Tikka Masala</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Hähnchenbrust</item> </ing>
+    <ing> <qty>0.5</qty> <unit>Becher</unit> <item>Joghurt</item> </ing>
+    <ing> <qty>1</qty> <unit>kleine Dose</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Ingwer</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Knoblauch, gepresst</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Currypulver</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Paprika edelsüß</item> </ing>
+    <ing> <qty>2</qty> <unit>Msp</unit> <item>Korianderpulver</item> </ing>
+    <ing> <qty>2</qty> <unit>Msp</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>1</qty> <unit>Msp</unit> <item>Nelkenpulver</item> </ing>
+    <ing> <qty>1</qty> <unit>Msp</unit> <item>Zimtpulver</item> </ing>
+    <ing> <qty>1</qty> <unit>Msp</unit> <item>Cayennepfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Vanillepulver</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Schalotte, groß</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Paprikaschoten</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zitronensaft</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Hähnchenbrust in Stücke schneiden. Mit allen Gewürzen mehrere Stunden marinieren.</step>
+      <step>Schalotte würfeln und salzen. In wenig Öl goldbraun anbraten.</step>
+      <step>Fleisch mit Marinade zugeben und bei mittlerer Hitze 15 Minuten garen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

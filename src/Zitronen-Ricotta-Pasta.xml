@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Zitronen-Ricotta-Pasta</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Linguine</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zitronen (Bio)</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Ruccolo</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Erbsen (TK)</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Ricotta</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Nudeln al dente kochen.</step>
+      <step>Zitrone heiss waschen und 2 TL Schale abreiben. Saft auspressen.</step>
+      <step>Erbsen zu den Nudeln geben und 1 Minute mit garen, abgiessen und 150ml Nudelwasser auffrangen.</step>
+      <step>Olivenöl, Zitronenschale und Zitronensaft im Topf erhitzen. 100-150ml Nudelwasser, Linguine und Erbsen zugeben.</step>
+      <step>Ricotta untermmischen und mit Salz und Pfeffer abschmecken.</step>
+      <step>Ruccola untermischen und servieren.</step>
+      <step>Mit Parmesan bestreuen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

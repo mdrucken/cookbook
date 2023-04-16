@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Chapatis</title>
+    </head>    
+    <yield>
+		<qty>2</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>240</qty> <unit>g</unit> <item>Wasser, 22°C</item> </ing>
+    <ing> <qty>8</qty> <unit>g</unit> <item>Pflanzenöl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Weizenvollkornmehl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>8</qty> <unit>g</unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Alle Zutaten ausser Salz in eine Schüssel geben.</step>
+      <step>5 Minuten auf niedrigster Stufe kneten.</step>
+      <step>5-6 Minuten auf zweiter Stufe kneten, bis der Teig glatt und elastisch ist.</step>
+      <step>Salz zugeben und 3-5 Minuten weiter kneten.</step>
+      <step>Teig abgedeckt für 8-24 Stunden im Kühlschrank ruhen lassen</step>
+      <step>Teig in 80g schwere Stücke teilen.</step>
+      <step>Teiglinge rundschleifen und 30 Minuten bei Raumtemperatur abgedeckt entspannen lassen.</step>
+      <step>Teigling mit Schluss nach unten zu einem 1mm dicken Fladen (ca. 25cm Durchmesser) ausrollen.</step>
+      <step>In einer heissen Pfanne backen, bis die Oberseite Blasen zeigt. Wenden und von der anderen Seite kurz bräunen.</step>
+      <step>Bei 60°C im Backoffen warm halten</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

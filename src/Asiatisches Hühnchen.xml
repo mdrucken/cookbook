@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Asiatisches Hühnchen</title>
+    </head>    
+    <yield>
+		<qty>4</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>800</qty> <unit>g</unit> <item>Hähnchenbrust</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1</qty> <unit>Stange</unit> <item>Zitronengras</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>5</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+    <ing> <qty>20</qty> <unit>g</unit> <item>Ingwer</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Fischsauce</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Sojasauce, hell</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Reiswein</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Rohrzucker</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Erdnüsse, ungesalzen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Chilipulver</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Äußere Blätter des Zitronengras entfernen und Stängel fein hacken.</step>
+      <step>Knoblauch fein hacken, Ingwer schälen und vierteln. Frühlingszwiebeln in feine Ringe schneiden.</step>
+      <step>Hähnchenbrust relativ fein würfeln, anbraten, salzen und pfeffern.</step>
+      <step>Zucker, Zitronengras, Ingwer, Knoblauch und Frühlingszwiebeln einrühren und kurz mitdünsten. Mit Chillipulver schärfen.</step>
+      <step>Mit Reiswein, Sojasauce, Fischsauce ablöschen und Wasser zufügen, bis alles bedeckt ist.</step>
+      <step>5 Minuten knapp unter dem Siedepunkt köcheln.</step>
+      <step>Erdnüsse kurz anrösten, fein hacken und unterziehen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

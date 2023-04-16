@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tortillas</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Kochstück</title>
+	  <ing> <qty>210</qty> <unit>g</unit> <item>Wasser</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <ing> <qty>70</qty> <unit>g</unit> <item>Maisgriess, fein oder Maismehl</item> </ing>
+    </ing-div>
+    <ing-div><title>Hauptteig</title>
+    <ing> <qty></qty> <unit></unit> <item>gesamtes Kockstück</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Pflanzenöl</item> </ing>
+    <ing> <qty>120</qty> <unit>g</unit> <item>Wasser, 22 °C</item> </ing>
+    <ing> <qty>430</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Wasser, Salz, Maisgriess unter Rühren aufkochen, bis die Masse zu stocken beginnt.</step>
+      <step>Vom Herd nehmen und kurz weiterrühren.</step>
+      <step>Mit Klarsichtfolie abdecken und mindestens 4 Stunden quellen lassen.</step>
+      <step>Alle Zutaten in eine Schüssel geben.</step>
+      <step>5 Minuten von Hand mischen, Teig wird mit der Zeit feuchter und elastischer.</step>
+      <step>8-10 Minuten kneten, bis der Teig glatt und elastisch ist.</step>
+      <step>Teig abdeckt für 8-24 Stunden im Kühlschrank ruhen lassen.</step>
+      <step>Teig in acht Stücke von circa 105g teilen.</step>
+      <step>Teiglinge rund schleifen und 30 Minuten bei Raumtemperatur abgedeckt entspannen lassen.</step>
+      <step>Teigling mit Mehl bestreichen und mit Schluss nach unten rund ausdrücken.</step>
+      <step>Mit dem Rollholz zu einem dünnen Fladen (ca. 27 cm Durchmesser) ausrollen.</step>
+      <step>In der Pfanne backen, bis die Unterseite erste braune Flecken zeigt. Dann wenden und andere Seite kurz bräunen.</step>
+      <step>Im Backofen bei 60°C warm halten.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

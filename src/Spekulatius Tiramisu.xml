@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spekulatius Tiramisu</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>700-1000</qty> <unit>g</unit> <item>Gewürz Spekulatius</item> </ing>
+    <ing> <qty>500</qty> <unit>g</unit> <item>Mascarpone</item> </ing>
+    <ing> <qty>600</qty> <unit>ml</unit> <item>Schlagsahne, steif geschlagen</item> </ing>
+    <ing> <qty>500</qty> <unit>ml</unit> <item>Orangensaft</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1-2</qty> <unit>EL</unit> <item>Backkakao</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Puderzucker zum bestäuben</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Sahne steif schlagen.</step>
+      <step>Mascarpone mit Zucker cremig rühren. Sahne in zwei Etappen unterrühren.</step>
+      <step>Orangensaft in eine Schüssel geben und Spekulatius hinein tunken.</step>
+      <step>Spekulatius und Mascarpone-Creme in eine Form schichten. Mit Mascarpone abschliessen.</step>
+      <step>Mit Backkakao und zerpröseltem Spekulatius bestäuben.</step>
+      <step>Mindestens 4 Stunden kühl stellen.</step>
+      <step>Vor dem Anrichten mit etwas Puderzucker bestäuben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

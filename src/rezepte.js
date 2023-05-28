@@ -5,6 +5,7 @@ function onSearch() {
     else
         box.style.display = "none";
     box.value = "";
+    box.focus();
     filterList();
 }
 function filterList() {

@@ -16,7 +16,7 @@
     <ing> <qty>0.4</qty> <unit>g</unit> <item>Hefe</item> </ing>
     </ingredients>
     <directions>
-      <step>Teig nach <a href="Grundrezept Brotteig mit Hefe.xml">Grundrezept</a> zubereiten.</step>
+      <step>Teig nach <recipe-ref url="Grundrezept Brotteig mit Hefe.xml">Grundrezept</recipe-ref> zubereiten.</step>
       <step>Teig in 3-4 Teile portionieren (250-350g).</step>
       <step>Teigling an der kurzen Seite greifen und mehrfach einschlagen.</step>
       <step>Mit der glatten Seite nach unten für 30 Minuten im Tuch reifen lassen.</step>

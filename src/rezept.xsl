@@ -96,6 +96,10 @@
     </li>
   </xsl:template>
 
+ <xsl:template match="recipe-ref">
+  <a href="{@url}"><xsl:apply-templates/></a>
+ </xsl:template>
+
   <xsl:template match="unit">
       <xsl:text> </xsl:text><xsl:apply-templates />
   </xsl:template>

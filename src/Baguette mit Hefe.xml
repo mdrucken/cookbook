@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Baguette mit Hefe</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>590</qty> <unit>g</unit> <item>Weizenmehl T65</item> </ing>
+    <ing> <qty>400</qty> <unit>g</unit> <item>Wasser</item> </ing>
+    <ing> <qty>12</qty> <unit>g</unit> <item>Salz</item> </ing>
+    <ing> <qty>0.4</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Teig nach <a href="Grundrezept Brotteig mit Hefe.xml">Grundrezept</a> zubereiten.</step>
+      <step>Teig in 3-4 Teile portionieren (250-350g).</step>
+      <step>Teigling an der kurzen Seite greifen und mehrfach einschlagen.</step>
+      <step>Mit der glatten Seite nach unten für 30 Minuten im Tuch reifen lassen.</step>
+      <step>Teigling erneut von vorne nach hinten einschalgen.</step>
+      <step>Mit der flachen Hand auf die gewünschte Länge rollen.</step>
+      <step>Teigling mit der glatten Seite nach oben 30 Minuten im Tuch reifen lassen.</step>
+      <step>Mit der glatten Seite nach unten auf das Backblech setzen.</step>
+      <step>Backofen auf 250 Grad Ober-/Unterhitze vorheitzen.</step>
+      <step>Teiglinge zwischen zwei Blechen in den Backofen geben.</step>
+      <step>Für 25 Minuten bei 230 Grad backen.</step>
+      <step>Nach 5 Minten das obere Blech entfernen.</step>
+      <step>Nach 22-23 MInuten feuchte Luft entweichen lassen/auf Umluft umstellen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

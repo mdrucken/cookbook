@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Sauerkraut-Quiche</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Eier</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Butter, kalt</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Speck</item> </ing>
+    <ing> <qty>700</qty> <unit>g</unit> <item>Sauerkraut</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Mehl, 0.5 TL Salz, 1 Ei, 100g Butter zu einem glatten Teig verkneten. Für eine Stunde kalt stellen.</step>
+      <step>Teig ausrollen und in eine Quiche Form geben.</step>
+      <step>Speck auslassen und Ziebeln dazu gaben und glasig rösten.</step>
+      <step>Sauerkraut grob hacken und hinzugeben. Bei schwacher Hitze 10 Minuten dünsten. Salzen und Pfeffern.</step>
+      <step>150g Schmand mit 3 Eiern verrühren und unter das Sauerkraut haben.</step>
+      <step>Sauerkrautmischung in die Quiche Form geben und 30 Minuten bei 180 Grad Umluft backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

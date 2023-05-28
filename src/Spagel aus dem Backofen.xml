@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spargel aus dem Backofen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Spargel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Butter</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zucker</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Spargel schälen, Enden abschneiden.</step>
+      <step>Sieben Spargelstangen auf die Alufolie (glänzende Seite nach oben) legen.</step>
+      <step>Spargel mit Salz, Zucker und Butterflocken bestreuen.</step>
+      <step>In Alufolie einschlagen und 30 Minuten bei 180 Grad backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

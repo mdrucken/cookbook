@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Macaron - französisch</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Grundrezept</title>
+	  <ing> <qty>110</qty> <unit>g</unit> <item>Mandelmehl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Eiweiß, 12-24h gereift</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    </ing-div>
+    <ing-div><title>Garnache mit weißer Schokolade</title>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schokolade, weiß</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Eiweiß trennen und 12-24h im Kühlschrank reifen lassen.</step>
+      <step>110g Mandelmehl und 200g Puderzucker vermengen und gründlich sieben.</step>
+      <step>100g Eiweiß stteif schlagen und dann nach und nach Zucker zufügen.</step>
+      <step>Eischnee unter die Mandelmehl/Puderzucker mischen heben.</step>
+      <step>Mit einer 1 cmm Tülle auf Backpapier spritzen und trocknen lassen.</step>
+      <step>Sobald die Macaron eine trockene Schale haben, für 13 Minuten bei 125 Grad Umluft backen.</step>
+      <step>Für die Garnache 100g weiße Schokolade fein hacken.</step>
+      <step>50g Sahne unter Rühren aufkochen und mit der Schokolade verrühren.</step>
+      <step>Garnache mindestens eine Stunde kalt stellen.</step>
+      <step>Kalte Garnache aufschlagen und mit einem Spritzbeutel auf den Macaron-Hälften verteilen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

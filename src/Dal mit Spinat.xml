@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Dal mit Spinat</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, mittelgroß</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>3</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Chilischote, rot</item> </ing>
+    <ing> <qty>130</qty> <unit>g</unit> <item>Spinat</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+    <ing> <qty>200</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Öl in einer Pfanne langsam erhitzen, Zwiebeln und Gewürze zugeben, mit einer Prise Salz würzen. Einige Minuten bei mittlerer Hitze andünsten.</step>
+      <step>Linsen mit kaltem Wasser abspülen, in die Pfanne geben, kurz anbraten.</step>
+      <step>100ml Wasser hinzufügen, gut rühren.</step>
+      <step>Spinat in die Pfanne geben, 100ml Wasser hinzufügen. Leicht köcheln lassen und gelegendlich umrühren.</step>
+      <step>Joghurt unterrühren.</step>
+      <step>Als Extra mit Petersilie, Koriander und Zitronensaft verfeinern.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

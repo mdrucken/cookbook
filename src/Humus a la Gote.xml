@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Humus a la Gote</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Kichererbsen, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Tahin</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Saft einer Zitrone</item> </ing>
+    <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Kreuzkümmel, gemahlen</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kichererbsen über Nacht in kaltem Wasser einweichen.</step>
+      <step>Kichererbsen in viel Wasser 10 Minuten sprudelnd kochen, salzen und dann bei niedriger Hitze weitere 60 Minuten garen. Abtropfen und abkühlen lassen.</step>
+      <step>Kichererbsen mit den anderen Zutaten vermengen und pürrieren.</step>
+      <step>Abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

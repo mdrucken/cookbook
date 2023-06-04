@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gnocchi-Pfanne mit Ruccola und Speck</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Speck</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Ruccola</item> </ing>
+    <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Gnocchi</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Parmesan, gerieben</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Butter</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer, schwarz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Knoblauch und Zwiebeln fein hacken.</step>
+      <step>Knoblauch, Zwiebeln und Speck 1-2 Minuten anbraten.</step>
+      <step>Gnocchi hinzugeben, 2-3 Minuten braten.</step>
+      <step>Ruccola unterheben, Parmesan und Butter unterrühren.</step>
+      <step>Mit Pfeffer abschmecken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Wirsing mit Kartoffeln</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>650</qty> <unit>g</unit> <item>Wirsing</item> </ing>
+    <ing> <qty>700</qty> <unit>g</unit> <item>Kartoffeln</item> </ing>
+    <ing> <qty>700</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+    <ing> <qty>350</qty> <unit>ml</unit> <item>Gemüseflüssigkeit</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Emmentaler</item> </ing>
+    <ing> <qty>30</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>1</qty> <unit>MB</unit> <item>Sahne</item> </ing>
+    <ing> <qty>3</qty> <unit>gestr. EL</unit> <item>Speisestärke</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Muskat</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Wirsing in grobe Stücke schneiden und in den aroma geben.</step>
+      <step>Kartoffeln schälen, vierteln und in den Gareinsatz geben.</step>
+      <step>Gemüsebrühe in den Topf füllen, 25 Minuten auf Stufe 1 garen.</step>
+      <step>Varoma zur seite Stellen und Kartoffeln warm halten.</step>
+      <step>Übrige Zutaten in den Topf geben und 4 Minuten bei 100 Grad auf Stufe 4 aufkochen.</step>
+      <step>Wirsing zugeben und 10 Sekunden auf Stufe 4 zerkleinern.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

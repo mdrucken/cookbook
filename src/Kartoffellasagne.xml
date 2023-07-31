@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kartoffellasagne</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Raiccho</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Mehl</item> </ing>
+    <ing> <qty>500</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>kg</unit> <item>Kartoffeln, mehlig kochend</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Raiccho waschen, vierteln, vom Strunk befreien. In 1-2cm breite Streifen schnedien. Für 1 Minute im kochenden Salzwasser garen und mit kaltem Wasser abschrecken.</step>
+      <step>Fein gehacken Knoblauch dazu geben.</step>
+      <step>1 EL Butter schmelzen und 1 EL Mehl darin anschwitzen. 500ml Milch mit einem Schneebesen unterrühren.</step>
+      <step>Sauce bei mittlerer Hitze 10 Minuten köcheln lassen. Gorgonzola in der Sauce schmelchen. Salzen und pfeffern.</step>
+      <step>Kartoffeln schälen und in 0.5cm dicke Scheiben schneiden.</step>
+      <step>Form abwechselnd mit Kartoffelscheiben, Radicchio und Sauce füllen. Die letzte Schicht sollten Kartoffeln sein.</step>
+      <step>Mit Parmesan bestreuen und 1 EL Bufferflocken darauf verteilen.</step>
+      <step>Für ca. 50 Minuten bei 160 Grad Umluft backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

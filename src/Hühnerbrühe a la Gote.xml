@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hühnerbrühe a la Gote</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Lauch</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Möhre</item> </ing>
+    <ing> <qty>1</qty> <unit>Stange</unit> <item>Sellerie</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>10</qty> <unit></unit> <item>Pfefferkörner</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Suppenhuhn</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Huhn halbieren und in 3 Liter kaltem Wasser aufsetzen.</step>
+      <step>Im offenen Topf aufkochen und salzen. 5 Minuten bei mmittlerer Hitze kochen.</step>
+      <step>Gemüse dazugeben, offen 1 Stunde leicht köcheln lassen.</step>
+      <step>Hitze abschalten und bei geschlossenem Deckel 1 weiter Stunde ziehen lassen.</step>
+      <step>Durch ein Sieb abgiessen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

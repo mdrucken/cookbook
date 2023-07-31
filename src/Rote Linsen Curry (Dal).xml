@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rote Linsen Curry (Dal)</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+    <ing> <qty>1</qty> <unit>l</unit> <item>Wasser</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Ziebel, fein gehackt</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Ingwer, fein gehackt</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Kokosraspel</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Dosentomaten</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Korkumapulver</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Chilipulver</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>50</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Korianderpulver</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Garam Masala</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Linsen waschen, auf kleiner Flamme köcheln, bis sie zerfallen.</step>
+      <step>Öl erhitzen, Zwiebeln und Kreuzkümmel goldbraun anbraten.</step>
+      <step>Ingwer und Kokosraspeln zugeben und etwas eine Minute weiter braten.</step>
+      <step>Tomaten hinzugeben und 5 Minuten auf kleiner Flamme köcheln</step>
+      <step>Korkuma, Chili, Salz, Sahne und Linsen mit der Flüssigkeit hinzufügen.</step>
+      <step>10-15 Minuten auf kleiner Flamme köcheln lassen.</step>
+      <step>Vor dem Servieren mit Kariander und Garam Masala würzen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

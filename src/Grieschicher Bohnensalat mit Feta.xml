@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Grieschicher Bohnensalat mit Feta</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Bohnen, weiß, aus der Dose</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Tomaten</item> </ing>
+    <ing> <qty>0.5</qty> <unit></unit> <item>Gurke</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, rot</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Oliven, schwarz, ohne Stein</item> </ing>
+    <ing> <qty>5</qty> <unit>Stängel</unit> <item>Petersilie</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zitrone</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Feta</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Bohnen abspülen und abtropfen lassen.</step>
+      <step>Tomaten in kleine Stücke schneiden. Gurke vierteln und in Scheiben schneiden.</step>
+      <step>Zwiebel in feine Würfel schneiden, Oliven grob und Petersilie fein hacken.</step>
+      <step>Bohnen, Tomaten, Gurke, Ziwebel, Oliven und Petersilie in eine Schüssel geben. Mit Saft der Zitrone und Olivenöl beträufeln.</step>
+      <step>Feta zerbröseln, über den Salat geben.</step>
+      <step>Vermengen und mit Salz und Pfeffer würzen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

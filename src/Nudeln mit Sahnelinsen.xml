@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Nudeln mit Sahnelinsen</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Linsen, rot</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Sahne</item> </ing>
+    <ing> <qty>0.5</qty> <unit></unit> <item>Schmand</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Koriander, gemahlen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Paprikapulver</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Parmesan</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Bandnudeln</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Nudeln al dente Kochen.</step>
+      <step>Linsen in Salzwasser mit Koriander 5-10 Minuten kochen.</step>
+      <step>Zwiebeln würfeln und glasig andünsten.</step>
+      <step>Sahne und Schmand hinzufügen, cremig einkochen lassen.</step>
+      <step>Linsen zufügen, mit Salz, Koriander, Kreuzkümmel, Paprika würzen.</step>
+      <step>Nudeln unterhebben, eventuell mit Parmesan bestreuen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Scharfer Gurkensalat</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Salatgurke</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, rot</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Chilis</item> </ing>
+    <ing> <qty>5</qty> <unit>EL</unit> <item>Reisessig, hell</item> </ing>
+    <ing> <qty>5</qty> <unit>EL</unit> <item>Wasser</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Zucker</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Gurke in Scheiben, Chillis in feine Ringe, Zwiebel in Streifen schneiden und vermischen.</step>
+      <step>5 EL hellen Reisessig, 5 EL Wasser, 1 EL Zucker, Salz aufkochen und ueber die Gurken gaben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

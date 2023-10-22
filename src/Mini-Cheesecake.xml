@@ -15,12 +15,13 @@
     <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
     </ing-div>
     <ing-div><title>Füllung</title>
-    <ing> <qty>450</qty> <unit>g</unit> <item></item> </ing>
-    <ing> <qty>100</qty> <unit>g</unit> <item></item> </ing>
-    <ing> <qty>2</qty> <unit>Pck</unit> <item></item> </ing>
-    <ing> <qty>1</qty> <unit>TL, gestrichen</unit> <item></item> </ing>
-    <ing> <qty>2</qty> <unit></unit> <item></item> </ing>
+    <ing> <qty>450</qty> <unit>g</unit> <item>Doppelrahm Frischkaese</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>2</qty> <unit>Pck</unit> <item>Vanillezucker</item> </ing>
+    <ing> <qty>1</qty> <unit>TL, gestrichen</unit> <item>Zitronenabrieb</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
     <ing> <qty>150</qty> <unit></unit> <item>Crème Fraîche</item> </ing>
+    </ing-div>
     </ingredients>
     <directions>
       <step>Kekse fein zerbroeseln und mit geschmolzener Butter vermischen. In Papierfoermchen geben und gut andruecken. In den Kuehlschrank stellen.</step>

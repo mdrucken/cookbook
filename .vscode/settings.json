@@ -2,5 +2,18 @@
     "git.ignoreLimitWarning": true,
     "cSpell.words": [
         "IGNOREFILES"
-    ]
+    ],
+    "cSpell.language": "de,de-DE",
+    "cSpell.allowedSchemas": [
+        "file",
+        "gist",
+        "repo",
+        "sftp",
+        "untitled",
+        "vscode-notebook-cell",
+        "vscode-scm",
+        "vscode-userdata",
+        "xml"
+    ],
+    "cSpell.enabled": true
 }

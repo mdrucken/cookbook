@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Mini-Cheesecake</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Boden</title>
+	  <ing> <qty>120</qty> <unit>g</unit> <item>Kekse (Spekulatius)</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Butter</item> </ing>
+    </ing-div>
+    <ing-div><title>Füllung</title>
+    <ing> <qty>450</qty> <unit>g</unit> <item></item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item></item> </ing>
+    <ing> <qty>2</qty> <unit>Pck</unit> <item></item> </ing>
+    <ing> <qty>1</qty> <unit>TL, gestrichen</unit> <item></item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item></item> </ing>
+    <ing> <qty>150</qty> <unit></unit> <item>Crème Fraîche</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kekse fein zerbroeseln und mit geschmolzener Butter vermischen. In Papierfoermchen geben und gut andruecken. In den Kuehlschrank stellen.</step>
+      <step>Alle Zutaten fuer die Fuellung sollten Raumtemperatur haen.</step>
+      <step>Frischkaese cremig ruehren. Zucker, Vanillezucker und Zitronenabrieb unterrühren.</step>
+      <step>Eier nach und nach einruehren, dann die Crème Fraîche. Soviel Luft wie moeglich in die Masse schlagen.</step>
+      <step>Füllung auf die Keksboeden geben und 18-22 Minuten backen.</step>
+      <step>Eine halbe Stunde abkuehlen lassen. Dann mit Frischhaltefolie abgedecken und mindestens 3 Stunden in den Kuehlschrank stellen.</step>
+      <step>Mit frischen Beeren servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

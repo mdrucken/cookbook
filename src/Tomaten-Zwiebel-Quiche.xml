@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tomaten-Zwiebel-Quiche</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>125</qty> <unit>g</unit> <item>gemahlene Mandeln oder Dinkelvollkornmehl</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Dinkelvollkornmehl</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Olivenoel</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Magerquark</item> </ing>
+    <ing> <qty>1</qty> <unit>EL, gestrichen</unit> <item>Meersalz, grob</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Rosmarin</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>Glas</unit> <item>Tomaten, getrocknet, in Oel</item> </ing>
+    <ing> <qty>4</qty> <unit>4</unit> <item>Eier</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty>200</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Kaese, gerieben</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Aus 250g Quark, 100ml Olivenoel, 250g Mehl, 1EL Rosmarin, 1 EL Salz den Teig kneten. In eine 28cm Springform geben.</step>
+      <step>Zwiebeln, Knoblauch fein hacken.</step>
+      <step>Tomaten gut abtropfen lassen und in kleiner Wuerfel schneiden. Mischen und auf dem Boden verteilen.</step>
+      <step>Eier, Sahne und Kaese, 1El Rosmarin verquirlen, pfeffern und salzen. Ueber die Tomaten-Zwiebel Mischung geben.</step>
+      <step>Fuer 25 Minuten bei 200 Grad backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

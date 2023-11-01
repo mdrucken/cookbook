@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Ölsardinen mit Gewürzgurken und Ei</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Ölsardinen, ohne Haut und Gräten, Abtropfgewicht</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebel, klein</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Gewürzgurken, klein</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Ei, hartgekocht, klein</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Paprika, edelsüss</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Schmand, 10% Fett</item> </ing>
+    <ing> <qty>0.5</qty> <unit></unit> <item>Saft einer Zitrone</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Rapsöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Abgtropfte Sardinen in eine Schüssel geben.</step>
+      <step>Zwiebel, Gewürzgurken, Eier in kleine Würfel schneiden, dann fein hakcen. Über die Sardinen geben.</step>
+      <step>Paprikapulver darüber streuen, salzen, pfeffern, gründlich vermengen.</step>
+      <step>Zitronensaft einarbeiten, dann den Suerrahm.</step>
+      <step>Abschmecken und mindestens eine Stunde im Kühlschrank ruhen lassen.</step>
+      <step>Mit frischem Brot servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

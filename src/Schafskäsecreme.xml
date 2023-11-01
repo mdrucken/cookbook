@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schafskäsecreme</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Feta</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Joghurt</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Petersilie</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Schafskäse zerkrümeln und mit Joghurt im mixer fein durchmixen.</step>
+      <step>Kräuter fein hacken, Knoblauch pressen und unter die Creme rühren, pfeffern.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

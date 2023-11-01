@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Mohnstriezel</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Hefeteig</title>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Hefe, würfel</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty>125</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    </ing-div>
+    <ing-div><title>Hefeteig</title>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Mohn</item> </ing>
+    <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Rosinen</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zitrone, Schale</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Rum</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Hefeteig cirka 45 Minuten gehen lassen.</step>
+      <step>Bei 200 Grad für 40 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

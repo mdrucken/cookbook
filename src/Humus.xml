@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Humus</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Kichererbsen (eine Dose oder 150g getrockenet)</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Sesampaste (Tahin)</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Kreuzkümmel, gemahlen</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Butter</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Paprikapulver, edelsüss</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kichererbsen kalt abbrausen und abtropfen lassen.</step>
+      <step>Knoblauch schälen und würfeln.</step>
+      <step>Kichererbsen mit Knoblauch, Olivenöl, Zitronensaft, 2-3EL Wasser und Tahin zu einer Paste pürrieren.</step>
+      <step>Mit Salz und Pfeffer abschmecken.</step>
+      <step>In der Mitte eine kleine Mulde eindrücken. Butter in einem Topf zerlaufen lassen, Paprikapulver einrühren.</step>
+      <step>Butter in die Mulde und über den Rest des Humus laufen lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

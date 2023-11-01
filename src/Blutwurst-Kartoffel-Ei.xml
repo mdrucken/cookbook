@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Blutwurst-Kartoffel-Ei</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>600</qty> <unit>g</unit> <item>Kartoffeln, klein</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Bratwurst</item> </ing>
+    <ing> <qty>4</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Ei, gross</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item></item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kartoffeln in dünne Scheiben schneiden und in eine Auflaufform geben.</step>
+      <step>Blutwurst zerkrümmeln und ywischen die Kartoffeln geben.</step>
+      <step>4 EL Olivenöl darüber träufeln.</step>
+      <step>Für 45-60 Minuten bei 180 Grad in den Backofen geben.</step>
+      <step>Die Form aus dem Ofen holen, 4 flache Mulden rein drücken und die 4 Eier darüber aufschlagen.</step>
+      <step>Noch ein paar Minuten in den Ofen geben, bis die Eier stocken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

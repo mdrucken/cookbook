@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Title</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Falafel</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Kichererbsen, getrocknet</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty>0.5</qty> <unit>Bund</unit> <item>Petersilie</item> </ing>
+    <ing> <qty>0.5</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Koriander, gemahlen</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Paprika, edelsüss</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Natron oder Backpulver</item> </ing>
+    <ing> <qty>1</qty> <unit>l</unit> <item>Öl zum Frittieren</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kichererbsen über Nacht einweichen.</step>
+      <step>Zwiebel und Knoblauch grob hacken, Kräuter hacken.</step>
+      <step>Kichererbsen abtropfen lassen, Zwiebel, Knoblauch und Kräuter dazu geben und möglichst fein zerkleinern.</step>
+      <step>Gewürze, Natron/Backpulver, Salz mit dem Brei mischen, in Bällchen formen.</step>
+      <step>Bällchen im heissen Öl 4-5 Minuten fritieren.</step>
+      <step>Bällchen aus dem Öl nehmen und auf Küchenpapier abtropfen lassen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

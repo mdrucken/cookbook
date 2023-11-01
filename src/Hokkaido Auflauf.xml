@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Hokkaido Auflauf</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Hokkaido Kürbis</item> </ing>
+    <ing> <qty>500</qty> <unit>g</unit> <item>Hackfleisch vom Schwein</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Rapsöl</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmelpulver</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Oregano</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>200</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Feta, zerbröselt</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Mozzarella, geraspelt</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Hokkaido waschen und entkernen, in 3mm dicke Scheiben schneiden.</step>
+      <step>Zwiebeln würfeln und in Rapsöl gelasig dünsten.</step>
+      <step>Hackfleisch einrühren und so lange braten, bis es leicht braun ist. Dabei Kreuzkümmel, Oregano, Salz, Pfeffer zugeben.</step>
+      <step>Tomatenmark und 200ml Sahne zufügen, 5 Minuten offen leicht köcheln.</step>
+      <step>5 weitere Minuten ohne Hitze ziehen lassen.</step>
+      <step>Backofen auf 200 Grad vorheizen.</step>
+      <step>Feta zerbröseln. Eine Auflaufform mit etwas Rapsöl einpinseln.</step>
+      <step>Mit einer Schicht Hokkaido auslegen, Hackfleisch darüber verteilen, dann noch eine Schicht Hokkaido und Hackfleisch.</step>
+      <step>Schafskäse über diese Schicht streuen und mit einer Lage Hokkaido oben abdecken.</step>
+      <step>Restliche Sahne darauf verteilen und Mozzarella darüber streuen.</step>
+      <step>Die Auflaufform abdekcken und eine halbe Stunde in den Backofen stellen.</step>
+      <step>Dann Abdeckung abnehmen und in weiteren 30 Minuten fertig garen.</step>
+      <step>10 Minuten ausserhalb des Offens ruhen lassen, dann servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

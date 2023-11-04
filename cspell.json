@@ -5,5 +5,10 @@
     "dictionaries": [],
     "words": [],
     "ignoreWords": [],
-    "import": []
+    "import": [],
+    "enabled": true,
+    "language": "en, de-DE",
+    "enableFiletypes": [
+        "xml"
+    ]
 }

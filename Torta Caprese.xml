@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Torta Caprese</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>180</qty> <unit>g</unit> <item>Mandelmehl</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Schokolade, dunkel</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Ei, grösse M</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Orange, Schale</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Gran Marnier oder Rum</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Puderzucker</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Den Backofen auf 180 Grad vorheizen und eine Backform mit 20 Zentimeter Durchmesser gut einfetten und leicht mit Mehl bestäuben.</step>
+      <step>Die dunkle Schokolade mit der Butter im Wasserbad bei niedriger Hitze und unter ständigem Rühren schmelzen, bis Sie eine glatte und glänzende Masse erhalten.</step>
+      <step>Die Schoko-Mischung beiseite stellen und leicht abkühlen lassen.</step>
+      <step>In der Zwischenzeit Eigelb und Eiweiß trennen.</step>
+      <step>Eigelbe mit 80 Gramm Zucker und der Orangenschale für 4-5 Minuten mit dem Handmixer schaumig schlagen.</step>
+      <step>Likör dazu geben und umrühren.</step>
+      <step>Die geschmolzene Schokolade zur Eigelb-Mischung geben und mit dem Schneebesen vermischen.</step>
+      <step>Mandelmehl hinzufügen und mit einem Spatel glatt rühren.</step>
+      <step>Eiweiß mit dem restlichen Zucker für 6-8 Minuten mit dem Handmixer sehr steif schlagen.</step>
+      <step>Eiweiß-Mischung nach und nach löffelweise zum Teig geben und langsam verrühren.</step>
+      <step>Den Teig in die vorbereitete Form gießen und für 30-35 Minuten backen.</step>
+      <step>Die Garzeiten können von Ofen zu Ofen variieren, aber denken Sie daran, dass der italienische Schokokuchen innen feucht sein muss. Machen Sie also am besten nach 30 Minuten eine Stäbchenprobe.</step>
+      <step>Den Kuchen aus dem Ofen nehmen und für 1 Stunde in der Form abkühlen lassen.</step>
+      <step>Aus der Form lösen und für weitere 2-3 Stunden abkühlen lassen.</step>
+      <step>Mit Puderzucker bestreuen und voilà – schon haben Sie den perfekten saftigen italienischen Schokokuchen ohne Mehl!</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

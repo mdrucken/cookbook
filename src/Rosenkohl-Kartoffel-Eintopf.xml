@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rosenkohl-Kartoffel-Eintopf</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>150</qty> <unit>g</unit> <item>Kartoffeln</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Karotte</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Rosenkohl</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Öl</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Muskatnuss</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>350</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>Handvoll</unit> <item>Petersilie</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kartoffeln und Möhren würflen, Zwiebel in Spalten schneiden, Rosenkohl waschen und putzen.</step>
+      <step>Zwiebeln in Öl mit Muskat kräftig andünsten, Tomatenmark einrühren, mit heisser Gemüsebrühe ablöschen.</step>
+      <step>Gemüse zugeben, aufkochen und 20 Minuten bei mittlerer Hitze fertig garen.</step>
+      <step>Mit Salz und Pfeffer abschmecken, und mit Petersilie bestreuen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

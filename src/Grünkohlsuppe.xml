@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Grünkohlsuppe</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Grünkohl küchenfertig (ca. 2kg Kopf)</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Gänseschmalz, ersatzweise Schweineschmalz</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, gross</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty>1.2</qty> <unit>l</unit> <item>Wasser</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Bauchspeck, durchwachsen, geräuchert</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Kartoffeln</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Mettwürstchen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zucker</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Muskatnuss</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebel in Würfel schneiden, mit Knoblauch im Schmalz glasig andünsten.</step>
+      <step>Grünkohl einrühren, auf mittlerer Hitze andünsten, bis er zerfällt.</step>
+      <step>Mit Salz, Pfeffer, 0.5 TL Zucker und einer guten Prise Muskatnuss würzen.</step>
+      <step>Mit Wasser aufgiesen, Bauchspeck hineinlegen und 30 Minuten köcheln lassen.</step>
+      <step>Kartoffeln schälen und in kleine Würfel schneiden. In der Suppe noch einmal 15 Minuten mitkochen.</step>
+      <step>Anschliessend die Mettwürstchen 10 Minuten in der Suppe sieden.</step>
+      <step>Bauchspeck und Mettwürstchen herausnehmen und in Stücke schneiden.</step>
+      <step>Schmand einrühren und die Suppe etwas pürieren.</step>
+      <step>Abschmecken, Würstchen und Speck wieder in die Suppe geben.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

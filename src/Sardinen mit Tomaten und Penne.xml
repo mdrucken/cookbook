@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Sardinen mit Tomaten und Penne</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>10</qty> <unit></unit> <item>Sardinen, gross, ohne Kopf und Schwanz</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Tomaten, getrocknet</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Rosinen</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Pinienkerne</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item></item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Chili, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Oregano, getrocknet</item> </ing>
+    <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Tomaten in kleine Stücke schneiden.</step>
+      <step>Knoblauch, Rosinen, Pinienkerne grob hacken.</step>
+      <step>Zwiebeln in feine Streifen schneiden.</step>
+      <step>Sardinen salzen, pfeffern, von jeder Seite 2-3 Minuten in Olivenöl braten.</step>
+      <step>Zwiebeln und Knoblauch im Fett der Sardinen glasig dünsten, Pinienkerne, Rosinen und Chili einrühren. Zum Schluss getrocknete Tomaten und Oregano zugeben.</step>
+      <step>Mit Tomaten und 400ml Wasser ablöschen, zehn Minuten köcheln.</step>
+      <step>Fischfilets von den Gräten abzupfen.</step>
+      <step>Chilischoten aus der Sauce nehmen, die Sauce ggf. mit etwas heissem Nudelwasser verdünnen. Abschmecken.</step>
+      <step>Penne abtropfen lassen und unter die Sauce mischen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

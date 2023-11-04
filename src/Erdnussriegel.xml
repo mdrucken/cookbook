@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Erdnussriegel</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>400</qty> <unit>g</unit> <item>Erdnüsse, gesalzen, geröstet</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Nüsse</item> </ing>
+    <ing> <qty>120</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Honig</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Vanille</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Die Nüsse in einer Pfanne ohne Fett rösten, bis sie zu duften beginnen.</step>
+      <step>Kurz abkühlen lassen, grob hacken.</step>
+      <step>Erdnüsse ebenfalls grob hacken.</step>
+      <step>Zucker bei mittleren Temperaturen karamelisieren, bis er flüssig ist und eine braune Farbe hat.</step>
+      <step>Honig und Vanille hinzugeben und auf 125°C erhitzen.</step>
+      <step>Nüsse und Erdnüsse unterrühren.</step>
+      <step>Masse zwischen zwei Lagen Backpapier geben und mit dem Nudelholz ausrollen.</step>
+      <step>Abkühlen lassen, bevoer die Masse ganz fest ist, in Riegelform schneiden.</step>
+      <step>Abgekühlte Riegel in einer luftdichten Dose aufbewahren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

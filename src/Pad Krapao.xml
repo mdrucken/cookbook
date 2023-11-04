@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Pad Krapao</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title></title>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Hackfleisch, Rind</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, mittelgross</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Basilikum (Holy Basil oder Thaibasilikum)</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Schlangenbohnen oder ähnliche Bohnen</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Paprika, rot</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Fischsauce</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Austernsauce</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Sojasauce, dunkel</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Ketjap Manis</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Zucker</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Erdnussöl</item> </ing>
+    </ing-div>
+    <ing-div><title>Paste</title>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>    
+    <ing> <qty>2</qty> <unit></unit> <item>Chilischote, getrocknet</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Knoblauchzehe und Chilischote fein hacken. Mit einer Prise Salz im Mörser zu einer Paste zermahlen.</step>
+      <step>Zwiebel würfeln, Paprika und Bohnen in kleine Stücke schneiden.</step>
+      <step>Paste und Zwiebeln im Wok kurz anbraten, Hackfleisch zugeben und weiter braten, bis das Fleisch krümelig ist.</step>
+      <step>Fischsauce, Austernsauce, Ketjap Manis zugeben und weiter köcheln lassen.</step>
+      <step>Paprika, Bohnen und Zucker zugeben.</step>
+      <step>Holy Basil von den Stängeln zupfen und in den Wok geben, ein paar Minuten kochen, bis das Holy Basil zerfällt.</step>
+      <step>Dazu Reis und ein Spiegelei servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

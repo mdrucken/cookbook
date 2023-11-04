@@ -3,7 +3,20 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "Lochtülle",
+        "Pinienkerne",
+        "recipeml",
+        "rezept",
+        "stylesheet",
+        "verkneten",
+        "Yufka"
+    ],
     "ignoreWords": [],
-    "import": []
+    "import": [],
+    "enabled": true,
+    "language": "en, de-DE",
+    "enableFiletypes": [
+        "xml"
+    ]
 }

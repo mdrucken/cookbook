@@ -10,7 +10,7 @@
 		<unit>Person</unit>
 	</yield>
     <ingredients>
-	  <ing> <qty>1</qty> <unit></unit> <item>Hokkaidokürbis, klein</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Hokkaido Kürbis, klein</item> </ing>
 	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
 	  <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
 	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Mais</item> </ing>
@@ -25,7 +25,7 @@
     </ingredients>
     <directions>
       <step>Kürbis in Würfel schneiden.</step>
-	  <step>1 Zwiebel anschwitzen, 2 Knoblauchzehen hinzugeben, Kürbistücke hinzugeben und anrösten.</step>
+	  <step>1 Zwiebel anschwitzen, 2 Knoblauchzehen hinzugeben, Kürbis Stücke hinzugeben und anrösten.</step>
 	  <step>Gewürze und Tomatenmark hinzugeben und noch etwas weiter rösten.</step>
 	  <step>Tomaten hinzugeben und 20-25 Minuten köcheln lassen.</step>
 	  <step>Abschmecken, Mais und Bohnen hinzugeben und 10 Minuten weiter köcheln lassen.</step>

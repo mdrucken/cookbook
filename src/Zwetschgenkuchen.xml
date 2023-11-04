@@ -19,7 +19,7 @@
     <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
     <ing> <qty>60</qty> <unit>g</unit> <item>Butter, flüssig</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Zitronenschale</item> </ing>
-    <ing> <qty>1500</qty> <unit>g</unit> <item>Zwtschgen</item> </ing>
+    <ing> <qty>1500</qty> <unit>g</unit> <item>Zwetschgen</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Zimt</item> </ing>
     <ing> <qty>150</qty> <unit>g</unit> <item>Weizenvollkornmehl</item> </ing>
     <ing> <qty>100</qty> <unit>g</unit> <item>Zucker</item> </ing>
@@ -30,11 +30,11 @@
     </ingredients>
     <directions>
       <step>3 EL Mehl, 1 TL Zucker, 30g Hefe, 90ml lauwarme Milch zu einem Vorteig vermischen, an einem warmen Ort gehen lassen.</step>
-      <step>Zwtschgen waschen und entkernen.</step>
+      <step>Zwetschgen waschen und entkernen.</step>
       <step>350g Mehl, 60g Zucker, 1 Messerspitze Vanillezucker, 90ml Milch, 1 Ei, 1 prise Salz, 60g flüssige Butter, Zitronenschale dazu geben.</step>
       <step>Teig an einem warmen Ort zugedeckt ruhen lassen, bis sich das Volumen verdoppelt hat.</step>
       <step>150g Weizenvollkornmehl, 100g Zucker, Vanillezucker und Zimt rasch verkneten und zu Streuseln zerbröseln.</step>
-      <step>Hefeteig ausrollen, Zwetschgen darauf verteilen, mit Zimt bestäuben und Steusel darauf verteilen.</step>
+      <step>Hefeteig ausrollen, Zwetschgen darauf verteilen, mit Zimt bestäuben und Streusel darauf verteilen.</step>
       <step>Bei 190 Grad Ober-/Unterhitze für 35-40 Minuten backen.</step>
     </directions>
 	<tags>

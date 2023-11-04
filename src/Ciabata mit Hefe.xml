@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Ciabata mit Hefe</title>
+      <title>Ciabatta mit Hefe</title>
     </head>    
     <yield>
 		<qty>1</qty>
@@ -18,11 +18,11 @@
     </ingredients>
     <directions>
       <step>Zutaten zu einem Teig verkneten und 24 Stunden bei 18-20 Grad reifen lassen. Alle 8 Stunden dehnen und falten.</step>
-	  <step>Teig in drei gleich schwere, längliche Teile teilen und eine Stunde auf einem bemehlten tuch reifen lassen.</step>
+	  <step>Teig in drei gleich schwere, längliche Teile teilen und eine Stunde auf einem bemehlten Tuch reifen lassen.</step>
 	  <step>Ofen auf 250 Grad Ober-/Unterhitze vorheizen.</step>
 	  <step>Teiglinge vorsichtig auf ein Backpapier setzen, die Teighaut etwas nach unten schieben.</step>
 	  <step>Teiglinge auf dem Blech absetzen und mit einem zweiten Blech bedeckt in den Ofen geben.</step>
-	  <step>Für 25 Minuten bei 230 Grad backen, nach 5 Minuten das obere Blech anehmen. Die letzen 2-3 Minuten auf Umluft stellen und die Ofentür für einige Sekunden öffnen, um den Wasserdampf abzulassen.</step>
+	  <step>Für 25 Minuten bei 230 Grad backen, nach 5 Minuten das obere Blech annehmen. Die letzten 2-3 Minuten auf Umluft stellen und die Ofentür für einige Sekunden öffnen, um den Wasserdampf abzulassen.</step>
     </directions>
 	<tags>
 		<tag></tag>

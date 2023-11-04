@@ -1,0 +1,16 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+  
+    "customizations": {
+      "vscode": {
+        "extensions": [
+            "dbaeumer.vscode-eslint", 
+            "streetsidesoftware.code-spell-checker",
+            "ms-python.python",
+            "ms-python.pylint"
+          ]
+      }
+    },
+  
+    "forwardPorts": [3000]
+  }

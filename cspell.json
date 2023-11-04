@@ -3,7 +3,12 @@
     "ignorePaths": [],
     "dictionaryDefinitions": [],
     "dictionaries": [],
-    "words": [],
+    "words": [
+        "Lochtülle",
+        "recipeml",
+        "rezept",
+        "stylesheet"
+    ],
     "ignoreWords": [],
     "import": [],
     "enabled": true,

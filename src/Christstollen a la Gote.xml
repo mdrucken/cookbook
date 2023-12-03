@@ -18,7 +18,7 @@
     <ing-div><title>Hauptteig</title>
     <ing> <qty></qty> <unit></unit> <item>Gesamter Vorteig</item> </ing>
     <ing> <qty>400</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
-    <ing> <qty>42</qty> <unit>Würfel</unit> <item>Hefe</item> </ing>
+    <ing> <qty>1</qty> <unit>Würfel</unit> <item>Hefe</item> </ing>
     <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
     <ing> <qty>50</qty> <unit>g</unit> <item>Zucker</item> </ing>
     <ing> <qty>4</qty> <unit>g</unit> <item>Salz</item> </ing>
@@ -32,7 +32,8 @@
     <ing> <qty>1</qty> <unit></unit> <item>Schale einer Zitrone</item> </ing>
     <ing> <qty>0.5</qty> <unit>TL</unit> <item>Macis (Muskatblüte)</item> </ing>
     <ing> <qty>100</qty> <unit>g</unit> <item>Butter zum Bepinseln</item> </ing>
-    <ing> <qty>50</qty> <unit>50</unit> <item>Puderzucker zum Bestreuen</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Puderzucker zum Bestreuen</item> </ing>
+    </ing-div>
     </ingredients>
     <directions>
       <step>Rosinen und Rum mischen, 24 Stunden ziehen lassen.</step>

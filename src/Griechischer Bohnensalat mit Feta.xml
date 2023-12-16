@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Grieschicher Bohnensalat mit Feta</title>
+      <title>Griechischer Bohnensalat mit Feta</title>
     </head>    
     <yield>
 		<qty>1</qty>
@@ -26,7 +26,7 @@
       <step>Bohnen abspülen und abtropfen lassen.</step>
       <step>Tomaten in kleine Stücke schneiden. Gurke vierteln und in Scheiben schneiden.</step>
       <step>Zwiebel in feine Würfel schneiden, Oliven grob und Petersilie fein hacken.</step>
-      <step>Bohnen, Tomaten, Gurke, Ziwebel, Oliven und Petersilie in eine Schüssel geben. Mit Saft der Zitrone und Olivenöl beträufeln.</step>
+      <step>Bohnen, Tomaten, Gurke, Zwiebel, Oliven und Petersilie in eine Schüssel geben. Mit Saft der Zitrone und Olivenöl beträufeln.</step>
       <step>Feta zerbröseln, über den Salat geben.</step>
       <step>Vermengen und mit Salz und Pfeffer würzen.</step>
     </directions>

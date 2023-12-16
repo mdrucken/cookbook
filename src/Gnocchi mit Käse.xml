@@ -19,9 +19,9 @@
     <ing> <qty>800</qty> <unit>g</unit> <item>Passata</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
-    <ing> <qty>150</qty> <unit>g</unit> <item>Robiola (Ziegenweichkäse, ersatzweise Marscarpone und Ricotta)</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Robiola (Ziegenweichkäse, ersatzweise Mascarpone und Ricotta)</item> </ing>
     <ing> <qty>400</qty> <unit>g</unit> <item>Gnocchi</item> </ing>
-    <ing> <qty>125</qty> <unit>g</unit> <item>Mozarella</item> </ing>
+    <ing> <qty>125</qty> <unit>g</unit> <item>Mozzarella</item> </ing>
     <ing> <qty>60</qty> <unit>g</unit> <item>Parmesan, gerieben</item> </ing>
     </ingredients>
     <directions>
@@ -31,7 +31,7 @@
       <step>Robiola in die Sauce einrühren.</step>
       <step>Sauce in eine Ofenform geben und Gnocchi untermischen.</step>
       <step>Mozarella in kleine Stücke zupfen und 30g Parmesan darüber reiben. 25 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>
-      <step>Kurz abhühlen lassen. Mit Basilikum garnieren und mit 30g Parmesan bestreuen.</step>
+      <step>Kurz abkühlen lassen. Mit Basilikum garnieren und mit 30g Parmesan bestreuen.</step>
     </directions>
 	<tags>
 		<tag></tag>

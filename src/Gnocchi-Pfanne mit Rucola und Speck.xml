@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Gnocchi-Pfanne mit Ruccola und Speck</title>
+      <title>Gnocchi-Pfanne mit Rucola und Speck</title>
     </head>    
     <yield>
 		<qty>1</qty>
@@ -11,7 +11,7 @@
 	</yield>
     <ingredients>
 	  <ing> <qty>150</qty> <unit>g</unit> <item>Speck</item> </ing>
-    <ing> <qty>250</qty> <unit>g</unit> <item>Ruccola</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Rucola</item> </ing>
     <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
     <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
     <ing> <qty>2</qty> <unit>EL</unit> <item>Öl</item> </ing>
@@ -24,7 +24,7 @@
       <step>Knoblauch und Zwiebeln fein hacken.</step>
       <step>Knoblauch, Zwiebeln und Speck 1-2 Minuten anbraten.</step>
       <step>Gnocchi hinzugeben, 2-3 Minuten braten.</step>
-      <step>Ruccola unterheben, Parmesan und Butter unterrühren.</step>
+      <step>Rucola unterheben, Parmesan und Butter unterrühren.</step>
       <step>Mit Pfeffer abschmecken.</step>
     </directions>
 	<tags>

@@ -21,17 +21,17 @@
 	  <ing> <qty>100</qty> <unit>g</unit> <item>TK Erbsen</item> </ing>
 	  <ing> <qty></qty> <unit></unit> <item>Salz, Pfeffer</item> </ing>
 	  <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
-	  <ing> <qty>1</qty> <unit>EL</unit> <item>süße Chillisauce</item> </ing>
+	  <ing> <qty>1</qty> <unit>EL</unit> <item>süße Chilisauce</item> </ing>
     </ingredients>
     <directions>
       <step>Tofu in 1cm große Würfel schneiden. Ingwer und Knoblauch fein schneiden. Mit 1 EL Sojasauce verrühren.</step>
       <step>Paprika in feine Streifen schneiden. Frühlingszwiebel schräg in feine Ringe schneiden.</step>
       <step>Reis bei starker Hitze brauten, bis er knusprig ist. Aus der Pfanne nehmen.</step>
       <step>Tofu knusprig braten, Bei mittlerer Hitze Paprika, Zwiebeln und Erbsen dazugeben. Reis untermischen und mit Salz und Pfeffer würzen.</step>
-      <step>Ei, Chillisauce und 1 EL Sojasauce vermischen. Unter den Reis michen und kurz weiterbraten.</step>
+      <step>Ei, Chilisauce und 1 EL Sojasauce vermischen. Unter den Reis mischen und kurz weiterbraten.</step>
     </directions>
 	<tags>
-		<tag>asian</tag>
+		<tag>asiatisch</tag>
 	</tags>
   </recipe>
 </recipeml>

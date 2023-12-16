@@ -27,12 +27,12 @@
 	  <ing> <qty>2</qty> <unit>TL</unit> <item>Madras Currypulver</item> </ing>
 	  <ing> <qty>2-3</qty> <unit>TL</unit> <item>Sojasoße</item> </ing>
 	  <ing> <qty>100</qty> <unit>ml</unit> <item>Gemüsebrühe</item> </ing>
-	  <ing> <qty>3</qty> <unit>EL</unit> <item>süße Chillisoße</item> </ing>
+	  <ing> <qty>3</qty> <unit>EL</unit> <item>süße Chilisoße</item> </ing>
     </ingredients>
     <directions>
       <step>Zuckerschoten putzen, Frühlingszwiebeln in Stücke schneiden, Paprika in dünne Streifen schneiden, Maiskolben halbieren. Unterstes Viertel des Spargels abschneiden und längs vierteln. Knoblauch und Ingwer fein hacken.</step>
       <step>Ingwer und Knoblauch im Wok 30 Sekunden andünsten. Gemüse und Schupfnudeln dazugeben und 6-8 Minuten braten.</step>
-      <step>Mit Salz und Currypulver würzen. Mit Sojasoße und Brühe ablöschen und einmal aufkochen. Süße Chillisoße unterrühren.</step>
+      <step>Mit Salz und Currypulver würzen. Mit Sojasoße und Brühe ablöschen und einmal aufkochen. Süße Chilisoße unterrühren.</step>
     </directions>
   </recipe>
 </recipeml>

@@ -17,14 +17,14 @@
 	  <ing> <qty>1</qty> <unit>Kugel</unit> <item>Mozarella</item> </ing>
 	  <ing> <qty>2</qty> <unit></unit> <item>Eigelb</item> </ing>
 	  <ing> <qty>1</qty> <unit>Hand voll</unit> <item>Rucola</item> </ing>
-	  <ing> <qty></qty> <unit></unit> <item>Olienöl</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Olivenöl</item> </ing>
     </ingredients>
     <directions>
-      <step>250g Mehl, 150g Wasser, 1/2 Päckchen Hefe, eine Prise Salz einige Minten lang zu zu einem Teig kneten, eine Stunde ruhen lassen.</step>
+      <step>250g Mehl, 150g Wasser, 1/2 Päckchen Hefe, eine Prise Salz einige Minuten lang zu zu einem Teig kneten, eine Stunde ruhen lassen.</step>
 	  <step>Hanfsamen in den Teig einkneten, zu zwei runden Fladen nicht zu dünn ausrollen.</step>
 	  <step>Mozarella in dicke Scheiben schneiden und auf die Pizza legen, mit Olivenöl beträufeln.</step>
 	  <step>15 Minuten bei 230 Grad backen. Eigelb auf die Pizza setzen und 1-2 Minuten weiter backen.</step>
-	  <step>Pizza mmit Rucola bestreuen und servieren.</step>  
+	  <step>Pizza mit Rucola bestreuen und servieren.</step>  
     </directions>
 	<tags>
 		<tag></tag>

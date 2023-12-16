@@ -15,7 +15,7 @@
     <ing> <qty>250</qty> <unit>g</unit> <item>Kirschtomaten</item> </ing>
     <ing> <qty>250</qty> <unit>g</unit> <item>Sauerrahm</item> </ing>
     <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
-    <ing> <qty>200</qty> <unit>g</unit> <item>Parmeson</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Parmesan</item> </ing>
     <ing> <qty>1</qty> <unit></unit> <item>Chilli (5 getrocknete Chitepins), fein gemörsert</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Pfeffer, schwarz</item> </ing>
@@ -26,10 +26,10 @@
     <directions>
       <step>Mangold in feine Streifen schneiden und einige Minuten in Salzwasser kochen.</step>
       <step>Mangold herausnehmen und abtropfen lassen.</step>
-      <step>Gnocchi in das heisse Salzwasser geben und eineige Minuten ziehen lassen.</step>
+      <step>Gnocchi in das heisse Salzwasser geben und einige Minuten ziehen lassen.</step>
       <step>Gnocchi mit Mangold, Kirschtomaten, Sauerrahm, gepressten Knoblauch und 100g Parmesan vorsichtig mischen.</step>
       <step>Mit Chilis, Salz, Pfeffer kräftig abschmecken.</step>
-      <step>Mit 100g Parmesan bestreuen iund 20 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>
+      <step>Mit 100g Parmesan bestreuen und 20 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>
       <step></step>
       <step></step>
       <step></step>

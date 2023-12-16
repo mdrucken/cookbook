@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Tarte au citron</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>220</qty> <unit>g</unit> <item>Weizenmehl</item> </ing>
+    <ing> <qty>60</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Salz, prise</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Ei, mittelgroß</item> </ing>
+    <ing> <qty>110</qty> <unit>g</unit> <item>Butter, kalt und in Flocken</item> </ing>
+    </ing-div>
+    <ing-div><title>Belag</title>
+    <ing> <qty>3</qty> <unit></unit> <item>Zitronen, groß, für 150ml Saft</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Speisestärke</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>5</qty> <unit></unit> <item>Ei, mittelgroß</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Für den Teig Mehl, Zucker und Salz vermischen. Ei und kalte Butter in zugeben und verkneten. 30 Minuten kalt stellen. </step>
+      <step>Teig ausrollen und in eine Tarteform geben.</step>
+      <step>Boden mit einer Gabel einstechen und 12 Minuten bei 175°C Ober-/Unterhitze vorbacken.</step>
+      <step>Zitronenschale abreiben und Saft auspressen.</step>
+      <step>150ml Zitronensaft, Zitronenabrieb, Zucker und Speisestärke verrühren. Aufkochen lassen und Butter in kleinen Stücken zugeben.</step>
+      <step>Eier verquirlen. Temperatur auf niedrige bis mittlere Hitze zurückschalten und die verquirlten Eier mit dem Schneebesen unterrühren.</step>
+      <step>Creme 5-7 Minuten unter ständigem Rühren etwas andicken lassen. Auf keinen Fall kochen.</step>
+      <step>Zitronencreme auf dem vorgebackenen Boden verteilen und glatt streichen.</step>
+      <step>Tarte für 20 Minuten bei 175°C Ober-/Unterhitze backen. Die Creme darf am Ende noch etwas weich sein.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

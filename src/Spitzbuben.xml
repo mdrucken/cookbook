@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Spitzbuben</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>300</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    </ing-div>
+    <ing-div><title>Füllung</title>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Waldfrucht Marmelade</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Puderzucker zum Bestäuben</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mehl, Butter, Puderzucker zu einem Mürbeteig verkneten und 30 Minuten kalt stellen.</step>
+      <step>Teig ausrollen und Sterne ausstechen. Bei der Hälfte der Sterne in der Mitte einen kleinen Stern ausstechen.</step>
+      <step>Bei 200°C Ober-/Unterhitze 6-9 Minuten backen.</step>
+      <step>Auf die Plätzchen ohne Loch in der Mitte einen Klecks Marmelade geben. </step>
+      <step>Die Plätzchen mit Loch mit Puderzucker bestäuben.</step>
+      <step>Puderzucker-Plätzchen auf die Marmeladen-Plätzchen setzen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

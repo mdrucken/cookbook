@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rosenkohlquiche</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>120</qty> <unit>g</unit> <item>Butter, kalt</item> </ing>
+    <ing> <qty>240</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Wasser</item> </ing>
+    </ing-div>
+    <ing-div><title>Belag</title>
+    <ing> <qty>180</qty> <unit>g</unit> <item>Bergkäse</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Frühlingszwiebeln</item> </ing>
+    <ing> <qty>500</qty> <unit>ml</unit> <item>Wasser</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>500</qty> <unit>g</unit> <item>Rosenkohl</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Crème fraîche</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Bacon</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>^Prise</unit> <item>Muskat</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Butter, Mehl, Salz und kaltes Wasser zu einem glatten Teig kneten. Für 30 Minuten kalt stellen.</step>
+      <step>Bergkäse raspeln, Frühlingszwiebeln in feine Ringe schneiden.</step>
+      <step>Rosenkohl in Salzwasser 15 Minuten bissfest kochen.</step>
+      <step>Ei, Crème fraîche, Käse, Frühlingszwiebeln, Salz, Pfeffer und Muskat gut vermengen.</step>
+      <step>Teig ausrollen und in eine gefettete Springform geben. Rosenkohl darauf verteilen.</step>
+      <step>Zwischenräume mit Bacon füllen, Käse-Ei Mischung darüber giessen.</step>
+      <step>Bei 220 Grad Ober-/Unterhitze für 30-35 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schweizer Käsefondue</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Gruyère</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Appenzeller</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Vacherin Fribourgeois</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Knoblauchzehe</item> </ing>
+    <ing> <qty>200</qty> <unit>ml</unit> <item>Chasselas Fendant</item> </ing>
+    <ing> <qty>40</qty> <unit>ml</unit> <item>Schweizer Kirschwasser</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Mondamin</item> </ing>
+    <ing> <qty>600</qty> <unit>g</unit> <item>Weissbrot, fest</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer, schwarz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Käse grob reiben.</step>
+      <step>Fonduetopf mit einer halben Knoblauchzehe einreiben.</step>
+      <step>Chasselas aufkochen, mit Pfeffer würzen.</step>
+      <step>Mondamin und Kirschwasser vermischen, noch nicht einrühren.</step>
+      <step>Gruyère, dann Appenzeller, am Ende Vacherin zugeben und schmelzen.</step>
+      <step>Rühren, bis die Masse fast homogen ist.</step>
+      <step>Kirschwasser und Mondamin dazu geben, rühren und köcheln lasse, bis die Masse cremig und homogen ist.</step>
+      <step>Mit Weissbrot servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

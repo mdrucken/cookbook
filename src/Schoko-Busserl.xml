@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Schoko-Busserl</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>250</qty> <unit>g</unit> <item>Butter, zimmerwarm</item> </ing>
+    <ing> <qty>140</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Vanillestange</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Eigelb</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>40</qty> <unit>g</unit> <item>Kakaopulver</item> </ing>
+    </ing-div>
+    <ing-div><title>Schokocreme</title>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Orangenschale, gerieben</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Kuvertüre, dunkel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Puderzucker zum Bestäuben</item> </ing>
+    </ing-div>
+    <ing-div><title>Marillencreme</title>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Orangenschale, gerieben</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Konfitüre, Marillen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Puderzucker zum Bestäuben</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Butter cremig schlagen, Puderzucker zugeben.</step>
+      <step>Mark der Vanillestange, Eigelb und Eier nach und nach hinzufügen und zu einer dicken Creme schlagen.</step>
+      <step>Mehl und Kakaopulver durch ein Sieb zufügen und verrühren.</step>
+      <step>Teig mit dem Spritzbeutel (glatte Tülle) in maximal 1 Euro große Tupfen mit ausreichend Abstand auf ein Backblech setzen. </step>
+      <step>Bei 150°C Umluft für 10-12 Minuten backen.</step>
+      <step>Sahne aufkochen, ggf. etwas Honig darin auflösen, Orangenschale zugeben und Kuvertüre darin auf kleinster Stufe auflösen.</step>
+      <step>Creme abkühlen lassen. Bevor die Creme fest wird, mit dem Handrührer cremig aufschlagen.</step>
+      <step>Abgekühlte Schokoladen-Tupfen mit Füllung bestreichen und je zwei zusammensetzen. Mit Puderzucker bestäuben. </step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Moussaka Light</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>3</qty> <unit></unit> <item>Auberginen, mittelgroß</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Eier, mittelgroß</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Tomaten, große Dose</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
+    <ing> <qty>1-2</qty> <unit></unit> <item>Bund Petersilie</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Oliven</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Rinderhack</item> </ing>
+    <ing> <qty>60</qty> <unit></unit> <item>Semmelbrösel</item> </ing>
+    <ing> <qty>70</qty> <unit></unit> <item>Kefalotiri oder Parmesan, gerieben</item> </ing>
+    <ing> <qty>40-50</qty> <unit></unit> <item>Butter, zum Belegen</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Auberginen in 5mm dicke Scheiben schneiden.</step>
+      <step>Eier mit Salz und Pfeffer verquirlen.</step>
+      <step>Zwiebel, Knoblauchzehen und Petersilie fein hacken.</step>
+      <step>Zwiebeln glasig dünsten, dann Hackfleisch zugeben und krümelig anbraten.</step>
+      <step>Tomaten, Knoblauch und Petersilie zugeben und offen 15 Minuten köcheln lassen. Mit Salz und Pfeffer abschmecken.</step>
+      <step>Auflaufform mit Öl ausstreichen.</step>
+      <step>Auberginenscheiben in die Form geben, salzen und pfeffern. Hackfleisch darüber verteilen und weiter schichten.</step>
+      <step>Auf die oberste Schicht die Hälfte der Semmelbrösel und die Hälfte des Käses streuen. Eier darüber geben und mit den restlichen Bröseln und Käse bestreuen. Mit Butterflocken belegen.</step>
+      <step>Bei 175°C für eine Stunde backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

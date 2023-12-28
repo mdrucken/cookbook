@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Panettone</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Vorteig 1</title>
+	  <ing> <qty>50</qty> <unit>g</unit> <item>Lievito Madre</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Wasser, lauwarm</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Manitoba-Mehl</item> </ing>
+    </ing-div>
+    <ing-div><title>Vorteig 1</title>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Vorteig 1</item> </ing>
+    <ing> <qty>30</qty> <unit>g</unit> <item>Wasser, lauwarm</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Manitoba-Mehl</item> </ing>
+    </ing-div>
+    <ing-div><title>Vorteig 3</title>
+    <ing> <qty>50</qty> <unit></unit> <item>Vorteig 2</item> </ing>
+    <ing> <qty>30</qty> <unit></unit> <item>Wasser, lauwarm</item> </ing>
+    <ing> <qty>50</qty> <unit></unit> <item>Manitoba-Mehl</item> </ing>
+    </ing-div>
+    <ing-div><title>Vorteig 3</title>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Zutaten für den Vorteig 1 sorgfältig verkneten, bei 26°C für 6-8 Stunden stehen lasse, bis sich das Volumen verdreifacht hat.</step>
+      <step>50g vom Vorteig 1 mit den restlichen Zutaten sorgfältig verkneten, bei 26°C für 3-4 Stunden stehen lassen, bis sich das Volumen verdreifacht hat.</step>
+      <step>50g vom Vorteig 2 mit den restlichen Zutaten sorgfältig verkneten, bei 26°C für 3-4 Stunden stehen lassen, bis sich das Volumen verdreifacht hat.</step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+      <step></step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -29,6 +29,7 @@
         "Mozarella",
         "Napoli",
         "Oelek",
+        "Päckchen",
         "Passata",
         "Pinienkerne",
         "preptime",
@@ -36,6 +37,7 @@
         "Reiswein",
         "rezept",
         "Robiola",
+        "Roggenmehl",
         "Sambal",
         "Schoko",
         "Schokocreme",
@@ -50,12 +52,13 @@
         "Vanillestange",
         "verkneten",
         "vorgebackenen",
+        "Weizenbaguette",
         "Yufka"
     ],
     "ignoreWords": [],
     "import": [],
     "enabled": true,
-    "language": "en, de-DE",
+    "language": "de",
     "enableFiletypes": [
         "xml"
     ]

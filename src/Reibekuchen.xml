@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Reibekuchen (Thermomix)</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>g</unit> <item>Kartoffeln in Stuecken</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Zwiebeln, geviertelt</item> </ing>
+    <ing> <qty>10</qty> <unit>g</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>0.25</qty> <unit>TL</unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>20</qty> <unit>g</unit> <item>Speisestaerke</item> </ing>
+    <ing> <qty>20</qty> <unit>g</unit> <item>Haferflocken (statt Speisestaerke)</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Ei</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Alle Zutaten in den Mixtopf geben und ca. 10-15 Sekunden/Stufe 5 mithilfe des Spatels zerkleinern.</step>
+      <step>Aus dem Teig in einer Pfanne mit heissem Oel kleine Reibeplaetzchen backen und mit Apfelmus anrichten.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Chicken and Cashew Nuts in Black Spices</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Huehnchenbrust</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Kokosraspeln</item> </ing>
+    <ing> <qty>12</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1.5</qty> <unit>cm</unit> <item>Ingwer, gehackt</item> </ing>
+    <ing> <qty>2.5</qty> <unit>EL</unit> <item>Koriandersaat</item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Kreuzkuemmel</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Chilies, rot, getrocknet</item> </ing>
+    <ing> <qty>6</qty> <unit></unit> <item>Nelken</item> </ing>
+    <ing> <qty>7.5</qty> <unit>cm</unit> <item>Zimtstange</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Cashew Nuesse</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, gehackt</item> </ing>
+    <ing> <qty>5</qty> <unit>EL</unit> <item>Oel</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Huehnchenbrust in grobe Stuecke zerteilen.</step>
+      <step>In einer Pfanne ohne Oel bei niederiger Hitze die Kokosraspeln, Knoblauch, Ingwer, Koriandersaat, Kreuzkuemmel, Chilies, Nelken, Zimtstange roesten.</step>
+      <step>Nach 5 Minuten 40g Cashew Nuesse und Zwiebeln zugeben und weitere 10 Minuten braten. Hitze abstellen, abkuehlen lassen und mit 100 ml Wasser puerieren.</step>
+      <step>20g Cashew mit etwas Wasser zu einer Paste zermahlen.</step>
+      <step>Oel im Topf erwaermen, Gewuerzpaste zugeben und 10 Minuten bei niedriger Hitze braten. Zermahlene Cashew Nuesse zugeben, salzen und weitere 2-3 Minuten braten. </step>
+      <step>Huehnchenbrust hinzugeben und bei mittlerer Hitze fuer 5 Minuten braten. 100 ml Wasser zugeben und abgedeckt bei niedriger Hitze fuer 10 Minuten garen.</step>
+      <step>Uebrige Cashew Nuesse zugeben und das Huehnchen gar kochen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

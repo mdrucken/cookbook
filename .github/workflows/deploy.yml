@@ -1,4 +1,4 @@
-name: Build web page
+name: Build and deploy web page
 on:
   push:
     branches:
@@ -13,7 +13,7 @@ jobs:
         run: python3 mkindex.py
       - name: Upload Files
         id: upload
-        uses: Creepios/sftp-action@v1.0.3
+        uses: Creepios/sftp-action@v1.0.5
         with:
           host: 'ssh.strato.de'
           port: 22

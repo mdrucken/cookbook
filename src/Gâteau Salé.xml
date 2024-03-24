@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Gâteau Salé</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>4</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Öl</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>1</qty> <unit>Päckchen</unit> <item>Backpulver</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Käse, gerieben</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Gemüse (Karotte, Paprika, Lauch, ...)</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Oliven</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Tomaten, getrocknet</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Feta</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Speck</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Lachs</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Bei 160°C Umluft für 60 Minuten backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

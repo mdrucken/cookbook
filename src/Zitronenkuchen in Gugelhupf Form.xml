@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Zitronenkuchen in Gugelhupf Form</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+    <ing-div><title>Teig</title>
+	  <ing> <qty>2</qty> <unit></unit> <item>Ei</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Eigelb</item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Vanilleextrakt</item> </ing>
+    <ing> <qty>210</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>40</qty> <unit>g</unit> <item>Staerke</item> </ing>
+    <ing> <qty>210</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1.5</qty> <unit>TL</unit> <item>Backpulver</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Natron</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>5</qty> <unit>TL</unit> <item>Zitronenschale</item> </ing>
+    </ing-div>
+    <ing-div><title>Sirup</title>
+    <ing> <qty>112</qty> <unit>g</unit> <item>Zucke</item> </ing>
+    <ing> <qty>94</qty> <unit>g</unit> <item>Zitronensaft</item> </ing>
+    </ing-div>
+    <ing-div><title>Glasur</title>
+    <ing> <qty>57</qty> <unit>g</unit> <item>Frischkaese</item> </ing>
+    <ing> <qty>170</qty> <unit>g</unit> <item>Puderzucker</item> </ing>
+    <ing> <qty>2-3</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    </ing-div>
+    </ingredients>
+    <directions>
+      <step>Ofen auf 170 Grad vorheizen. Gugelhupf-Form fetten und mehlen.</step>
+      <step>Eier, Eigelb, Vanille und 70g Schmand verruehren.</step>
+      <step>Mehl, Staerke, Zucker, Backpulver, Natron, Salz, Zitronenschale mischen.</step>
+      <step>Weiche Butter und 130g Schmand zu den trockenen Zutaten geben und langsam, dann schneller einruehren (ca. 90 Sekunden).</step>
+      <step>In zwei Portionen die Ei/Schmand Mischung unterziehen, jeweils 30 Sekunden ruehren.</step>
+      <step>Teig in die Form fuellen und ca. 50 Minuten backen, nach 45 Minuten Staebchenprobe machen.</step>
+      <step>In der Zwischenzeit Zucker und Zitronensaft in einem Topf erhitzen, bis sicher der Zucker aufgeloest hat. Abkuehlen lassen.</step>
+      <step>Direkt nach dem Backen den Kuchen in der Form mit einem Holzstaebchen ca. 20x einstechen und mit knapp der Haelfte des Sirup traenken.</step>
+      <step>10 Minuten warten, den Kuchen stuerzen und mit dem rechtlicihen Sirup einpinseln. Abkuehlen lassen.</step>
+      <step>Fuer die Glasur zunaechst den Frischkaese mit dem Puderzucker glatt ruehren. Dann so viel Zitronensaft einruehren, dass die Glasur dick, aber noch fliessfaehig ist. Kuchen damit glasieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

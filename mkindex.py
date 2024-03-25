@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+#cSpell:locale en
+#cSpell:words leckere rezepte onkeyup
 
 import os
 import datetime as dt
@@ -7,7 +9,8 @@ IGNOREFILES = ["index.xml"]
 
 print("Scanning files...")
 
-outfile = open("src\\rezepte.html", "w", encoding="cp1252")
+path = os.path.join("src", "rezepte.html")
+outfile = open(path, "w", encoding="cp1252")
 last_update = dt.datetime.now()
 outfile.write("""<html>
 <head>

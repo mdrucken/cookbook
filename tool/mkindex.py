@@ -8,12 +8,13 @@ from utils import get_files
 
 IGNOREFILES = ["index.xml"]
 
-print("Scanning files...")
+def make_index():
+    print("Scanning files...")
 
-path = os.path.join("src", "rezepte.html")
-outfile = open(path, "w", encoding="cp1252")
-last_update = dt.datetime.now()
-outfile.write("""<html>
+    path = os.path.join("src", "rezepte.html")
+    outfile = open(path, "w", encoding="cp1252")
+    last_update = dt.datetime.now()
+    outfile.write("""<html>
 <head>
     <title>Leckere Rezepte</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
@@ -29,23 +30,26 @@ outfile.write("""<html>
     <div class="main">
 """)
 
-count = 0
-for filename in get_files("src"):
-    count+=1
-    outfile.write("""
+    count = 0
+    for filename in get_files("src"):
+        count+=1
+        outfile.write("""
         <div class=\"recipe\"> <a href=\"" + filename + \
                 "\">" + filename.replace(".xml", "") + "</a></div>\n""")
-outfile.write("""
+    outfile.write("""
     </div>""")
 
-outfile.write(F"""
+    outfile.write(F"""
     <div>
     Last Update: {last_update}
     </div>""")
-outfile.write("""
+    outfile.write("""
 </body>
 </html>""")
 
-outfile.close()
+    outfile.close()
 
-print("Found " + str(count) + " files")
+    print("Found " + str(count) + " files")
+
+if __name__ == '__main__':
+    make_index()

@@ -22,8 +22,7 @@ def get_tags(file_name):
         for tag in res:
             if tag.text == None:
                 continue
-            if tag.text in tags:
-                tag_list.append(tag.text)
+            tag_list.append(tag.text)
     except etree.ParseError as e:
         print(f"Parsing error in {file_name}:")
         print(f"{e}")

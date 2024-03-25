@@ -4,6 +4,7 @@
 
 import os
 import datetime as dt
+from utils import get_files
 
 IGNOREFILES = ["index.xml"]
 
@@ -29,15 +30,11 @@ outfile.write("""<html>
 """)
 
 count = 0
-for subdir, dirs, files in os.walk('src'):
-    for filename in files:
-        if filename in IGNOREFILES:
-            continue
-
-        if filename.endswith(".xml"):
-            count+=1
-            outfile.write("        <div class=\"recipe\"> <a href=\"" + filename + \
-                "\">" + filename.replace(".xml", "") + "</a></div>\n")
+for filename in get_files("src"):
+    count+=1
+    outfile.write("""
+        <div class=\"recipe\"> <a href=\"" + filename + \
+                "\">" + filename.replace(".xml", "") + "</a></div>\n""")
 outfile.write("""
     </div>""")
 

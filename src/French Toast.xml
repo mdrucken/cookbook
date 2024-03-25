@@ -65,14 +65,7 @@
       <step>Ein TL Butter in der Mitte des Toasts legen und mit ein wenig erwärmten Ahornsirup übergiessen.</step>
     </directions>
 	<tags>
-		<tag></tag>
+		<tag>französisch</tag>
 	</tags>
-    <preptime type="total">
-		<time>
-			<qty>20</qty>
-			<timeunit>minutes</timeunit>
-		</time>
-	</preptime>
-	<difficulty>simpel</difficulty>
   </recipe>
 </recipeml>

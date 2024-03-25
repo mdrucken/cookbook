@@ -9,8 +9,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      - name: Install python packages
+        run: pip3 install lxml
       - name: Generate html pages
-        run: python3 mkindex.py
+        run: python3 tool/mkindex.py
       - name: Upload Files
         id: upload
         uses: Creepios/sftp-action@v1.0.5

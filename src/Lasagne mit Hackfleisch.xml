@@ -25,13 +25,13 @@
 	  <ing> <qty>250</qty> <unit>ml</unit> <item>Milch</item> </ing>
 	  <ing> <qty></qty> <unit></unit> <item>Käse, gerieben</item> </ing>
 	  <ing> <qty></qty> <unit></unit> <item>Muskat</item> </ing>
-	  <ing> <qty></qty> <unit></unit> <item>Lasagneplatten</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Lasagne Platten</item> </ing>
     </ingredients>
     <directions>
       <step>Hackfleisch anbraten, Zwiebel dazugeben. 1 EL Tomatenmark und Tomaten zugeben.</step>
 	  <step>Knoblauch dazugeben, mit Salz, Pfeffer, Paprika und Oregano würzen. 10 Minuten kochen lassen.</step>
 	  <step>Béchamelsoße: 40g Butter erhitzen, 40g Mehl dazugeben und anschwitzen. Gemüsebrühe langsam hinzugeben. Milch hinzugeben und aufkochen lassen. Mit Salz, Pfeffer, Muskat abschmecken.</step>
-	  <step>In der Auflaufform Lasagneplatten, Hackfleisch und Béchamelsoße schichten. Mit Béchamelsoße und Käse abschließen.</step>
+	  <step>In der Auflaufform Lasagne Platten, Hackfleisch und Béchamelsoße schichten. Mit Béchamelsoße und Käse abschließen.</step>
 	  <step>30-40 Minuten bei 180 Grad Umluft backen.</step>
     </directions>
   </recipe>

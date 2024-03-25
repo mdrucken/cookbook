@@ -3,7 +3,8 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Chicken Currey in Thick Coconut Gravy</title>
+      <!--cSpell:words chicken thick coconut gravy -->
+      <title>Chicken in Thick Coconut Gravy</title>
     </head>    
     <yield>
 		<qty>1</qty>
@@ -14,7 +15,7 @@
     <ing> <qty>30</qty> <unit>g</unit> <item>Kokosraspeln</item> </ing>
     <ing> <qty>5</qty> <unit>EL</unit> <item>Oel</item> </ing>
     <ing> <qty>15</qty> <unit></unit> <item>Chili, rot, getrocknet</item> </ing>
-    <ing> <qty>4</qty> <unit>TL</unit> <item>Koriandersaat</item> </ing>
+    <ing> <qty>4</qty> <unit>TL</unit> <item>Koriander Saat</item> </ing>
     <ing> <qty>0.25</qty> <unit>TL</unit> <item>Senfsaat</item> </ing>
     <ing> <qty>0.5</qty> <unit>TL</unit> <item>Bockshornklee Samen</item> </ing>
     <ing> <qty>5</qty> <unit>cm</unit> <item>Zimtstange</item> </ing>
@@ -32,11 +33,11 @@
     </ingredients>
     <directions>
       <step>30g Kokosraspeln bei niedriger Hitze in der Pfanne roesten.</step>
-      <step>Einen El Oel dazugeben und 15 Chilies fuer 2-3 Minuten anbraten.</step>
-      <step>In dieer Reihenfolge 4 TL Koriandersaat, 0.25 TL Senfsaat, 0.5 TL Bockshornklee, Zimtstange, 1 TL Kreutzkuemmel, 8 Pfefferkoerner, 4 Nelken, 0.5 TL Kurkuma hinzugeben, dann noch 1 Minute braten.</step>
+      <step>Einen El Oel dazugeben und 15 Chilis fuer 2-3 Minuten anbraten.</step>
+      <step>In dieser Reihenfolge 4 TL Koriander Saat, 0.25 TL Senfsaat, 0.5 TL Bockshornklee, Zimtstange, 1 TL Kreuzkümmel, 8 Pfefferkoerner, 4 Nelken, 0.5 TL Kurkuma hinzugeben, dann noch 1 Minute braten.</step>
       <step>Gewuerze mit Kokosraspeln, 2 TL Tamarinden Mark, 150g Zwiebeln, Ingwer, Knoblauchzehen und 70 ml Kokosmilch puerieren.</step>
       <step>3 EL Oel erhitzen und 150g Zwiebeln in 15 Minuten braun roesten.</step>
-      <step>Gewuerzpaste mit etwas Wasser hinzugeben und 3 MInuten braten. Huhn hinzugeben und ein paar Minuten braten.</step>
+      <step>Gewuerzpaste mit etwas Wasser hinzugeben und 3 MMinuten braten. Huhn hinzugeben und ein paar Minuten braten.</step>
       <step>Nach 5 Minuten den Rest der Kokosmilch hinzugeben und salzen. Etwas Wasser hinzugeben und zugedeckt garen.</step>
       <step>Curryblaetter hinzugeben und 1 Minute weiter kochen.</step>
     </directions>

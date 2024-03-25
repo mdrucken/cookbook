@@ -3,6 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
+      <!--cSpell:words torta caprese -->
       <title>Torta Caprese</title>
     </head>    
     <yield>
@@ -14,7 +15,7 @@
     <ing> <qty>125</qty> <unit>g</unit> <item>Schokolade, dunkel</item> </ing>
     <ing> <qty>125</qty> <unit>g</unit> <item>Butter</item> </ing>
     <ing> <qty>125</qty> <unit>g</unit> <item>Zucker</item> </ing>
-    <ing> <qty>3</qty> <unit></unit> <item>Ei, grösse M</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Ei, Größe M</item> </ing>
     <ing> <qty>1</qty> <unit></unit> <item>Orange, Schale</item> </ing>
     <ing> <qty>1</qty> <unit>EL</unit> <item>Gran Marnier oder Rum</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Puderzucker</item> </ing>
@@ -34,7 +35,7 @@
       <step>Die Garzeiten können von Ofen zu Ofen variieren, aber denken Sie daran, dass der italienische Schokokuchen innen feucht sein muss. Machen Sie also am besten nach 30 Minuten eine Stäbchenprobe.</step>
       <step>Den Kuchen aus dem Ofen nehmen und für 1 Stunde in der Form abkühlen lassen.</step>
       <step>Aus der Form lösen und für weitere 2-3 Stunden abkühlen lassen.</step>
-      <step>Mit Puderzucker bestreuen und voilà – schon haben Sie den perfekten saftigen italienischen Schokokuchen ohne Mehl!</step>
+      <step>Mit Puderzucker bestreuen und voilà - schon haben Sie den perfekten saftigen italienischen Schokokuchen ohne Mehl!</step>
     </directions>
 	<tags>
 		<tag></tag>

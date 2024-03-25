@@ -17,12 +17,12 @@
     <ing> <qty>3</qty> <unit>TL</unit> <item>Paprika Pulver</item> </ing>
     <ing> <qty>3</qty> <unit>TL</unit> <item>Koriander Pulver</item> </ing>
     <ing> <qty>4</qty> <unit></unit> <item>Pfefferkoerner</item> </ing>
-    <ing> <qty>2</qty> <unit></unit> <item>Lohrbeerblaetter</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Lorbeerblätter</item> </ing>
     <ing> <qty>10</qty> <unit>cm</unit> <item>Zimtstange</item> </ing>
     <ing> <qty>6</qty> <unit></unit> <item>Nelken</item> </ing>
     <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkuemmel</item> </ing>
     <ing> <qty>1</qty> <unit>TL</unit> <item>Sesamsamen</item> </ing>
-    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Fenchelsamen</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Fenchel Samen</item> </ing>
     <ing> <qty>3</qty> <unit>EL</unit> <item>Oel</item> </ing>
     <ing> <qty>2</qty> <unit></unit> <item>Zwiebel, gross, gehackt</item> </ing>
     <ing> <qty>1</qty> <unit>kg</unit> <item>Lamm</item> </ing>
@@ -30,11 +30,11 @@
     <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     </ingredients>
     <directions>
-      <step>Die Haelfte der Kokosnuss in kleine Stuecke schneiden. Den Rest der Kokosnuss in grobe Stuecke schneiden und mit 150ml Wasser puerieren. Die Milch abseien.</step>
-      <step>Kokosnussstuecke mit Chilies, Ingwer, Knoblauch und den anderen Gewuerzen zu einer Paste mahlen, etwas Wasser zugeben.</step>
-      <step>Oel in einem grossen Topf erhitzen und Zwiebeln braun braten. Gewuerzpaste zugeben und 15 Minuten auf kleiner Hitze garen. Waerenddessen 3 TL Wasser zugeben.</step>
+      <step>Die Haelfte der Kokosnuss in kleine Stuecke schneiden. Den Rest der Kokosnuss in grobe Stuecke schneiden und mit 500 ml Wasser puerieren. Die Milch abseien.</step>
+      <step>Kokosnuss Stücke mit Chilis, Ingwer, Knoblauch und den anderen Gewuerzen zu einer Paste mahlen, etwas Wasser zugeben.</step>
+      <step>Oel in einem grossen Topf erhitzen und Zwiebeln braun braten. Gewuerzpaste zugeben und 15 Minuten auf kleiner Hitze garen. Währenddessen 3 TL Wasser zugeben.</step>
       <step>Fleisch zugeben und 5 Minuten bei mittlerer Hitze anbraten. Tomaten zugeben und weitere 5 Minuten braten. Salzen.</step>
-      <step>1 Liter Wasser zugeben und abgedeckt fuer eine Stunde kochen.</step>
+      <step>500 ml Wasser zugeben und abgedeckt fuer eine Stunde kochen.</step>
       <step>Kokosmilch zugeben und ein paar Minuten schmoren.</step>
     </directions>
 	<tags>

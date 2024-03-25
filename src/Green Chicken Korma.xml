@@ -3,6 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
+      <!--cSpell:words chicken korma -->
       <title>Green Chicken Korma</title>
     </head>    
     <yield>
@@ -16,15 +17,15 @@
     <ing> <qty>1</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
     <ing> <qty>0.5</qty> <unit>Bund</unit> <item>Minze</item> </ing>
     <ing> <qty>4</qty> <unit></unit> <item>Chili, gruen</item> </ing>
-    <ing> <qty>2</qty> <unit></unit> <item>Lohrbeer Blatt</item> </ing>
-    <ing> <qty>6</qty> <unit></unit> <item>Kardamonkapseln, gruen</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Lorbeer Blatt</item> </ing>
+    <ing> <qty>6</qty> <unit></unit> <item>Kardamom Kapseln, gruen</item> </ing>
     <ing> <qty>4</qty> <unit>cm</unit> <item>Zimtstange</item> </ing>
     <ing> <qty>1</qty> <unit>cm</unit> <item>Ingwer, gehackt</item> </ing>
     <ing> <qty>4</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
-    <ing> <qty>1</qty> <unit>kg</unit> <item>Huehnchenbrust</item> </ing>
+    <ing> <qty>1</qty> <unit>kg</unit> <item>Höhenchefbrust</item> </ing>
     <ing> <qty>1</qty> <unit>TL, gehaeuft</unit> <item>Koriander, gemahlen</item> </ing>
     <ing> <qty>0.5</qty> <unit>TL</unit> <item>Kreuzkuemmel</item> </ing>
-    <ing> <qty></qty> <unit></unit> <item>Szlz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     <ing> <qty>1</qty> <unit>TL</unit> <item>Zucker</item> </ing>
     <ing> <qty>2</qty> <unit>TL</unit> <item>Limettensaft</item> </ing>
     <ing> <qty>70</qty> <unit>ml</unit> <item>Sahne</item> </ing>
@@ -34,8 +35,8 @@
     <directions>
       <step>75g Cashew Nuesse fuer 15 Minuten in 150ml Wasser einweichen.</step>
       <step>4 Essloeffel Oel in der Pfanne erhitzen, 4 Zwiebeln bei mittlerer Hitze in 20-30 Minuten braun roesten.</step>
-      <step>Zwiebeln mit Koriander und Minzblaettern, Chilies, Cashew Nuesse und 75ml Wasser puerieren. </step>
-      <step>2 Essloeffel Oel bei niedriger Hitze in die Pfanne geben. Lohrbeerblaetter, Kardamon, Zimtstange, Ingwer und Knoblauch hinzugeben.</step>
+      <step>Zwiebeln mit Koriander und Minzblättern, Chilis, Cashew Nuesse und 75ml Wasser puerieren. </step>
+      <step>2 Essloeffel Oel bei niedriger Hitze in die Pfanne geben. Lorbeerblätter, Kardamom, Zimtstange, Ingwer und Knoblauch hinzugeben.</step>
       <step>Auf mittlere Hitze erwaermen und Huehnchen hinzugeben und 5 Minuten braten. Koriander und Kurkuma hinzugeben und 2 weitere Minuten braten.</step>
       <step>Puerierte Paste hinzugeben und 2 weiter Minuten braten.</step>
       <step>Salz, Zucker, Limettensaft mit 150 ml Wasser hinzugeben. Abschmecken und Huhn gar kochen.</step>

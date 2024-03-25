@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Quiche mit Spinat und Gorgonzla</title>
+      <title>Quiche mit Spinat und Gorgonzola</title>
     </head>    
     <yield>
 		<qty>2</qty>
@@ -15,7 +15,7 @@
 	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Ei</item> </ing>
 	  <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
 	  <ing> <qty>250</qty> <unit>g</unit> <item>TK Spinat</item> </ing>
-	  <ing> <qty>100</qty> <unit>g</unit> <item>Gorgozola</item> </ing>
+	  <ing> <qty>100</qty> <unit>g</unit> <item>Gorgonzola</item> </ing>
 	  <ing> <qty>2</qty> <unit>Stk</unit> <item>Zwiebeln</item> </ing>
 	  <ing> <qty>2</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
 	  <ing> <qty>150</qty> <unit>g</unit> <item>Crème fraîche</item> </ing>
@@ -26,7 +26,7 @@
     <directions>
       <step>Ein Ei, 200g Mehl, 100g Butter und eine Prise Salz zu einem Teig kneten. Eine Stunde kalt stellen.</step>
 	  <step>Zwei Zwiebeln mit 250g Spinat in einer Pfanne anbraten.</step>
-	  <step>100g Gorgozola mit 150g Crème fraîche und zwei Eiern verquirlen. Mit Salz und Pfeffer würzen. Unter den Spinat heben.</step>
+	  <step>100g Gorgonzola mit 150g Crème fraîche und zwei Eiern verquirlen. Mit Salz und Pfeffer würzen. Unter den Spinat heben.</step>
 	  <step>Teig in der Quiche Form geben. Füllung darauf verteilen. Pinienkerne darauf streuen.</step>
 	  <step>Bei 200 Grad 20-30 Minuten backen.</step>
     </directions>

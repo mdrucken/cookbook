@@ -13,17 +13,17 @@
     <ing-div><title>Kochstück</title>
 	  <ing> <qty>210</qty> <unit>g</unit> <item>Wasser</item> </ing>
     <ing> <qty>10</qty> <unit>g</unit> <item>Salz</item> </ing>
-    <ing> <qty>70</qty> <unit>g</unit> <item>Maisgriess, fein oder Maismehl</item> </ing>
+    <ing> <qty>70</qty> <unit>g</unit> <item>Maisgrieß, fein oder Maismehl</item> </ing>
     </ing-div>
     <ing-div><title>Hauptteig</title>
-    <ing> <qty></qty> <unit></unit> <item>gesamtes Kockstück</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>gesamtes Kochstück</item> </ing>
     <ing> <qty>10</qty> <unit>g</unit> <item>Pflanzenöl</item> </ing>
     <ing> <qty>120</qty> <unit>g</unit> <item>Wasser, 22 °C</item> </ing>
     <ing> <qty>430</qty> <unit>g</unit> <item>Weizenmehl 550</item> </ing>
     </ing-div>
     </ingredients>
     <directions>
-      <step>Wasser, Salz, Maisgriess unter Rühren aufkochen, bis die Masse zu stocken beginnt.</step>
+      <step>Wasser, Salz, Maisgrieß unter Rühren aufkochen, bis die Masse zu stocken beginnt.</step>
       <step>Vom Herd nehmen und kurz weiterrühren.</step>
       <step>Mit Klarsichtfolie abdecken und mindestens 4 Stunden quellen lassen.</step>
       <step>Alle Zutaten in eine Schüssel geben.</step>

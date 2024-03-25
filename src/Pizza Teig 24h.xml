@@ -3,7 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
-      <title>Pizzateig 24h</title>
+      <title>Pizza Teig 24h</title>
     </head>    
     <yield>
 		<qty>2</qty>
@@ -18,9 +18,9 @@
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Zucker</item> </ing>
     </ingredients>
     <directions>
-      <step>240g Mehl und 250g Wasser mit Hefe zund Zucker 10-15 Minuten kneten lassen. Teig für 30 Minuten ruhen lassen.</step>
+      <step>240g Mehl und 250g Wasser mit Hefe und Zucker 10-15 Minuten kneten lassen. Teig für 30 Minuten ruhen lassen.</step>
 	  <step>In kleinen Schritten das Öl und Salz hinzugeben.</step>
-	  <step>Das restliche Mehl nach und nach hinzugeben und einkneten, bis sich der Teig vom Schüsselboden abzulösen beginnt.</step>
+	  <step>Das restliche Mehl nach und nach hinzugeben und einkneten, bis sich der Teig vom Schüssel Boden abzulösen beginnt.</step>
 	  <step>Teig in Kugeln formen und 24 Stunden im Kühlschrank reifen lassen.</step>
 	  <step>Teig aus dem Kühlschrank nehmen und 2 Stunden bei Raumtemperatur gehen lassen.</step>
     </directions>

@@ -3,6 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
+      <!--cSpell:words Rappie -->
       <title>Rappie Pie</title>
     </head>    
     <yield>
@@ -22,7 +23,7 @@
       <step>Zwiebeln in Butter goldbraun braten.</step>
       <step>Hühnerbrust in große Stücke schneiden, in 2 Liter kochende Hühnerbrühe geben und 20 Minuten köcheln lassen.</step>
       <step>Kartoffeln raspeln und Flüssigkeit auspressen. Salzen, pfeffern und mit Hühnerbrühe aufgiessen, bis sie eine breiige Konsistenz haben.</step>
-      <step>Auflaufform mit Butter einfetten. Die Hälfte der Kartoffeln darin verteilen, Zwiebeln und dann Hähnchenbrust darauf verteieln. Zum Schluss die restlichen Kartoffeln darauf geben.</step>
+      <step>Auflaufform mit Butter einfetten. Die Hälfte der Kartoffeln darin verteilen, Zwiebeln und dann Hähnchenbrust darauf verteilen. Zum Schluss die restlichen Kartoffeln darauf geben.</step>
       <step>Bei 180 Grad Umluft für eine Stunde backen. Gelegentlich Hühnerbrühe nachgiessen.</step>
       <step></step>
       <step></step>

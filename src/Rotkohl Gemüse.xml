@@ -17,9 +17,9 @@
     <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
     <ing> <qty>4</qty> <unit>EL</unit> <item>Weinessig</item> </ing>
     <ing> <qty>1</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
-    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, bespickt mit Lohrbeerblätern und Nelken</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebel, bespickt mit Lorbeerbläsern und Nelken</item> </ing>
     <ing> <qty>3</qty> <unit></unit> <item>Nelken</item> </ing>
-    <ing> <qty>3</qty> <unit></unit> <item>Lohrbeerblätern</item> </ing>
+    <ing> <qty>3</qty> <unit></unit> <item>Lorbeerbläsern</item> </ing>
     <ing> <qty>1</qty> <unit>Prise</unit> <item>Zimt</item> </ing>
     <ing> <qty>125-250</qty> <unit></unit> <item>Wasser, Rotwein, Apfelsaft</item> </ing>
     </ingredients>
@@ -29,7 +29,7 @@
       <step>Öl in einem grossen Topf erhitzen, Rotkohl dazugeben, gespickte Zwiebel, Salz, Pfeffer hinzugeben. Mit wenig heissem Wasser aufgiessen.</step>
       <step>1.5 Stunden im geschlossenen Topf dünsten. Gelegentlich umrühren und Flüssigkeit nachgiessen.</step>
       <step>Nach 30 Minuten in Stücke geschnittene Äpfel zugeben.</step>
-      <step>Am Garende Zwiebel entfernen.</step>
+      <step>Am Ende Zwiebel entfernen.</step>
     </directions>
 	<tags>
 		<tag></tag>

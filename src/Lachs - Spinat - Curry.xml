@@ -19,7 +19,7 @@
 	  <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten, stückig</item> </ing>
 	  <ing> <qty>1</qty> <unit>Stück</unit> <item>Ingwer</item> </ing>
 	  <ing> <qty>4</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
-	  <ing> <qty>1</qty> <unit></unit> <item>Chillischote</item> </ing>
+	  <ing> <qty>1</qty> <unit></unit> <item>Chilischote</item> </ing>
 	  <ing> <qty>1/4</qty> <unit>TL</unit> <item>Garam Masala</item> </ing>
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel, gemahlen</item> </ing>
 	  <ing> <qty>1 1/2</qty> <unit>TL</unit> <item>Koriander, gemahlen</item> </ing>
@@ -31,9 +31,9 @@
     </ingredients>
     <directions>
       <step>Zimt, Pfeffer, Nelken im Öl 1-2 Minuten andünsten.</step>
-	  <step>Zwiebeln und Zucker hinzugeben und 12-15 Minuten karamelisieren.</step>
+	  <step>Zwiebeln und Zucker hinzugeben und 12-15 Minuten karamellisieren.</step>
 	  <step>Tomaten zugeben und abgedeckt 5 Minuten köcheln lassen.</step>
-	  <step>Ingwer, Knoblauch, Chillischote, Garam Masala, Kreuzkümmel, Koriander, Kurkuma, Cayennepfeffer und Salz hinzugeben. 8 Minuten kochen lassen.</step>
+	  <step>Ingwer, Knoblauch, Chilischote, Garam Masala, Kreuzkümmel, Koriander, Kurkuma, Cayennepfeffer und Salz hinzugeben. 8 Minuten kochen lassen.</step>
 	  <step>Spinat hinzugeben und zusammenfallen lassen.</step>
 	  <step>Lachs in Stücke schneiden und zugeben. 5-7 Minuten zugedeckt köcheln lassen.</step>
 	  <step>Zimtstange herausnehmen.</step>

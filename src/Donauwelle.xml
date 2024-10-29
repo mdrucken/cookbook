@@ -97,18 +97,7 @@
       <step>Aus Milch, Puddingpulver und Zucker einen Pudding kochen. Abkühlen lassen. Butter, Zitronenschale und -saft auf höchster Stufe des Mixers 10-15 Minuten dickschaumig schlagen. Pudding nach und nach unterrühren. Auf den Kuchen streichen, kühl stellen. Schokolade und Fett im Wasserbad schmelzen, unter Rühren abkühlen lassen. Auf der Creme glatt verstreichen. Wellen hineinziehen.</step>
     </directions>
 	<tags>
-		<tag></tag>
+		<tag>Kuchen</tag>
 	</tags>
-    <preptime type="total">
-		<time>
-			<qty>90</qty>
-			<timeunit>Minuten</timeunit>
-		</time>
-	</preptime>
-	<energy type="piece">
-		<qty>420</qty>
-		<energyunit>kcal</energyunit>
-	</energy>
-	<difficulty>einfach</difficulty>
   </recipe>
 </recipeml>

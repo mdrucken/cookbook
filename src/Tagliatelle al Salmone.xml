@@ -3,6 +3,7 @@
 <recipeml version="0.5">
   <recipe>
     <head>
+	  <!--cSpell:words salmone -->
       <title>Tagliatelle al Salmone</title>
     </head>    
     <yield>
@@ -30,7 +31,7 @@
       <step>Lachs würfeln, in 2 EL Olivenöl kurz anbraten</step>
 	  <step>Schalotte und Knoblauch kurz anschwitzen, mit Weißwein ablöschen.</step>
 	  <step>Wein zur Hälfte reduzieren, Gemüsebrühe zugeben und 5 Minuten köcheln.</step>
-	  <step>Tomaten und Tomatenmark befügen, mit Salz, Pfeffer, Limettensaft abschmecken.</step>
+	  <step>Tomaten und Tomatenmark beifügen, mit Salz, Pfeffer, Limettensaft abschmecken.</step>
 	  <step>Eine Zehe Knoblauch hineinpressen, 5 Minuten kochen lassen.</step>
 	  <step>Sahne darüber gießen und Lachs in die Soße geben.</step>
 	  <step>Kurz aufkochen und dann die Tagliatelle dazugeben.</step>

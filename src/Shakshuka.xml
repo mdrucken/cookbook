@@ -19,15 +19,18 @@
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Paprika edelsüß</item> </ing>
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
-	  <ing> <qty></qty> <unit></unit> <item>Chillipulver</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Chilipulver</item> </ing>
 	  <ing> <qty>4</qty> <unit>Stk</unit> <item>Eier</item> </ing>
     </ingredients>
     <directions>
       <step>Zwiebeln, Knoblauch, Paprika in der Pfanne 5 Minuten glasig dünsten.</step>
-	  <step>Tomaen, Tomatenmark, Gewürze zugeben und 10 Minuten köcheln lassen.</step>
+	  <step>Tomaten, Tomatenmark, Gewürze zugeben und 10 Minuten köcheln lassen.</step>
 	  <step>Mulden in die Masse drücken und Eier dazugeben, bei geschlossenem Deckel köcheln, bis die Eier stocken.</step>
 	  <step>Mit Brot servieren.</step>
     </directions>
+	<tags>
+		<tag>vegetarisch</tag>
+	</tags>
   </recipe>
 </recipeml>
 

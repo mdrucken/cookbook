@@ -22,19 +22,22 @@
 	  <ing> <qty>2</qty> <unit></unit> <item>Limetten, Saft</item> </ing>
 	  <ing> <qty></qty> <unit></unit> <item>Fischsauce</item> </ing>
 	  <ing> <qty>1</qty> <unit>TL</unit> <item>Palmzucker</item> </ing>
-	  <ing> <qty></qty> <unit></unit> <item>Koriandergrün</item> </ing>
+	  <ing> <qty></qty> <unit></unit> <item>Koriander, frisch</item> </ing>
 	  <ing> <qty>5</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
 	  <ing> <qty>2</qty> <unit></unit> <item>Chilischoten</item> </ing>
     </ingredients>
     <directions>
       <step>Zitronengras in 4 cm lange Stücke schneiden, Galgant in Scheiben schneiden.</step>
 	  <step>200 ml Kokosmilch und 250 ml Brühe zum kochen bringen, Zitronengras, Galgant, Kaffir-Limettenblätter und Chilis hinzugeben. Mit Fischsauce abschmecken. 10 Minuten köcheln lassen.</step>
-	  <step>Zitronengras, Galgant und Limettenblätter aus der Suppe fischen.</step>
+	  <step>Zitronengras, Galgant und Limetten Blätter aus der Suppe fischen.</step>
 	  <step>Champignons hinzugeben und weitere 5 Minuten kochen.</step>
 	  <step>Hühnchenfleisch hinzugeben und wenige Minuten auf kleiner Flamme garen.</step>
 	  <step>400 ml Kokosmilch hinzufügen. Mit Limettensaft, Zucker Fischsauce abschmecken.</step>
-	  <step>Mit Chilistreifen, Frühlingszwiebeln, Koriandergrün garnieren.</step>
+	  <step>Mit Chili Streifen, Frühlingszwiebeln, Koriander garnieren.</step>
     </directions>
+	<tags>
+		<tag>thailändisch</tag>
+	</tags>
   </recipe>
 </recipeml>
 

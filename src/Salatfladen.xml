@@ -12,7 +12,7 @@
     <ingredients>
 	  <ing> <qty>125</qty> <unit>g</unit> <item>Dinkelmehl</item> </ing>
     <ing> <qty>100</qty> <unit>g</unit> <item>Weizenvollkornmehl</item> </ing>
-    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Trokenhefe</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Trockenhefe</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Zucker</item> </ing>
     <ing> <qty>200</qty> <unit>g</unit> <item>bitterer Salat (Rucola, Radicchio, Endivie)</item> </ing>

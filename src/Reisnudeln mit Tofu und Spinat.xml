@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Reisnudeln mit Tofu und Spinat</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>80</qty> <unit>g</unit> <item>Reisnudeln</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Blattspinat, TK</item> </ing>
+    <ing> <qty>8</qty> <unit></unit> <item>Frühlingszwiebeln</item> </ing>
+    <ing> <qty>25</qty> <unit>g</unit> <item>Ingwer</item> </ing>
+    <ing> <qty>1</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Sesamsamen, hell</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Räuchertofu</item> </ing>
+    <ing> <qty>2</qty> <unit>TL</unit> <item>Rapsöl</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Sojasauce</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Sambal oelek</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Sesamöl, geröstet</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Nudeln in 2-3 cm lange Stücke brechen und 10 Minuten kalt einweichen.</step>
+      <step>Spinat garen.</step>
+      <step>Frühlingszwiebeln in weisse und grüne Teile getrennt in 1 cm breite Stücke schneiden.</step>
+      <step>Ingwer in Stifte schneiden, Koriander hacken, Sesam ohne Öl in der Pfanne rösten.</step>
+      <step>Nudeln in Salzwasser in 3 Minuten garen, abtropfen lassen.</step>
+      <step>Tofu in dünne Streifen schneiden, in 1 TL Rapsöl im Wok von jeder Seite 2 Minuten braten. 1 EL Sojasauce hinzugeben und eindampfen lassen. Tofu herausnehmen und warm stellen.</step>
+      <step>Ingwer in 2 EL Rapsöl 0.5 Minuten im Wok braten und an den Rand schieben.</step>
+      <step>Weisse Frühlingszwiebeln zugeben und 1 Minute braten, grüne Frühlingszwiebeln hinzugeben.</step>
+      <step>Spinat hinzugeben und kurz erhitzen.</step>
+      <step>Restliche Sojasauce und Sambal oelek unterrühren. Nudeln zugeben.</step>
+      <step>Nudeln anrichten, mit Sesamöl beträufeln, mit Sesamsamen und Koriander Grün bestreuen. Tofu oben drauf geben.</step>
+    </directions>
+	<tags>
+		<tag>asiatisch</tag>
+    <tag>vegetarisch</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

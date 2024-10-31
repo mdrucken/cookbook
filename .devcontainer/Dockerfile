@@ -8,4 +8,4 @@ RUN apt update && \
     vim \
     bash-completion
 
-RUN pip3 install gpxpy
+RUN pip3 install gpxpy lxml

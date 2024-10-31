@@ -7,3 +7,5 @@ RUN apt update && \
     python3-pip \
     vim \
     bash-completion
+
+RUN pip3 install gpxpy

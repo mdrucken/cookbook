@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Mangold Gemüse</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>12</qty> <unit>Blatt</unit> <item>Mangold</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Zwiebeln</item> </ing>
+    <ing> <qty>2</qty> <unit>Zehen</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Orangensaft</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Zucker</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Butterschmalz</item> </ing>
+    <ing> <qty>3</qty> <unit>EL</unit> <item>Sauerrahm</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Mangold Blätter vom Stiel trennen. Stiel in 1 cm lange Stücke schneiden, 3 Minuten blanchieren.</step>
+      <step>Blätter halbieren und in 1 cm breite Streifen schneiden, zusammen mit den Stielen weitere 4 Minuten blanchieren.</step>
+      <step>Mangold abgiessen und kalt abschrecken.</step>
+      <step>Butterschmalz in der Pfanne erhitzen und Zwiebel darin dünsten. Knoblauch zugeben und kurz mitdünsten. Mangold zugeben und kurz anbraten.</step>
+      <step>Mit Orangensaft ablöschen und 5 Minuten bei mittlerer Hitze einköcheln lassen.</step>
+      <step>Mit einer Prise Zucker, Salz und Pfeffer abschmecken. Zum Schluss Sauerrahm unterrühren.</step>
+    </directions>
+	<tags>
+		<tag>Gemüse</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

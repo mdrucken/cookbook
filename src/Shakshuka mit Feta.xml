@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Shakshuka mit Feta</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit></unit> <item>Zwiebel</item> </ing>
+    <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Paprika, rot</item> </ing>
+    <ing> <qty>2-3</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Kreuzkümmel</item> </ing>
+    <ing> <qty>0.5</qty> <unit>TL</unit> <item>Paprikapulver, edelsüß</item> </ing>
+    <ing> <qty>0.25</qty> <unit>TL</unit> <item>Cayennepfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>Dose</unit> <item>Tomaten</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schafskäse</item> </ing>
+    <ing> <qty>4</qty> <unit></unit> <item>Eier</item> </ing>
+    <ing> <qty>2-3</qty> <unit>EL</unit> <item>Koriander, frisch</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Brot</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebel in dünne Scheiben schneiden, Knoblauch hacken, Paprika in feine Streifen schneiden.</step>
+      <step>Zwiebel und Paprika bei kleiner Hitze 20 Minuten in der Pfanne schmoren, die letzten 3 Minuten den Knoblauch hinzufuegen.</step>
+      <step>Backofen auf 190 Grad Ober-/Unterhitze vorheizen.</step>
+      <step>Kreuzkümmel, Paprikapulver und Cayennepfeffer oder Chilipulver dazugeben und für eine Minuten rösten.</step>
+      <step>Tomaten	hinzufuegen, salzen und pfeffern, 1-/15 Minuten einkochen lassen.</step>
+      <step>Schafskäse zerbröseln und unterrühren.</step>
+      <step>Eier in die Pfanne geben, etwas Salz und Pfeffer hinzufügen.</step>
+      <step>Pfanne für 8-10 Minuten in den Backofen geben bis die Eier stocken.</step>
+      <step>Vor dem Servieren mit frischem Koriander bestreuen, mit Brot servieren.</step>
+    </directions>
+	<tags>
+		<tag>israelisch</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

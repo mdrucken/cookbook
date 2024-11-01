@@ -37,7 +37,7 @@ def make_index():
 """)
 
     count = 0
-    for filename in get_files("src"):
+    for filename in sorted(get_files("src")):
         count+=1
         tags = get_tags(os.path.join("src", filename))
         tag_string = ";".join(tags)

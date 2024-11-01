@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Christstollen einfach</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>80</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    <ing> <qty>1000</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    <ing> <qty>170</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty>750</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>400</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Salz</item> </ing>
+    <ing> <qty>2</qty> <unit></unit> <item>Zitronen, Schale</item> </ing>
+    <ing> <qty>600</qty> <unit>g</unit> <item>Rosinen</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Mandeln, gestiftet</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Orangeat</item> </ing>
+    <ing> <qty>75</qty> <unit>g</unit> <item>Zitronat</item> </ing>
+    <ing> <qty>120</qty> <unit>ml</unit> <item>Rum</item> </ing>
+    <ing> <qty>6</qty> <unit>Pck</unit> <item>Vanillezucker</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Puderzucker</item> </ing>
+    </ingredients>
+    <directions>
+      <step>75 g Orangeat, 75 g Zitronat, 100 g Mandeln und abgeriebene Schale von 2 Zitronen in eine Schüssel geben, 120 ml Rum darüber gießen, vermischen, gut abdecken.</step>
+      <step>80 g Hefe in eine große Schüssel bröseln, etwas lauwarme Milch (nicht über 30 °C) und etwas Zucker untermischen, mit Mehl bestäuben und ca. 30 Minuten abgedeckt gehen lassen.</step>
+      <step>Inzwischen 1000 g Mehl auf die Arbeitsfläche sieben. 500 g Butter in Flocken drüber streuen, 150 g Zucker und 1 TL Salz. Die aufgegangene Hefe darüber geben. Zunächst mit einem großen Messer alles bröselig hacken, dann mindestens 20 Minuten kneten, dabei die 170 ml Milch nach und nach zugeben. Der Teig muß sein speckiges Aussehen verloren haben und darf nirgends mehr dran kleben.</step>
+      <step>Früchte auf platt gedrückten Teig geben und möglichst kurz unter kneten. Nun 30 Minuten lang zugedeckt gehen lassen.</step>
+      <step>Nochmals kurz durchkneten, Stücke in gewünschter Größe abtrennen und zu Kugeln formen.</step>
+      <step>Kugel zu einem länglichen Laib formen. Mit der Handkante längs eine starke Rille eindrücken, so dass eine Seite etwa doppelt so breit ist wie die andere. Die große Hälfte über die kleine klappen, Stollen nochmals in Form bringen.</step>
+      <step>Rosinen in den Stollen eindrücken, damit sie nicht verbrennen, und Löcher verschliessen.</step>
+      <step>Backblech mit Alufolie und Backpapier belegen. Stollen darauf geben und zugedeckt nochmals ca. 20 - 30 Minuten gehen lassen.</step>
+      <step>Ofen vorheizen auf ca. 220 °C Ober-/Unterhitze.</step>
+      <step>Die Backzeit beträgt - als Richtlinie - bei 500 g Stollen ca. 45 Minuten, bei 1000 g Stollen ca. 60 Minuten. Regelmäßig in den Ofen schauen und die Stollen, sobald sie braun werden (nach ca. 20 Minuten=), mit Alufolie abdecken.</step>
+      <step>Sofort nach dem Backen mit flüssiger Butter bestreichen. Vollständig auskühlen lassen. Dann nochmals mit flüssiger Butter bestreichen (siehe Tipps). Zucker mit Vanillezucker mischen, den Stollen rundum damit bestreuen, dann von allen Seiten dick mit Puderzucker bestreuen, mit Tee- oder Mehlsieb. Dicht in Alufolie verpacken.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

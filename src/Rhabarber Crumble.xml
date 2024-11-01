@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rhabarber Crumble</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>kg</unit> <item>Rhabarber</item> </ing>
+    <ing> <qty>2</qty> <unit>Päckchen</unit> <item>Vanille-Zucker</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Emmer-Vollkornmehl</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Butter</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Piment-Pulver</item> </ing>
+    <ing> <qty>1</qty> <unit>Prise</unit> <item>Salz</item> </ing>
+    <ing> <qty>250</qty> <unit>ml</unit> <item>Schlagsahne</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Rhabarber in 1cm breite Stücke schneiden.</step>
+      <step>Backofen auf 180 Grad vorheizen.</step>
+      <step>Rhabarber Stücke nebeneinander in eine Auflaufform legen.</step>
+      <step>Für die Streusel das Mehl, den Zucker, Salz und Piment-Pulver in einer Schüssel vermischen. Die Butter lauwarm zerlassen und anschließend langsam zum Mehl gießen, während man ständig mit den Knethaken des Rührgeräts rührend durch die Schüssel fährt, wodurch sich automatisch die Streusel bilden. Wenn das Mehl die Butter komplett aufgenommen hat, sind die Streusel fertig.</step>
+      <step>Rhabarber Stücke mit dem Vanille-Zucker bestreuen, die Streusel gleichmäßig darüber verteilen und den Crumble ca. 30 Minuten backen, bis die Streusel knusprig geworden sind.</step>
+      <step>Etwas abkühlen lassen und lauwarm mit frisch geschlagener Sahne servieren.</step>
+    </directions>
+	<tags>
+		<tag>Dessert</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

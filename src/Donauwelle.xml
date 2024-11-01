@@ -10,8 +10,7 @@
 		<unit>Backblech</unit>
 	</yield>
     <ingredients>
-      <ing-div type="titled">
-	  <title>Teig</title>
+      <ing-div><title>Teig</title>
       <ing>
         <qty>330</qty>
         <unit>g</unit>
@@ -48,8 +47,7 @@
         <item>Schattenmorellen</item>
      </ing>
     </ing-div>
-    <ing-div type="titled">
-    <title>Buttercreme</title>
+    <ing-div><title>Buttercreme</title>
       <ing>
         <qty>0,5</qty>
         <unit>l</unit>

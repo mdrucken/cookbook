@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Naan mit Hefe</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>200</qty> <unit>g</unit> <item>Wasser, 22 Grad</item> </ing>
+    <ing> <qty>50</qty> <unit>g</unit> <item>Joghurt, 5 Grad</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Weizenmehl, vollkorn</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Weizenmehl, 550</item> </ing>
+    <ing> <qty>4</qty> <unit>g</unit> <item>Hefe</item> </ing>
+    <ing> <qty>8</qty> <unit>g</unit> <item>Salz</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zutaten ausser Salz mischen.</step>
+      <step>5 Minuten auf niedriger Stufe kneten</step>
+      <step>5 Minuten auf zweiter Stufe kneten, bis der Teig glatt und elastisch ist</step>
+      <step>Salz zugeben und 3-4 Minuten auf zweiter Stufe kneten</step>
+      <step>Teig abgedeckt und 8-24 Stunden bei 5-6 Grad ruhen lassen</step>
+      <step>Teig in ca. 110g Stücke teilen</step>
+      <step>Teiglinge rund schleifen und 1 Stunde abgedeckt bei 20 Grad entspannen lassen</step>
+      <step>Teiglinge auf leicht bemehlter Arbeitsfläsche auf 20-22 cm ausrollen</step>
+      <step>In einer heissen Pfanne backen, bis die Oberseite Blasen wirft</step>
+      <step>Kurz auf der anderen Seite backen</step>
+    </directions>
+	<tags>
+		<tag>indisch</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

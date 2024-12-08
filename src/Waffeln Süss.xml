@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Waffeln Süss</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>6</qty> <unit></unit> <item>Eier</item> </ing>
+    <ing> <qty>120</qty> <unit>g</unit> <item>Butter, weich</item> </ing>
+    <ing> <qty>150</qty> <unit>g</unit> <item>Zucker</item> </ing>
+    <ing> <qty>1</qty> <unit>Pck</unit> <item>Vanillezucker</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Mehl</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Eiweiss und Eigelb trennen</step>
+      <step>Eiweiss steif schlagen</step>
+      <step>Eigelb, Butter, Zucker, Vanillezucker, Sahne vermischen</step>
+      <step>Mehl hinzufügen</step>
+      <step>Eischnee unterheben</step>
+      <step>Teig im Waffeleisen ausbacken und mit Puderzucker betäuben</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

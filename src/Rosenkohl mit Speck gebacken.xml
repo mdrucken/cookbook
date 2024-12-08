@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Rosenkohl mit Speck gebacken</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>500</qty> <unit>g</unit> <item>Rosenkohl</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Speckwürfel</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>100</qty> <unit>ml</unit> <item>Sahne</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Senf, grob</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Honig</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Petersilie</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Rosenkohl waschen und äussere Blätter entfernen</step>
+      <step>Rosenkohl mit Olivenöl, Salz und Pfeffer in einer Schüssel mischen und auf einem Blech verteilen. Speckwürfel darüber streuen.</step>
+      <step>25 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>
+      <step>Knoblauch fein hacken. Sahne im Topf erhitzen und Senf, Honig, Knoblauch, Zitronensaft hinzu geben.</step>
+      <step>Sosse eindicken lassen und mit Salz und Pfeffer abschmecken.</step>
+      <step>Rosenkohl mit Senfsosse und gehackter Petersilie servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

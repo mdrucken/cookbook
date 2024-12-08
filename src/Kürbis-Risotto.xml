@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kürbis-Risotto</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Hokkaido Kürbis</item> </ing>
+    <ing> <qty>5</qty> <unit>EL</unit> <item>Olivenöl</item> </ing>
+    <ing> <qty>1-2</qty> <unit>TL</unit> <item>Paprika, edelsüss</item> </ing>
+    <ing> <qty>1</qty> <unit>TL</unit> <item>Kreuzkümmel, gemahlen</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>2</qty> <unit>Stk</unit> <item>Schalotten</item> </ing>
+    <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>200</qty> <unit>g</unit> <item>Reis, Risotto</item> </ing>
+    <ing> <qty>1</qty> <unit>l</unit> <item>Gemüsebrühe</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Weisswein, trocken</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Parmesan</item> </ing>
+    <ing> <qty>0.5</qty> <unit>Bund</unit> <item>Koriander</item> </ing>
+    <ing> <qty>1</qty> <unit>Stk</unit> <item>Zitrone, bio</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Kürbis würfeln, in einer großen Schüssel mit 3 EL Olivenöl, Paprika und Kreuzkümmel mischen, mit Salz und Pfeffer würzen. Im Backofen bei 175 Grad Umluft 25-30 Minuten backen.</step>
+      <step>Schalotten und Knoblauch schälen und fein hacken. Restliches Öl in einem Topf erhitzen, Schalotten und Knoblauch darin bei schwacher Hitze glasig dünsten. Reis zufügen, kurz anschwitzen. Nach und nach Brühe und Wein zugießen, dabei ab und zu umrühren. Nächste Portion Flüssigkeit immer erst zugießen, wenn der Reis die Flüssigkeit aufgenommen hat. Insgesamt 30–35 Minuten garen.</step>
+      <step>Parmesan grob reiben. Koriander waschen und trocken schütteln, Blätter abzupfen. Zitrone heiß abwaschen, trocken reiben und in Spalten schneiden.</step>
+      <step>Kürbis, bis auf ein paar Würfel zum Garnieren, zum Risotto geben, unterrühren und erhitzen. Vom Herd nehmen, Butter und Parmesan unterrühren und mit Salz und Pfeffer abschmecken. Kürbisrisotto in tiefen Tellern anrichten und mit Koriander, Zitrone, übrigem Kürbis und frisch gemahlenem Pfeffer garnieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Mango-Lassi</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Mango</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Zitronensaft</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Joghurt, Natur</item> </ing>
+    <ing> <qty>150</qty> <unit>ml</unit> <item>Milch</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Kardamom</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Zimt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Ingwer</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Nelken</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Safran</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Minze</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Mango schälen und würfeln.</step>
+      <step>Mango Würfel mit Zitronensaft, Joghurt, Milch in einen Mixer geben und cremig mixen.</step>
+      <step>Nach Belieben Gewürze zugeben.</step>
+    </directions>
+	<tags>
+		<tag>indisch</tag>
+	</tags>
+  </recipe>
+</recipeml>
+

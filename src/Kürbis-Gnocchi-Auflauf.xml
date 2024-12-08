@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Kürbis-Gnocchi-Auflauf</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1</qty> <unit>Stk</unit> <item>Zwiebel, fein gehackt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Öl</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Hackfleisch, gemischt</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Salz</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Pfeffer</item> </ing>
+    <ing> <qty>1</qty> <unit></unit> <item>Currypulver</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Chilipulver</item> </ing>
+    <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Tomatenmark</item> </ing>
+    <ing> <qty>250</qty> <unit>g</unit> <item>Gemüsebrühe</item> </ing>
+    <ing> <qty>300</qty> <unit>g</unit> <item>Hokkaido Kürbis</item> </ing>
+    <ing> <qty>100</qty> <unit>g</unit> <item>Schmand</item> </ing>
+    <ing> <qty></qty> <unit></unit> <item>Basilikum, gehackt</item> </ing>
+    <ing> <qty>500</qty> <unit>g</unit> <item>Gnocchi</item> </ing>
+    <ing> <qty>1</qty> <unit>Kugel</unit> <item>Mozarella</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Zwiebeln anschwitzen, Hackfleisch zugeben und krümelig anbraten.</step>
+      <step>Mit Salz, Pfeffer, Currypulver, Chilipulver, Knoblauch abschmecken.</step>
+      <step>Tomatenmark zugeben und kurz mit rösten.</step>
+      <step>Gemüsebrühe und Kürbis Würfel zugeben, 5 Minuten mit dünsten.</step>
+      <step>Schmand, Basilikum, Gnocchi zugeben und gut vermischen.</step>
+      <step>In eine Auflaufform geben und Mozarella darüber verteilen.</step>
+      <step>15 Minuten bei 200 Grad Ober-/Unterhitze backen.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

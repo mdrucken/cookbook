@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="rezept.xsl"?>
+<recipeml version="0.5">
+  <recipe>
+    <head>
+      <title>Blattspinat</title>
+    </head>    
+    <yield>
+		<qty>1</qty>
+		<unit>Person</unit>
+	</yield>
+    <ingredients>
+	  <ing> <qty>1.5</qty> <unit>kg</unit> <item>Blattspinat</item> </ing>
+    <ing> <qty>2</qty> <unit>EL</unit> <item>Butter</item> </ing>
+    <ing> <qty>1</qty> <unit>Zehe</unit> <item>Knoblauch</item> </ing>
+    <ing> <qty>0.25</qty> <unit>TL</unit> <item>Muskat</item> </ing>
+    <ing> <qty>80</qty> <unit>g</unit> <item>Sahne</item> </ing>
+    <ing> <qty>1</qty> <unit>EL</unit> <item>Parmesan</item> </ing>
+    </ingredients>
+    <directions>
+      <step>Den Blattspinat in einem Sieb waschen und säubern. Die harten Stiele entfernen. Den Knoblauch schälen und eine Zehe durch eine Knoblauchpresse drücken. Den Parmesan fein reiben.</step>
+      <step>Eine große Pfanne erhitzen und die Butter darin zerlassen. Den Knoblauch darin 2 Minuten anbraten und dann den Spinat hinzufügen. Die geriebene Muskatnuss hinzufügen und unterrühren. Mit Salz und Pfeffer würzen und gut verrühren. Noch 2 Minuten braten lassen und dann die Masse auf ein Brett legen. Etwas abkühlen lassen und mit einem großem Messer in feine Stücke hacken.</step>
+      <step>Die Sahne in die Pfanne leeren und etwas salzen. Kurz aufkochen lassen und die Spinat Mischung wieder in die Pfanne geben. Unter ständigem Rühren erwärmen aber nicht erneut kochen lassen. Appetitlich auf Teller anrichten, mit dem frisch geriebenem Parmesan bestreuen und warm servieren.</step>
+    </directions>
+	<tags>
+		<tag></tag>
+	</tags>
+  </recipe>
+</recipeml>
+

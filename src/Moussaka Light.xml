@@ -19,10 +19,10 @@
     <ing> <qty>2</qty> <unit></unit> <item>Knoblauchzehen</item> </ing>
     <ing> <qty>1-2</qty> <unit></unit> <item>Bund Petersilie</item> </ing>
     <ing> <qty></qty> <unit></unit> <item>Oliven</item> </ing>
-    <ing> <qty>1</qty> <unit></unit> <item>Rinderhack</item> </ing>
-    <ing> <qty>60</qty> <unit></unit> <item>Semmelbrösel</item> </ing>
-    <ing> <qty>70</qty> <unit></unit> <item>Kefalotiri oder Parmesan, gerieben</item> </ing>
-    <ing> <qty>40-50</qty> <unit></unit> <item>Butter, zum Belegen</item> </ing>
+    <ing> <qty>1</qty> <unit>kg</unit> <item>Rinderhack</item> </ing>
+    <ing> <qty>60</qty> <unit>g</unit> <item>Semmelbrösel</item> </ing>
+    <ing> <qty>70</qty> <unit>g</unit> <item>Kefalotiri oder Parmesan, gerieben</item> </ing>
+    <ing> <qty>40-50</qty> <unit>g</unit> <item>Butter, zum Belegen</item> </ing>
     </ingredients>
     <directions>
       <step>Auberginen in 5mm dicke Scheiben schneiden.</step>
